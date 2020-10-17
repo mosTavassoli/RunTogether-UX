@@ -1,4 +1,4 @@
-# Milestone 1: Project description and Needfinding: [Insert Project Name]
+# Milestone 1: Project description and Needfinding: [RunTogether]
 
 _ISTRUCTIONS_: Fill this template by writing under each title, according to the instructions reported in `[]`. When you have done, remove this line and the istructions in `[]`, and put the file in your private group repository on GitHub, under a `M1` folder.
 
