@@ -31,6 +31,7 @@ _ISTRUCTIONS_: Fill this template by writing under each title, according to the 
 - What motivates you to go running? And are there moments that even you struggle to overcome?
 - What do you think about training and competitions?
 - For you, running is like…?
+
 ...
 - Which is your first priority for running : with a group or alone ?
 - What do you appreciate about running with someone and what not?
