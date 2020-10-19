@@ -30,6 +30,7 @@ _ISTRUCTIONS_: Fill this template by writing under each title, according to the 
 - How have you invested in your knowledge of running?
 - What motivates you to go running? And are there moments that even you struggle to overcome?
 - What do you think about training and competitions?
+- How do you feel when you reach the goals you desired to be done during your sport activity?
 - For you, running is like…?
 
 ...
@@ -39,6 +40,7 @@ _ISTRUCTIONS_: Fill this template by writing under each title, according to the 
 - Do you get motivated after running with someone to continue running? why ?
 - Do you have the same goals with your peer runner for running ?
 - Do you choose running as a hobby without a certain plan or as a sport to reach a certian level ?
+- Do you perefer running with some one who is professional or not?
 - I keep motivated for running by ...
 
 ## User Needs
