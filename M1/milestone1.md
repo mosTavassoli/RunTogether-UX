@@ -31,6 +31,14 @@ _ISTRUCTIONS_: Fill this template by writing under each title, according to the 
 - What motivates you to go running? And are there moments that even you struggle to overcome?
 - What do you think about training and competitions?
 - For you, running is like…?
+...
+- Which is your first priority for running : with a group or alone ?
+- What do you appreciate about running with someone and what not?
+- Tell me one of your best or worst experience of running with someone. 
+- Do you get motivated after running with someone to continue running? why ?
+- Do you have the same goals with your peer runner for running ?
+- Do you choose running as a hobby without a certain plan or as a sport to reach a certian level ?
+- I keep motivated for running by ...
 
 ## User Needs
 
