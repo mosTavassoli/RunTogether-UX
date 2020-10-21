@@ -7,7 +7,7 @@ _ISTRUCTIONS_: Fill this template by writing under each title, according to the 
 - what: ???
 - Who: a group of (3-4) Amateur runners (alone Or part of Group) / Coach / Trainers
 - Where: at the Park, University Campus, Athletic Track (at the Stadium), at the street
-- When: before running (15 Minutes), during the activity by joining to its Group
+- When: before running (10 Minutes), during the activity by joining to its Group (10 Minutes), After running (5 Minutes)
 - How: Join the Group as a runner, see what they do
 
 ## Observation
@@ -17,31 +17,20 @@ _ISTRUCTIONS_: Fill this template by writing under each title, according to the 
 ### Interviews
 
 - How is your typical running activity?
-- How do you feel about your running activity?
 - What is the motivation behind taking on this activity?
-- What were the main reasons you chose this activity?
+- Which is your first priority for running : with a group or alone ? Why?
+  - (Ask in case of Group) Do you prefer running with some one who is professional or not?
 - Can you tell me some good and bad stories concerning running in a group/alone?
+- What do you appreciate about running in Group / alone and what not?
 - How would you describe your experience in terms of running in a Group / alone?
   - How do you interact with other runners?
-  - How do you feel about your current situation?
-- How will you measure your progress related to the chosen training plan?
-  - What else do you need to do to improve your progress?
-- How do you stay motivated when you don’t want to run?
-- How have you invested in your knowledge of running?
-- What motivates you to go running? And are there moments that even you struggle to overcome?
-- What do you think about training and competitions?
-- How do you feel when you reach the goals you desired to be done during your sport activity?
-- For you, running is like…?
-
-...
-- Which is your first priority for running : with a group or alone ?
-- What do you appreciate about running with someone and what not?
-- Tell me one of your best or worst experience of running with someone. 
+  - How do you feel about your current state of running (Group / alone)?
+- What do you do when you feel unmotivated for running?
 - Do you get motivated after running with someone to continue running? why ?
-- Do you have the same goals with your peer runner for running ?
-- Do you choose running as a hobby without a certain plan or as a sport to reach a certian level ?
-- Do you perefer running with some one who is professional or not?
-- I keep motivated for running by ...
+- What do you think about joining to run club and partcipation in competitions?
+- How do you feel when you reach the goals you desired to be done during your sport activity?
+- For you, running is like...?
+- I keep motivated for running by...
 
 ## User Needs
 
