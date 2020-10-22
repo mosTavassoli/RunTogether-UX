@@ -23,9 +23,9 @@ _ISTRUCTIONS_: Fill this template by writing under each title, according to the 
 - Can you tell me some good and bad stories concerning running in a group/alone?
 - What do you appreciate about running in Group / alone and what not?
 - How would you describe your experience in terms of running in a Group / alone?
-  - How do you interact with other runners?
+  - (Ask in case of Group) How do you interact with other runners?
   - How do you feel about your current state of running (Group / alone)?
-- What do you do when you feel unmotivated for running?
+- Have you ever felt unmotivated for running? If yes what would you do?
 - Do you get motivated after running with someone to continue running? why ?
 - What do you think about joining to run club and partcipation in competitions?
 - How do you feel when you reach the goals you desired to be done during your sport activity?
