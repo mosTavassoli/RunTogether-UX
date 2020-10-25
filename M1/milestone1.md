@@ -15,22 +15,20 @@ _ISTRUCTIONS_: Fill this template by writing under each title, according to the 
 [Thorough descriptions of your observations for each of the 3-4 people observed. You must include at least *three* photos (or sketches) of a issue or opportunity that stemmed from your observations: ideally, one photo/sketch for each person you observed. Each photo/sketch *must* have a caption that highlights the issue or opportunity observed. Put the photos/sketches in the same `M1` folder of your group repository.]
 
   <img src="observe%20(1).jpg" width="350" alt="accessibility text">
-  The group of runners doing exercises before running together.
-  
-  
-  
+- The group of runners doing exercises before running together.
+
+   
   <img src="observe%20(2).jpg" width="350" alt="accessibility text">
-  Two frineds that know each other has same pace speed for running.
-  
-  
-  
+- Two frineds that know each other has same pace speed for running.
+
+     
   <img src="observe%20(3).jpg" width="350" alt="accessibility text">
-  A person who was late, start to warming up and the group has started running.
+- A person who was late, start to warming up and the group has started running.
   
-  
-  
+    
   <img src="observe%20(4).jpg" width="350" alt="accessibility text">
-  Old person who has slow pace is out of running group.
+- Old person who has slow pace is out of running group.
+
 
 ### Interviews
 
