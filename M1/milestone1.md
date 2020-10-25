@@ -17,11 +17,14 @@ _ISTRUCTIONS_: Fill this template by writing under each title, according to the 
   <img src="observe%20(1).jpg" width="350" alt="accessibility text">
   caption: The group of runners doing exercises before running together.
   
+  
   <img src="observe%20(2).jpg" width="350" alt="accessibility text">
   caption: Two frineds that know each other has same pace speed for running.
   
+  
   <img src="observe%20(3).jpg" width="350" alt="accessibility text">
   caption: A person who was late, start to warming up and the group has started running.
+  
   
   <img src="observe%20(4).jpg" width="350" alt="accessibility text">
   caption : Old person who has slow pace is out of running group.
