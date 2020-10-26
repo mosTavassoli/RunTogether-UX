@@ -32,10 +32,10 @@ _ISTRUCTIONS_: Fill this template by writing under each title, according to the 
  <img src="observe6.jpg" width="350" alt="accessibility text"> 
 - A man was running with his dog and he enjoyed it.
 
- <img src="observe7.jpg" width="350" alt="accessibility text"/> 
-- A woman was calling her friend to join her for running.
+ <img src="observe7.jpg" width="350" alt="accessibility text"> 
+<em> - A woman was calling her friend to join her for running.</em>
 
- <img src="observe8.jpg" width="350" alt="accessibility text"/>
+ <img src="observe8.jpg" width="350" alt="accessibility text">
 - The man was tired of running and he was walking slowly.
 
  <img src="observe9.jpg" width="350" alt="accessibility text">
