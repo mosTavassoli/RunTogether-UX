@@ -25,37 +25,37 @@
 </p>
 
 <p align="center">
-  <img alt="images/img-name" src="observe%20(3).jpg" width="350">
+  <img alt="images/observe%20(3)" src="images/observe%20(3).jpg" width="350">
   <br>
     <em> A person who was late, start to warming up and the group has started running.</em>
 </p>
     
 <p align="center">
-  <img alt="images/img-name" src="observe%20(4).jpg" width="350">
+  <img alt="images/observe%20(4)" src="images/observe%20(4).jpg" width="350">
   <br>
     <em> Old person who has slow pace is out of running group.</em>
 </p>
 
  <p align="center">
-  <img alt="images/img-name" src="observe6.jpg" width="350">
+  <img alt="images/observe5" src="images/observe6.jpg" width="350">
   <br>
     <em>A man was running with his dog and he enjoyed it.</em>
 </p>
 
 <p align="center">
-  <img alt="images/img-name" src="observe7.jpg" width="350">
+  <img alt="images/observe7" src="images/observe7.jpg" width="350">
   <br>
     <em> A woman was calling her friend to join her for running.</em>
 </p>
  
 <p align="center">
-  <img alt="images/img-name" src="observe8.jpg" width="350">
+  <img alt="images/observe8" src="images/observe8.jpg" width="350">
   <br>
     <em> The man was tired of running and he was walking slowly.</em>
 </p>
  
  <p align="center">
-  <img alt="images/img-name" src="observe9.jpg" width="350">
+  <img alt="images/observe9" src="images/observe9.jpg" width="350">
   <br>
     <em> A woman tried to run near the slow man , suddenly the man started to run faster.</em>
 </p>
