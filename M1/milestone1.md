@@ -87,7 +87,7 @@ Based on my observaitons and images I came to these needs :
 1- The runners need a group to join for following same plan, since some people become unmotivated if they run lonely, the group helps them to feel motivated (based on the picture1)
 
 
-2- Davide and Marco are friends together and usually they run together after the work and at the weekends, they are in the same level(pace,duration) (based on the picture2)
+2- Davide and Marco are friends together and usually they run together after the work and at the weekends, they are in the same level(pace,duration), it is needed to find someone who is in the same age, level and your week schedule.  (based on the picture2)
 
 
 3- Needs to be able to find the current location of the running track for the runner who is is detached from the group because of arriving late. 
