@@ -45,19 +45,19 @@
 <p align="center">
   <img alt="images/observe7" src="images/observe7.jpg" width="350">
   <br>
-    <em> A woman was calling her friend to join her for running.</em>
+    <em> Lisa is an amature runner , every time before running she calls her friends to join her but this time she could not find them in the park.</em>
 </p>
  
 <p align="center">
   <img alt="images/observe8" src="images/observe8.jpg" width="350">
   <br>
-    <em> The man was tired of running and he was walking slowly.</em>
+    <em> Roberto is a retired man , he some times runs in the park. in this picture he was tired of running and he looked unmotivated. </em>
 </p>
  
  <p align="center">
   <img alt="images/observe9" src="images/observe9.jpg" width="350">
   <br>
-    <em> A woman tried to run near the slow man , suddenly the man started to run faster.</em>
+    <em> Suddenly a woman wanted to pass near Roberto , he felt like he was in competition and he started to run faster.</em> 
 </p>
 
 ### Interviews
@@ -91,6 +91,10 @@ Based on my observaitons and images I came to these needs :
 
 
 3- Needs to be able to find the current location of the running track for the runner who is is detached from the group because of arriving late. 
+
+4. Lisa was the woman who was looking for her friend to join her , it is needed for her to use a platform which let her find the location of the running group.
+
+5. Roberto was the retired man in the pictures, for being motivated he said it is a good idea for him to take part in a competition with another person with the same level.
 
 
 ## Project Description
