@@ -82,9 +82,10 @@
 // Mostafa // ----------
 
 According to the observations, the following needs are concluded:
-1- the majority of runners prefer running or jogging activity with the other runners, especially those having the same preferences. Like John, the senior citizen; express his interest in running with others, but he has to do it alone. Therefore, their specific requirements would be joining the group based on their qualifications.
-2- Some runners like Davron; have been kept motivated by listening to their favorite music and also trying to stay motivated by getting the new running path for future activity.
-3- Some specific requirements would be probable met by providing the weather condition in advance or the possibility of sharing each others' tips and stuff.
+
+- the majority of runners prefer running or jogging activity with the other runners, especially those having the same preferences. Like John, the senior citizen; express his interest in running with others, but he has to do it alone. Therefore, their specific requirements would be joining the group based on their qualifications.
+- Some runners like Davron; have been kept motivated by listening to their favorite music and also trying to stay motivated by getting the new running path for future activity.
+- Some specific requirements would be probable met by providing the weather condition in advance or the possibility of sharing each others' tips and stuff.
 
 // ---------------
 
