@@ -90,7 +90,7 @@ According to the observations, the following needs are concluded:
 // ---------------
 
 // Edition of observation //--------------------
-- some runners had the problem of preparing the best outfit for sport, As an example Roberto said he wants an application to suggest him the appropriate product in addition to show him a plan for running.
+- some runners had the problem of preparing the best outfit for sport, As an example Roberto said he wants suggestions for the appropriate product in addition to show him a plan for running.
 - most of the interviewee insisted on the need to have a plan or schedule for running which could keep them forward and motivated for the next run.
 
 //----------------------------------------------------
