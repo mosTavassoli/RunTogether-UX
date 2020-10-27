@@ -79,6 +79,8 @@
 
 ## User Needs
 
+[Write down the results: list here the 5-6 user needs you identified.]
+
 // Mostafa // ----------
 
 According to the observations, the following needs are concluded:
