@@ -15,19 +15,19 @@
 <p align="center"> 
   <img src="images/observe%20(1).jpg" width="350" alt="accessibility text">
   <br>
-<em>The group of runners doing exercises before running together.</em>
+<em>The group of a running club who has same plan for running are doing warm-up exercises before running.</em>
 </p>
 
   <p align="center"> 
   <img src="images/observe%20(2).jpg" width="350" alt="accessibility text">
   <br>
-  <em> Two frineds that know each other has same pace speed for running.</em>
+  <em> Two friends have same speed and they match well together for running, they are motivated because they are in the same level.</em>
 </p>
 
 <p align="center">
   <img alt="images/observe%20(3)" src="images/observe%20(3).jpg" width="350">
   <br>
-    <em> A person who was late, start to warming up and the group has started running.</em>
+    <em> A member of the running group reached late and he did not know the current location of the group in the park, so he started to doing warming exercises lonely and lost the group.</em>
 </p>
     
 <p align="center">
