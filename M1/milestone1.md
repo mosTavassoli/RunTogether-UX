@@ -57,7 +57,7 @@
  <p align="center">
   <img alt="images/observe9" src="images/observe9.jpg" width="350">
   <br>
-    <em> Suddenly a woman wanted to pass near Roberto , he felt like he was in competition and he started to run faster.</em> 
+    <em> Suddenly a woman wanted to pass near Roberto , he felt like he was in a competition and he started to run faster.</em> 
 </p>
 
 ### Interviews
