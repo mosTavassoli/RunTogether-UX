@@ -82,6 +82,12 @@
 
 [Write down the results: list here the 5-6 user needs you identified.]
 
+Based on my observaitons and images I came to these needs : 
+
+1- The Runners need a group to join for following same plan to keep motivated (based on the picture1)
+2- The group members  need to be in the same level (same pace,duration) (based on the picture2)
+3- Finding the current location of the running track is needed for the runner who is detached from the group. (based on the picture3)
+
 ## Project Description
 
 [A short paragraph (2-4 sentences) that describes how your project would address one (or two) deep user needs, by including your personal take on suitable strategies to adopt. Mention here the target device(s) (e.g., smartphone, tablet, smart watch, etc.).]
