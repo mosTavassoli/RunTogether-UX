@@ -85,8 +85,11 @@
 Based on my observaitons and images I came to these needs : 
 
 1- The Runners need a group to join for following same plan to keep motivated (based on the picture1)
+
 2- The group members  need to be in the same level (same pace,duration) (based on the picture2)
+
 3- Finding the current location of the running track is needed for the runner who is detached from the group. (based on the picture3)
+
 
 ## Project Description
 
