@@ -45,7 +45,7 @@
 <p align="center">
   <img alt="images/observe7" src="images/observe7.jpg" width="350">
   <br>
-    <em> Lisa is an amature runner , every time before running she calls her friends to join her but this time she could not find them in the park.</em>
+    <em> Lisa is an amateure runner , every time before running she calls her friends to join her but this time she could not find them in the park.</em>
 </p>
  
 <p align="center">
@@ -57,7 +57,7 @@
  <p align="center">
   <img alt="images/observe9" src="images/observe9.jpg" width="350">
   <br>
-    <em> Suddenly a woman wanted to pass near Roberto , he felt like he was in competition and he started to run faster.</em> 
+    <em> Suddenly a woman wanted to pass near Roberto , he felt like he was in a competition and he started to run faster.</em> 
 </p>
 
 ### Interviews
