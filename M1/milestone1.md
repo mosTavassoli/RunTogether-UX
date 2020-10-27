@@ -33,7 +33,7 @@
 <p align="center">
   <img alt="images/observe%20(4)" src="images/observe%20(4).jpg" width="350">
   <br>
-    <em> Old person who has slow pace is out of running group.</em>
+    <em>The difficulty of finding the proper group in terms of pace, duration of running, and age, there is no choice for the elder citizen except went jogging alone without being accompanied by other runners. </em>
 </p>
 
  <p align="center">
@@ -82,20 +82,17 @@
 
 [Write down the results: list here the 5-6 user needs you identified.]
 
-Based on my observaitons and images I came to these needs : 
+Based on my observaitons and images I came to these needs :
 
 1- The runners need a group to join for following same plan, since some people become unmotivated if they run lonely, the group helps them to feel motivated (based on the picture1)
 
+2- Davide and Marco are friends together and usually they run together after the work and at the weekends, they are in the same level(pace,duration), it is needed to find someone who is in the same age, level and your week schedule. (based on the picture2)
 
-2- Davide and Marco are friends together and usually they run together after the work and at the weekends, they are in the same level(pace,duration), it is needed to find someone who is in the same age, level and your week schedule.  (based on the picture2)
-
-
-3- Needs to be able to find the current location of the running track for the runner who is is detached from the group because of arriving late. 
+3- Needs to be able to find the current location of the running track for the runner who is is detached from the group because of arriving late.
 
 4- Lisa was the woman who was looking for her friend to join her , it is needed for her to use a platform which let her find the location of the running group.
 
 5- Roberto was the retired man in the pictures, for being motivated he said it is a good idea for him to take part in a competition with another person with the same level.
-
 
 ## Project Description
 
