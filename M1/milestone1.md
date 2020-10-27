@@ -10,55 +10,54 @@
 
 ## Observation
 
-[Thorough descriptions of your observations for each of the 3-4 people observed. You must include at least *three* photos (or sketches) of a issue or opportunity that stemmed from your observations: ideally, one photo/sketch for each person you observed. Each photo/sketch *must* have a caption that highlights the issue or opportunity observed. Put the photos/sketches in the same `M1` folder of your group repository.]
-
 <p align="center"> 
   <img src="images/observe%20(1).jpg" width="350" alt="accessibility text">
   <br>
 <em>The group of a running club who has same plan for running are doing warm-up exercises before running.</em>
 </p>
-
+<hr/>
   <p align="center"> 
   <img src="images/observe%20(2).jpg" width="350" alt="accessibility text">
   <br>
   <em> Two friends have same speed and they match well together for running, they are motivated because they are in the same level.</em>
 </p>
-
+<hr/>
 <p align="center">
   <img alt="images/observe%20(3)" src="images/observe%20(3).jpg" width="350">
   <br>
     <em> A member of the running group reached late and he did not know the current location of the group in the park, so he started to doing warming exercises lonely and lost the group.</em>
 </p>
-    
+  <hr/>  
 <p align="center">
   <img alt="images/observe%20(4)" src="images/observe%20(4).jpg" width="350">
   <br>
     <em>The difficulty of finding the proper group in terms of pace, duration of running, and age, there is no choice for the elder citizen except went jogging alone without being accompanied by other runners. </em>
 </p>
-
+<hr/>
  <p align="center">
   <img alt="images/observe5" src="images/observe6.jpg" width="350">
   <br>
     <em>For this solo person running alone with the dog, including listening to her favorite music during this activity, is the vital source of motivation.</em>
 </p>
-
+<hr/>
 <p align="center">
   <img alt="images/observe7" src="images/observe7.jpg" width="350">
   <br>
     <em> Lisa is an amateure runner , every time before running she calls her friends to join her but this time she could not find them in the park.</em>
 </p>
- 
+ <hr/>
 <p align="center">
   <img alt="images/observe8" src="images/observe8.jpg" width="350">
   <br>
     <em> Roberto is a retired man , he some times runs in the park. in this picture he was tired of running and he looked unmotivated. </em>
 </p>
- 
+ <hr/>
  <p align="center">
   <img alt="images/observe9" src="images/observe9.jpg" width="350">
   <br>
     <em> Suddenly a woman wanted to pass near Roberto , he felt like he was in a competition and he started to run faster.</em> 
 </p>
+<hr/>
 
 ### Interviews
 
