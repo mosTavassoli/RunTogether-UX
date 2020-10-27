@@ -45,7 +45,7 @@
 <p align="center">
   <img alt="images/observe7" src="images/observe7.jpg" width="350">
   <br>
-    <em> Lisa is an amature runner , every time before running she calls her friends to join her but this time she could not find them in the park.</em>
+    <em> Lisa is an amateure runner , every time before running she calls her friends to join her but this time she could not find them in the park.</em>
 </p>
  
 <p align="center">
