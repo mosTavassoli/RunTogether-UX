@@ -39,7 +39,7 @@
  <p align="center">
   <img alt="images/observe5" src="images/observe6.jpg" width="350">
   <br>
-    <em>A man was running with his dog and he enjoyed it.</em>
+    <em>For this solo person running alone with the dog, including listening to her favorite music during this activity, is the vital source of motivation.</em>
 </p>
 
 <p align="center">
