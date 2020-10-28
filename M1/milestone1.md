@@ -106,7 +106,7 @@ According to the observations, the following needs are concluded:
 
 <!-- [A short paragraph (2-4 sentences) that describes how your project would address one (or two) deep user needs, by including your personal take on suitable strategies to adopt. Mention here the target device(s) (e.g., smartphone, tablet, smart watch, etc.).] -->
 
-Two major needs would consider in this project:
+Two essential needs would be considered addressing in this project:
 
 - joining the running group
 - offering training plan
