@@ -1,4 +1,4 @@
-# Milestone 1: Project description and Needfinding: [RunTogether]
+# Milestone 1: Project description and Needfinding: RunTogether
 
 ## Overview and planning
 
