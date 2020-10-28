@@ -104,17 +104,11 @@ According to the observations, the following needs are concluded:
 
 ## Project Description
 
-[A short paragraph (2-4 sentences) that describes how your project would address one (or two) deep user needs, by including your personal take on suitable strategies to adopt. Mention here the target device(s) (e.g., smartphone, tablet, smart watch, etc.).]
+<!-- [A short paragraph (2-4 sentences) that describes how your project would address one (or two) deep user needs, by including your personal take on suitable strategies to adopt. Mention here the target device(s) (e.g., smartphone, tablet, smart watch, etc.).] -->
 
-deep needs :
+Two major needs would consider in this project:
 
-- joining to the running Group
-- Training plan
-Group running is one of the most vital requirements, leading to continuous self-motivation among runners, which will deal with by asking some basic questions from runners at the first to understand their specifications, coming with a suitable running club or group to join. Moreover; running in a group requires training plans; addressing by offering suitable ones to the participants based on their objectives achieved by questions asked. These requirements meet through the smartphone as the frequent device among runners.
----
-Running with a group is the most essential need of the runners to keep motivated and stick to their training plan. To meet their needs the best target device is smart watch for runners since it is the most convenient device during running.
+- joining the running group
+- offering training plan
 
-///only a comment for what Mostafa wrote ////
-lets edit this part into this:
-running in a group requires training plans; addressing by the possibility to observe their process during the time and offering suitable programs to the participants based on their objectives achieved by questions asked.
-
+Group running is one of the most vital requirements, leading to continuous self-motivation among runners, which will deal with by asking some basic questions from runners at the first to understand their specifications, coming with a suitable running club or group to join. Besides, running in a group requires training plans, addressing by the possibility of process observation during the time, followed by offering a proper schedule of running to the participants based on their objectives achieved by questions asked. These requirements meet through the smartphone as the frequent device among runners.
