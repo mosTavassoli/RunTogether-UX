@@ -111,4 +111,4 @@ deep needs :
 - joining to the running Group
 - Training plan
 
-Group running is one of the most vital requirements, leading to continuous self-motivation among runners, which will deal with by asking some basic questions from runners at the first to understand their specifications, coming with a suitable running club or group to join. Moreover; running in a group requires training plans; addressing by offering suitable ones to the participants based on their objectives achieved by questions asked. These requirements meet through the smartphone as the frequent device among people.
+Group running is one of the most vital requirements, leading to continuous self-motivation among runners, which will deal with by asking some basic questions from runners at the first to understand their specifications, coming with a suitable running club or group to join. Moreover; running in a group requires training plans; addressing by offering suitable ones to the participants based on their objectives achieved by questions asked. These requirements meet through the smartphone as the frequent device among runners.
