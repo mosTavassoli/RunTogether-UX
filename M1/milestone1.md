@@ -79,7 +79,7 @@
 
 ## User Needs
 
-[Write down the results: list here the 5-6 user needs you identified.]
+<!-- [Write down the results: list here the 5-6 user needs you identified.] -->
 
 According to the observations, the following needs are concluded:
 
@@ -87,11 +87,12 @@ According to the observations, the following needs are concluded:
 - Some runners like Davron; have been kept motivated by listening to their favorite musics and also trying to stay motivated by getting the new running path for future activity.
 - Some specific requirements would be probable met by providing the weather condition in advance or the possibility of sharing each others' tips and stuff.
 - some runners had the problem of preparing the best outfit for sport, As an example Roberto said he wants suggestions for the appropriate product in addition to show him a plan for running.
+- Most of the interviewees emphasized the possibility of having a training plan or schedule; lead to keeping motivated; like Roberto a retired man; take part in a competition with another person with the same level is the main goal using a proper running plan.
 
 <!-- join together [TODO] -->
 
-- most of the interviewee insisted on the need to have a plan or schedule for running which could keep them forward and motivated for the next run.
-- Roberto was the retired man in the pictures, for being motivated he said it is a good idea for him to take part in a competition with another person with the same level.
+<!-- - most of the interviewee insisted on the need to have a plan or schedule for running which could keep them forward and motivated for the next run.
+- Roberto was the retired man in the pictures, for being motivated he said it is a good idea for him to take part in a competition with another person with the same level. -->
 
 <!-- 1- The runners need a group to join for following same plan, since some people become unmotivated if they run lonely, the group helps them to feel motivated (based on the picture1) -->
 
