@@ -3,7 +3,7 @@
 ## Overview and planning
 
 - What: activities including jogging and running
-- Who: a group of (3-4) amateur runners (alone or part of Group) and Trainers
+- Who: a group of (3-4) amateur runners (alone or part of group) and Trainers
 - Where: at the park
 - When: before running (10 Minutes), during the activity by joining to the group (10 Minutes)
 - How: join the group as a runner, see what they do
