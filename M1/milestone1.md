@@ -3,9 +3,9 @@
 ## Overview and planning
 
 - what: ???
-- Who: a group of (3-4) Amateur runners (alone Or part of Group) / Coach / Trainers
-- Where: at the Park, University Campus, Athletic Track (at the Stadium), at the street
-- When: before running (10 Minutes), during the activity by joining to its Group (10 Minutes), After running (5 Minutes)
+- Who: a group of (3-4) Amateur runners (alone Or part of Group) / Trainers
+- Where: at the Park
+- When: before running (10 Minutes), during the activity by joining to its Group (10 Minutes)
 - How: Join the Group as a runner, see what they do
 
 ## Observation
@@ -81,34 +81,31 @@
 
 [Write down the results: list here the 5-6 user needs you identified.]
 
-// Mostafa // ----------
-
 According to the observations, the following needs are concluded:
 
 - the majority of runners prefer running or jogging activity with the other runners, especially those having the same preferences. Like John, the senior citizen; expresess his interest in running with others, but he has to do it alone. Therefore, their specific requirements would be joining the group based on their qualifications.
-- Some runners like Davron; have been kept motivated by listening to their favorite music and also trying to stay motivated by getting the new running path for future activity.
+- Some runners like Davron; have been kept motivated by listening to their favorite musics and also trying to stay motivated by getting the new running path for future activity.
 - Some specific requirements would be probable met by providing the weather condition in advance or the possibility of sharing each others' tips and stuff.
-
-// ---------------
-
-// Edition of observation //--------------------
 - some runners had the problem of preparing the best outfit for sport, As an example Roberto said he wants suggestions for the appropriate product in addition to show him a plan for running.
+
+<!-- join together [TODO] -->
+
 - most of the interviewee insisted on the need to have a plan or schedule for running which could keep them forward and motivated for the next run.
+- Roberto was the retired man in the pictures, for being motivated he said it is a good idea for him to take part in a competition with another person with the same level.
 
-//----------------------------------------------------
+<!-- 1- The runners need a group to join for following same plan, since some people become unmotivated if they run lonely, the group helps them to feel motivated (based on the picture1) -->
 
-Based on my observaitons and images I came to these needs :
+<!-- 2- Davide and Marco are friends together and usually they run together after the work and at the weekends, they are in the same level(pace,duration), it is needed to find someone who is in the same age, level and your week schedule. (based on the picture2) -->
 
-1- The runners need a group to join for following same plan, since some people become unmotivated if they run lonely, the group helps them to feel motivated (based on the picture1)
+<!-- 3- Needs to be able to find the current location of the running track for the runner who is is detached from the group because of arriving late.
 
-2- Davide and Marco are friends together and usually they run together after the work and at the weekends, they are in the same level(pace,duration), it is needed to find someone who is in the same age, level and your week schedule. (based on the picture2)
-
-3- Needs to be able to find the current location of the running track for the runner who is is detached from the group because of arriving late.
-
-4- Lisa was the woman who was looking for her friend to join her , it is needed for her to use a platform which let her find the location of the running group.
-
-5- Roberto was the retired man in the pictures, for being motivated he said it is a good idea for him to take part in a competition with another person with the same level.
+4- Lisa was the woman who was looking for her friend to join her , it is needed for her to use a platform which let her find the location of the running group. -->
 
 ## Project Description
 
 [A short paragraph (2-4 sentences) that describes how your project would address one (or two) deep user needs, by including your personal take on suitable strategies to adopt. Mention here the target device(s) (e.g., smartphone, tablet, smart watch, etc.).]
+
+deep needs :
+
+- joining to the running Group
+- Training plan
