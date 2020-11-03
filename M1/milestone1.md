@@ -27,18 +27,21 @@
   <br>
     <em>A member of the running group reached late and he did not know the current location of the group in the park, so he started doing warming exercises lonely and lost the group.</em>
 </p>
-  <hr/>  
-<p align="center">
+  <hr/>
+
+<div align="center">
   <img alt="images/observe%20(4)" src="images/observe%20(4).jpg" width="350">
-  <br>
-    <em>The difficulty of finding the proper group in terms of pace, duration of running, and age, there is no choice for the elder citizen except went jogging alone without being accompanied by other runners. </em>
-</p>
+</div>
+ <p style="text-align:justify">
+  During the observation, at the park, we faced an almost 60-year old senior citizen who was jogging lonely with a cane. Later, we realized that he fell behind other runners because of the lack of coordination in his age and the capability in the group. It was crystal clear that he was interested in participating in this activity with others because he attempted to run as fast as possible to reach the group, although it seemed unfeasible. Ultimately, he sat on the bench beside the running track, watching the runners. The shortage of finding the proper groups, in this case, matching with their preferences, made the group running a little bit problematic.
+ </p>
 <hr/>
- <p align="center">
-  <img alt="images/observe5" src="images/observe6.jpg" width="350">
-  <br>
-    <em>For this solo person running alone with the dog, including listening to her favorite music during this activity, is the vital source of motivation.</em>
-</p>
+ <div align="center">
+  <img alt="images/observe5" src="images/observe6.jpg" width="350"></div>
+  <p style="text-align:justify">
+  Running with the dog; the activity doing by this middle-aged man; could be a substitution for joining the group. He, like a professional runner, was about 48 years old, seemed to do this activity almost every day because he had a personal running plan. He enjoyed running alone since he did some activities, like playing with his dog, changing the running path, and altering the running pace from time to time, which would be difficult doing them in the group. Sometimes, he ran slow for setting his favorite music on his cellphone, which is one of the essential motivating sources for running; after that, he started running fast. All in all, he was full of the motivation of running because of having these freedoms of choice.</p>
+    <!-- <p>For this solo person running alone with the dog, including listening to her favorite music during this activity, is the vital source of motivation.</p> -->
+
 <hr/>
 <p align="center">
   <img alt="images/observe7" src="images/observe7.jpg" width="350">
