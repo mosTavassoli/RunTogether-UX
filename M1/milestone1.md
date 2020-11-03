@@ -64,7 +64,9 @@
 ### Interviews
 
 - How is your typical running activity?
+  - One of the runners do this activity by listening to music in the morning, two of them usually go running between 30 minutes and 1 hour two times in the week, one of them prefer jogging instead of running.
 - What is the motivation behind taking on this activity?
+  - All the runners have the same motivations for running, keep healthy, and stay fit. One of them mentioned that, after running, his feelings change drastically, and running is the essential way to disconnect from routine daily life.
 - Which is your first priority for running : with a group or alone ? Why?
   - (Ask in case of Group) Do you prefer running with some one who is professional or not?
 - Can you tell me some good and bad stories concerning running in a group/alone?
