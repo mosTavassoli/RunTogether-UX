@@ -64,11 +64,11 @@
 ### Interviews
 
 - How is your typical running activity?
-  - answers : One of the runners do this activity by listening to music in the morning, two of them usually go running between 30 minutes and 1 hour two times in the week, one of them prefer jogging instead of running.
+  - One of the runners do this activity by listening to music in the morning, two of them usually go running between 30 minutes and 1 hour two times in the week, one of them prefer jogging instead of running. <br /><br />
 - What is the motivation behind taking on this activity?
-  - answers : All the runners have the same motivations for running, keep healthy, and stay fit. One of them mentioned that, after running, his feelings change drastically, and running is the essential way to disconnect from routine daily life.
+  All the runners have the same motivations for running, keep healthy, and stay fit. One of them mentioned that, after running, his feelings change drastically, and running is the essential way to disconnect from routine daily life.<br /><br />
 - Which is your first priority for running : with a group or alone ? Why?
-  - answers : Runners had different points of view for this question, three of them enjoy running with others because in this way they stay motivated and not getting bored, two of them, on the other hand, would like to run alone. They confessed that they can manage their time better, in addition, they can not find a suitable group running.
+  - Runners had different points of view for this question, three of them enjoy running with others because in this way they stay motivated and not getting bored, two of them, on the other hand, would like to run alone. They confessed that they can manage their time better, in addition, they can not find a suitable group running.<br /><br />
   - (Ask in case of Group) Do you prefer running with some one who is professional or not?
     - answers : One of them expressed his interest in doing this activity with the person who is at a better level, however, for others, this aspect does not matter.
 - Can you tell me some good and bad stories concerning running in a group/alone?
