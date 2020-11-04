@@ -15,19 +15,19 @@
   <br>
 <em>The group of a running club who has the same plan for running are doing warm-up exercises before running.</em>
 </p>
-<hr/>
+<br /><br />
   <p align="center"> 
   <img src="images/observe%20(2).jpg" width="350" alt="accessibility text">
   <br>
   <em>Two friends have the same speed and they match well together for running, they are motivated because they are at the same level.</em>
 </p>
-<hr/>
+<br /><br />
 <p align="center">
   <img alt="images/observe%20(3)" src="images/observe%20(3).jpg" width="350">
   <br>
     <em>A member of the running group reached late and he did not know the current location of the group in the park, so he started doing warming exercises lonely and lost the group.</em>
 </p>
-  <hr/>
+  <br /><br />
 
 <div align="center">
   <img alt="images/observe%20(4)" src="images/observe%20(4).jpg" width="350">
@@ -35,31 +35,32 @@
  <p style="text-align:justify">
   During the observation, at the park, we faced an almost 60-year old senior citizen who was jogging lonely with a cane. Later, we realized that he fell behind other runners because of the lack of coordination in his age and the capability in the group. It was crystal clear that he was interested in participating in this activity with others because he attempted to run as fast as possible to reach the group, although it seemed unfeasible. Ultimately, he sat on the bench beside the running track, watching the runners. The shortage of finding the proper groups, in this case, matching with their preferences, made the group running a little bit problematic.
  </p>
-<hr/>
+<br /><br />
  <div align="center">
   <img alt="images/observe5" src="images/observe6.jpg" width="350"></div>
   <p style="text-align:justify">
   Running with the dog; the activity doing by this middle-aged man; could be a substitution for joining the group. He, like a professional runner, was about 48 years old, seemed to do this activity almost every day because he had a personal running plan. He enjoyed running alone since he did some activities, like playing with his dog, changing the running path, and altering the running pace from time to time, which would be difficult doing them in the group. Sometimes, he ran slow for setting his favorite music on his cellphone, which is one of the essential motivating sources for running; after that, he started running fast. All in all, he was full of the motivation of running because of having these freedoms of choice.</p>
     <!-- <p>For this solo person running alone with the dog, including listening to her favorite music during this activity, is the vital source of motivation.</p> -->
 
-<hr/>
+<br /><br />
+
 <p align="center">
   <img alt="images/observe7" src="images/observe7.jpg" width="350">
   <br>
     <em>Lisa is an amateur runner, every time before running she calls her friends to join her but this time she could not find them in the park.</em>
 </p>
- <hr/>
+<br /><br />
 <p align="center">
   <img alt="images/observe8" src="images/observe8.jpg" width="350">
   <br>
     <em>Roberto is a retired man, he some times runs in the park. in this picture, he was tired of running and he looked unmotivated. </em>
 </p>
- <hr/>
+<br /><br />
  <p align="center">
   <img alt="images/observe9" src="images/observe9.jpg" width="350">
   <br>
     <em>Suddenly a woman wanted to pass near Roberto, he felt like he was in a competition and he started to run faster.</em> 
-</p>
+</p><br /><br />
 
 ### Interviews
 
@@ -70,9 +71,9 @@
 - Which is your first priority for running : with a group or alone ? Why?
   - Runners had different points of view for this question, three of them enjoy running with others because in this way they stay motivated and not getting bored, two of them, on the other hand, would like to run alone. They confessed that they can manage their time better, in addition, they can not find a suitable group running.<br /><br />
   - (Ask in case of Group) Do you prefer running with some one who is professional or not?
-    - answers : One of them expressed his interest in doing this activity with the person who is at a better level, however, for others, this aspect does not matter.
+    - One of them expressed his interest in doing this activity with the person who is at a better level, however, for others, this aspect does not matter.<br /><br />
 - Can you tell me some good and bad stories concerning running in a group/alone?
-  - answers : One runner told the bad stories about the bad weather condition, leading to a negative effect on his day of running, said that it was a good idea to know the condition of it in advance. Another one mentioned a good story about running with his boyfriend, which helped her to stay motivated instead of running alone. The last runner, on the other hand, shared a bad story once running in a group, complained about the pace of running in this situation, not satisfying his interests.
+  - One runner told the bad stories about the bad weather condition, leading to a negative effect on his day of running, said that it was a good idea to know the condition of it in advance. Another one mentioned a good story about running with his boyfriend, which helped her to stay motivated instead of running alone. The last runner, on the other hand, shared a bad story once running in a group, complained about the pace of running in this situation, not satisfying his interests.<br /><br />
 - What do you appreciate about running in Group / alone and what not?
 - How would you describe your experience in terms of running in a Group / alone?
   - (Ask in case of Group) How do you interact with other runners to organise a running plan, share tips and etc?
