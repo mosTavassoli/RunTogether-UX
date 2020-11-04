@@ -91,11 +91,11 @@
 
 According to the observations, the following needs are concluded:
 
-1. The majority of runners prefer running or jogging activity with the other runners, especially those having the same preferences. Like John, the senior citizen; expresess his interest in running with others, but he has to do it alone. Therefore, their specific requirements would be joining the group based on their qualifications.
-2. A few runners like Davron; have been kept motivated by listening to their favorite musics and also trying to stay motivated by getting the new running path for future activity.
-3. Some specific requirements would be probable met by providing the weather condition in advance or the possibility of sharing each others' tips and stuff.
-4. Some runners had the problem of preparing the best outfit for sport, As an example Omid said he wants suggestions for the appropriate product.
-5. Most of the interviewees emphasized the possibility of having a training plan or schedule; lead to keeping motivated; like Roberto a retired man; take part in a competition with another person with the same level is the main goal using a proper running plan.
+1. The majority of runners prefer running or jogging activity with the other runners, especially those having the same preferences. Like John, the senior citizen; expresess his interest in running with others, but he has to do it alone. Therefore, their specific requirements would be joining the group based on their qualifications.<br /><br />
+2. A few runners like Davron; have been kept motivated by listening to their favorite musics and also trying to stay motivated by getting the new running path for future activity.<br /><br />
+3. Some specific requirements would be probable met by providing the weather condition in advance or the possibility of sharing each others' tips and stuff.<br /><br />
+4. Some runners had the problem of preparing the best outfit for sport, As an example Omid said he wants suggestions for the appropriate product.<br /><br />
+5. Most of the interviewees emphasized the possibility of having a training plan or schedule; lead to keeping motivated; like Roberto a retired man; take part in a competition with another person with the same level is the main goal using a proper running plan.<br /><br />
 
 <!-- join together [TODO] -->
 
