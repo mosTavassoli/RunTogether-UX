@@ -13,9 +13,7 @@
 <p align="center"> 
   <img src="images/observe%20(1).jpg" width="350" alt="accessibility text">
   <br>
- <p style="text-align:justify">
-In our observation we met this group of amatuer runners, they had same plan for running in a week, and they were almost in the same age. Before running they did some warm-up exercises together and they had one person as a leader to follow him for doing exercises and on the way to be at the same his speed.
-The leader was a professional runner. We watched the members they imitate the exercises eagerly from the leader and it seems they felt happy being in a group with the same physical fitness of each other. </p>
+<em>The group of a running club who has the same plan for running are doing warm-up exercises before running.</em>
 </p>
 <br /><br />
   <p align="center"> 
@@ -51,18 +49,25 @@ The leader was a professional runner. We watched the members they imitate the ex
   <br>
     <em>Lisa is an amateur runner, every time before running she calls her friends to join her but this time she could not find them in the park.</em>
 </p>
+
+<div align="center">
+  <img alt="images/observe7" src="images/observe7.jpg" width="350"></div>
+  <p style="text-align:justify">
+  In the beginning of the observation, one woman who seemed around 30 years old, attracted our attention; the woman was trying to find her friends so she was calling them to join them for running. while observing her, it was clear that she had the problem of accessing her friends beacause she called her friends several times. After 5 minutes one of her friends answered, told her the path for running was changed. In addition, it was obviouse that she needed her friends to help her for having a plan for running, if she could not reach her friends she would have decided to leave. </p>
+
 <br /><br />
-<p align="center">
-  <img alt="images/observe8" src="images/observe8.jpg" width="350">
-  <br>
-    <em>Roberto is a retired man, he some times runs in the park. in this picture, he was tired of running and he looked unmotivated. </em>
+<div align="center">
+  <img alt="images/observe8" src="images/observe8.jpg" width="350"></div>
+  <p style="text-align:justify">
+   During our observation, an old man who was around 50 years old became an interesting choice for our observation, he was a retired man, his name was Roberto. After a slow walking he stopped and started to work with his phone. It was clear for us that he became tired and unmotivatd for comming back to the running, his face was red and he decided to find a seat. After 10 minutes he stood up and started to run very slowly.
 </p>
 <br /><br />
- <p align="center">
-  <img alt="images/observe9" src="images/observe9.jpg" width="350">
-  <br>
-    <em>Suddenly a woman wanted to pass near Roberto, he felt like he was in a competition and he started to run faster.</em> 
-</p><br /><br />
+<div align="center">
+  <img alt="images/observe9" src="images/observe9.jpg" width="350"></div>
+   <p style="text-align:justify">
+After 10 minutes of slow running, Roberto seemed tired and he was trying to reduce his speed. In that time, Suddenly a woman decided to pass near Roberto, he started to run faster so that the woman could not reach Roberto, it was clear that Roberto felt like he was in a competition, he became motivated for running more which had consequences like increasing his speed and feeling stronger.
+</p>
+<br /><br />
 
 ### Interviews
 
