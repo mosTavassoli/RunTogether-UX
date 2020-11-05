@@ -95,9 +95,9 @@ After 10 minutes of slow running, Roberto seemed tired and he was trying to redu
 - How do you feel when you reach the goals you desired to be done during your sport activity?
   - Most of them respond they feel glad, proud and satisfied.<br /><br /> 
 - For you, running is like...?
-  - Almost the responces where these words: Free and best activity, to relax, to be healthy. <br /><br />
+  - Almost the responces were these words: Running is a free and the best activity, to relax, to be healthy for them. <br /><br />
 - I keep motivated for running by...
-  - In general they respond by being with someone, being fit and healthy and feeling satisfied after that.
+  - In general they respond by being with someone for running, keeping fit and healthy and the feeling satisfied after that.
 
 
 ## User Needs
