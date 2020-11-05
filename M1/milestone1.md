@@ -13,19 +13,20 @@
 <p align="center"> 
   <img src="images/observe%20(1).jpg" width="350" alt="accessibility text">
   <br>
-<em>The group of a running club who has the same plan for running are doing warm-up exercises before running.</em>
+<p style="text-align:justify">In our observation we met this group of amatuer runners, they had same plan for running in a week, and they were almost in the same age. Before running they did some warm-up exercises together and they had one person as a leader to follow him for doing exercises and on the way to be at the same his speed.
+The leader was a professional runner. We watched the members they imitate the exercises eagerly from the leader and it seems they felt happy being in a group with Same physical fitness of each other. </p>
 </p>
 <br /><br />
   <p align="center"> 
   <img src="images/observe%20(2).jpg" width="350" alt="accessibility text">
   <br>
-  <em>Two friends have the same speed and they match well together for running, they are motivated because they are at the same level.</em>
+  <p style="text-align:justify">In our observation we came to these two friends that they matched very well together for running with regrad to the speed, physical fitness and age, also they were colleague and they had same work time in a week. They came for running after the work in the park that is close to theri office. </p>
 </p>
 <br /><br />
 <p align="center">
   <img alt="images/observe%20(3)" src="images/observe%20(3).jpg" width="350">
   <br>
-    <em>A member of the running group reached late and he did not know the current location of the group in the park, so he started doing warming exercises lonely and lost the group.</em>
+    <p style="text-align:justify">We watched this man who was detached from a running group, the reason was he arrived late and the group has already started running. The man did not know the current location of the group on the way, so after doing warm-up exercises, he started run lonely.</p>
 </p>
   <br /><br />
 
