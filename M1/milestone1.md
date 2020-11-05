@@ -25,7 +25,8 @@
 <p align="center">
   <img alt="images/observe%20(3)" src="images/observe%20(3).jpg" width="350">
   <br>
-    <em>A member of the running group reached late and he did not know the current location of the group in the park, so he started doing warming exercises lonely and lost the group.</em>
+    <em>In our observation we met this group of amatuer runners, they had same plan for running in a week, and they were almost in the same age. Before running they did some warm-up exercises together and they had one person as a leader to follow him for doing exercises and on the way to be at the same his speed.
+The leader was a professional runner. We watched the members they imitate the exercises eagerly from the leader and it seems they felt happy being in a group with Same physical fitness of each other. </em>
 </p>
   <br /><br />
 
