@@ -76,15 +76,15 @@ After 10 minutes of slow running, Roberto seemed tired and he was trying to redu
 - Can you tell me some good and bad stories concerning running in a group/alone?
   - One runner told the bad stories about the bad weather condition, leading to a negative effect on his day of running, said that it was a good idea to know the condition of it in advance. Another one mentioned a good story about running with his boyfriend, which helped her to stay motivated instead of running alone. The last runner, on the other hand, shared a bad story once running in a group, complained about the pace of running in this situation, not satisfying his interests.<br /><br />
 - What do you appreciate about running in Group / alone and what not?
-  - most of the participants said they appreciate running in group because of having the possiblity to make a competition between members. For running alone, a great number of participants said it gives them freedom to change the path, enjoy the weather and music.<br /></br />
+  - most of the participants said they appreciate running in group because of having the possiblity to make a competition between members. For running alone, a great number of participants said it gives them freedom to change the path, enjoy the weather and music.<br /><br />
 - How would you describe your experience in terms of running in a Group / alone?
-  - most of interviewees said they had some fun and challenging moments when they run in a group. The ability to share water or other stuffs in case of running in a group, was mentioned by another participant.<br /></br />
-  - (Ask in case of Group) How do you interact with other runners to organise a running plan, share tips and etc?
-   - most participants schedule running some days before on the social media. one of them mentioned it is hard to find another runner most of the time but some face book groups or other applications like Adidas running helped her to find a runner.<br /></br />  
-  - How do you feel about your current state of running (Group / alone)?
+  - most of interviewees said they had some fun and challenging moments when they run in a group. The ability to share water or other stuffs in case of running in a group, was mentioned by another participant.<br /><br />
+- (Ask in case of Group) How do you interact with other runners to organise a running plan, share tips and etc?
+   - most participants schedule running some days before on the social media. one of them mentioned it is hard to find another runner most of the time but some face book groups or other applications like Adidas running helped her to find a runner.<br /><br />  
+- How do you feel about your current state of running (Group / alone)?
    - one of the runners felt good to run alone, the others mentioned they would be happier and more motivated while they run in a group.<br /></br />  
 - Have you ever felt unmotivated for running? If yes what would you do?
-  - only one the participants has never felt unmotivated. Other participants had solutions like chaning the playlist of music and path for running when they feel unmotivated. Moreover, scheduling another day would be helpful for the rest of them.<br /></br /> 
+  - only one the participants has never felt unmotivated. Other participants had solutions like chaning the playlist of music and path for running when they feel unmotivated. Moreover, scheduling another day would be helpful for the rest of them.<br /><br /> 
 - Do you get motivated after running with someone to continue running? why ?
 - What do you think about joining to run club and partcipation in competitions?
 - How do you feel when you reach the goals you desired to be done during your sport activity?
