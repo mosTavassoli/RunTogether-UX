@@ -21,7 +21,7 @@ The leader was a professional runner. We watched the members they imitate the ex
   <p align="center"> 
   <img src="images/observe%20(2).jpg" width="350" alt="accessibility text">
   <p style="text-align:justify">
-    We came to these two friends that they matched very well together for running with regrad to the speed, physical fitness and age, also they were colleague and they had same work time in a week. They came for running after the work in the park that is close to theri office. 
+    We came to these two friends that they matched very well together for running with regrad to the speed, physical fitness and age, also they were colleague and they had same work time in a week. They came for running after the work in the park that is close to their office. 
   </p>
 </p>
 <br /><br />
