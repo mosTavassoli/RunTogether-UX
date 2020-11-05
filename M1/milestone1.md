@@ -13,20 +13,19 @@
 <p align="center"> 
   <img src="images/observe%20(1).jpg" width="350" alt="accessibility text">
   <br>
-<p style="text-align:justify">In our observation we met this group of amatuer runners, they had same plan for running in a week, and they were almost in the same age. Before running they did some warm-up exercises together and they had one person as a leader to follow him for doing exercises and on the way to be at the same his speed.
-The leader was a professional runner. We watched the members they imitate the exercises eagerly from the leader and it seems they felt happy being in a group with Same physical fitness of each other. </p>
+<em>The group of a running club who has the same plan for running are doing warm-up exercises before running.</em>
 </p>
 <br /><br />
   <p align="center"> 
   <img src="images/observe%20(2).jpg" width="350" alt="accessibility text">
   <br>
-  <p style="text-align:justify">In our observation we came to these two friends that they matched very well together for running with regrad to the speed, physical fitness and age, also they were colleague and they had same work time in a week. They came for running after the work in the park that is close to their office. </p>
+  <em>Two friends have the same speed and they match well together for running, they are motivated because they are at the same level.</em>
 </p>
 <br /><br />
 <p align="center">
   <img alt="images/observe%20(3)" src="images/observe%20(3).jpg" width="350">
   <br>
-    <p style="text-align:justify">We watched this man who was detached from a running group, the reason was he arrived late and the group has already started running. The man did not know the current location of the group on the way, so after doing warm-up exercises, he started run lonely.</p>
+    <em>A member of the running group reached late and he did not know the current location of the group in the park, so he started doing warming exercises lonely and lost the group.</em>
 </p>
   <br /><br />
 
@@ -77,10 +76,15 @@ After 10 minutes of slow running, Roberto seemed tired and he was trying to redu
 - Can you tell me some good and bad stories concerning running in a group/alone?
   - One runner told the bad stories about the bad weather condition, leading to a negative effect on his day of running, said that it was a good idea to know the condition of it in advance. Another one mentioned a good story about running with his boyfriend, which helped her to stay motivated instead of running alone. The last runner, on the other hand, shared a bad story once running in a group, complained about the pace of running in this situation, not satisfying his interests.<br /><br />
 - What do you appreciate about running in Group / alone and what not?
+  - most of the participants said they appreciate running in group because of having the possiblity to make a competition between members. For running alone, a great number of participants said it gives them freedom to change the path, enjoy the weather and music.<br /></br />
 - How would you describe your experience in terms of running in a Group / alone?
+  - most of interviewees said they had some fun and challenging moments when they run in a group. The ability to share water or other stuffs in case of running in a group, was mentioned by another participant.<br /></br />
   - (Ask in case of Group) How do you interact with other runners to organise a running plan, share tips and etc?
+   - most participants schedule running some days before on the social media. one of them mentioned it is hard to find another runner most of the time but some face book groups or other applications like Adidas running helped her to find a runner.<br /></br />  
   - How do you feel about your current state of running (Group / alone)?
+   - one of the runners felt good to run alone, the others mentioned they would be happier and more motivated while they run in a group.<br /></br />  
 - Have you ever felt unmotivated for running? If yes what would you do?
+  - only one the participants has never felt unmotivated. Other participants had solutions like chaning the playlist of music and path for running when they feel unmotivated. Moreover, scheduling another day would be helpful for the rest of them.<br /></br /> 
 - Do you get motivated after running with someone to continue running? why ?
 - What do you think about joining to run club and partcipation in competitions?
 - How do you feel when you reach the goals you desired to be done during your sport activity?
