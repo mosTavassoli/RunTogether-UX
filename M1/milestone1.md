@@ -89,10 +89,16 @@ After 10 minutes of slow running, Roberto seemed tired and he was trying to redu
 - Have you ever felt unmotivated for running? If yes what would you do?
   - only one the participants has never felt unmotivated. Other participants had solutions like chaning the playlist of music and path for running when they feel unmotivated. Moreover, scheduling another day would be helpful for the rest of them.<br /><br /> 
 - Do you get motivated after running with someone to continue running? why ?
+  - All the participants said they get motivated after running with someone, moreover some of them mentioned that it depends on the person how much she/he is energetic to help them to keep motivated.<br /><br /> 
 - What do you think about joining to run club and partcipation in competitions?
+  - In this question, responces were different. Some of the participants look at the competition as a goal to force them to continue running or depends on the competition to do a specific training for that , but the others prefer only join to the club not competition. <br /><br /> 
 - How do you feel when you reach the goals you desired to be done during your sport activity?
+  - Most of them respond they feel glad, proud and satisfied.<br /><br /> 
 - For you, running is like...?
+  - Almost the responces where these words: Free and best activity, to relax, to be healthy. <br /><br />
 - I keep motivated for running by...
+  - In general they respond by being with someone, being fit and healthy and feeling satisfied after that.
+
 
 ## User Needs
 
