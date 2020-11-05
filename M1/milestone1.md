@@ -82,7 +82,7 @@ After 10 minutes of slow running, Roberto seemed tired and he was trying to redu
 - (Ask in case of Group) How do you interact with other runners to organise a running plan, share tips and etc?
    - most participants schedule running some days before on the social media. one of them mentioned it is hard to find another runner most of the time but some face book groups or other applications like Adidas running helped her to find a runner.<br /><br />  
 - How do you feel about your current state of running (Group / alone)?
-   - one of the runners felt good to run alone, the others mentioned they would be happier and more motivated while they run in a group.<br /></br />  
+   - one of the runners felt good to run alone, the others mentioned they would be happier and more motivated while they run in a group.<br /><br />  
 - Have you ever felt unmotivated for running? If yes what would you do?
   - only one the participants has never felt unmotivated. Other participants had solutions like chaning the playlist of music and path for running when they feel unmotivated. Moreover, scheduling another day would be helpful for the rest of them.<br /><br /> 
 - Do you get motivated after running with someone to continue running? why ?
