@@ -45,12 +45,6 @@ The leader was a professional runner. We watched the members they imitate the ex
 
 <br /><br />
 
-<p align="center">
-  <img alt="images/observe7" src="images/observe7.jpg" width="350">
-  <br>
-    <em>Lisa is an amateur runner, every time before running she calls her friends to join her but this time she could not find them in the park.</em>
-</p>
-
 <div align="center">
   <img alt="images/observe7" src="images/observe7.jpg" width="350"></div>
   <p style="text-align:justify">
