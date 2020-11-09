@@ -10,6 +10,9 @@ _ISTRUCTIONS_: Fill this template by writing under each title, according to the 
 
 [Report here the two realized paper prototypes, by including a comprehensive set of digital photos or scans of them (captions included) and by summarizing how they connect to the storyboard and the project description, and how they explore different alternative ways of satisfying the project goal. Be sure to include the high-level flow of each "screen" of both paper prototypes.]
 
+<img src="prototype1/1.jpg" width="350" alt="accessibility text"> <br />
+<img src="prototype1/2.jpg" width="350" alt="accessibility text">
+
 ## Selection Rationale
 
 [Describe here which of the two prototypes you choose for continuing your exploration. Write a list of pros and cons for each prototype, and give the reasoning for your choice. You can consider moving some features from a prototype to the selected one, if it makes sense: in this case, explain why and list the changes that your team plan to perform.]
