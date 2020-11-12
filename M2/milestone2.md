@@ -6,6 +6,10 @@ _ISTRUCTIONS_: Fill this template by writing under each title, according to the 
 
 [Illustrate here the storyboard you created, and describe: a) why you chose it, b) which are its strengths and weaknesses, and c) how well it achieves the identified goal/user need. Include a comprehensive set of digital photos or scans of your storyboard.]
 
+<img src="storyboards/StoryBoard1.jpg" width="350" alt="accessibility text"> <br />
+<img src="storyboards/StoryBoard2.jpg" width="350" alt="accessibility text">
+
+
 ## Paper Prototypes
 
 [Report here the two realized paper prototypes, by including a comprehensive set of digital photos or scans of them (captions included) and by summarizing how they connect to the storyboard and the project description, and how they explore different alternative ways of satisfying the project goal. Be sure to include the high-level flow of each "screen" of both paper prototypes.]
