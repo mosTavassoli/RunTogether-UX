@@ -9,6 +9,9 @@
 - How: join the group as a runner, see what they do
 
 ## Observation
+
+### Observation 1
+
 <div align="center">
   <img src="images/observe%20(1).jpg" width="350" alt="accessibility text">
   </div>
@@ -16,21 +19,26 @@
   In our observation we met this group of amatuer runners, they had same plan for running in a week, and they were almost in the same age. Before running they did some warm-up exercises together and they had one person as a leader to follow him for doing exercises and on the way to be at the same his speed.
 The leader was a professional runner. We watched the members they imitate the exercises eagerly from the leader and it seems they felt happy being in a group with Same physical fitness of each other. 
 </p>
-<br /><br />
+
+### Observation 2
+
 <div align="center">
   <img src="images/observe%20(2).jpg" width="350" alt="accessibility text">
 </div>
   <p style="text-align:justify">
     We came to these two friends that they matched very well together for running with regrad to the speed, physical fitness and age, also they were colleague and they had same work time in a week. They came for running after the work in the park that is close to their office. They felt happy and motivated for running. 
 </p>
-<br /><br />
+
+### Observation 3
+
 <div align="center">
 <img alt="images/observe%20(3)" src="images/observe%20(3).jpg" width="350">
   </div>
     <p style="text-align:justify">
       We watched this man who was detached from a running group, the reason was he arrived late and the group has already started running. The man did not know the current location of the group on the way, so after doing warm-up exercises, he started run lonely.We watched he was unmotivated and felt lonely.
     </p>
-  <br /><br />
+
+### Observation 4
 
 <div align="center">
   <img alt="images/observe%20(4)" src="images/observe%20(4).jpg" width="350">
@@ -38,33 +46,38 @@ The leader was a professional runner. We watched the members they imitate the ex
  <p style="text-align:justify">
   During the observation, at the park, we faced an almost 60-year old senior citizen who was jogging lonely with a cane. Later, we realized that he fell behind other runners because of the lack of coordination in his age and the capability in the group. It was crystal clear that he was interested in participating in this activity with others because he attempted to run as fast as possible to reach the group, although it seemed unfeasible. Ultimately, he sat on the bench beside the running track, watching the runners. The shortage of finding the proper groups, in this case, matching with their preferences, made the group running a little bit problematic.
  </p>
-<br /><br />
+
+### Observation 5
+
  <div align="center">
   <img alt="images/observe5" src="images/observe6.jpg" width="350"></div>
   <p style="text-align:justify">
   Running with the dog; the activity doing by this middle-aged man; could be a substitution for joining the group. He, like a professional runner, was about 48 years old, seemed to do this activity almost every day because he had a personal running plan. He enjoyed running alone since he did some activities, like playing with his dog, changing the running path, and altering the running pace from time to time, which would be difficult doing them in the group. Sometimes, he ran slow for setting his favorite music on his cellphone, which is one of the essential motivating sources for running; after that, he started running fast. All in all, he was full of the motivation of running because of having these freedoms of choice.</p>
     <!-- <p>For this solo person running alone with the dog, including listening to her favorite music during this activity, is the vital source of motivation.</p> -->
 
-<br /><br />
+### Observation 6
 
 <div align="center">
   <img alt="images/observe7" src="images/observe7.jpg" width="350"></div>
   <p style="text-align:justify">
   In the beginning of the observation, one woman who seemed around 30 years old, attracted our attention; the woman was trying to find her friends so she was calling them to join them for running. while observing her, it was clear that she had the problem of accessing her friends beacause she called her friends several times. After 5 minutes one of her friends answered, told her the path for running was changed. In addition, it was obviouse that she needed her friends to help her for having a plan for running, if she could not reach her friends she would have decided to leave. </p>
 
-<br /><br />
+### Observation 7
+
 <div align="center">
   <img alt="images/observe8" src="images/observe8.jpg" width="350"></div>
   <p style="text-align:justify">
    During our observation, an old man who was around 50 years old became an interesting choice for our observation, he was a retired man, his name was Roberto. After a slow walking he stopped and started to work with his phone. It was clear for us that he became tired and unmotivatd for comming back to the running, his face was red and he decided to find a seat. After 10 minutes he stood up and started to run very slowly.
 </p>
-<br /><br />
+
+### Observation 8
+
 <div align="center">
   <img alt="images/observe9" src="images/observe9.jpg" width="350"></div>
    <p style="text-align:justify">
 After 10 minutes of slow running, Roberto seemed tired and he was trying to reduce his speed. In that time, Suddenly a woman decided to pass near Roberto, he started to run faster so that the woman could not reach Roberto, it was clear that Roberto felt like he was in a competition, he became motivated for running more which had consequences like increasing his speed and feeling stronger.
 </p>
-<br /><br />
+<br />
 
 ### Interviews
 
@@ -83,22 +96,21 @@ After 10 minutes of slow running, Roberto seemed tired and he was trying to redu
 - How would you describe your experience in terms of running in a Group / alone?
   - most of interviewees said they had some fun and challenging moments when they run in a group. The ability to share water or other stuffs in case of running in a group, was mentioned by another participant.<br /><br />
 - (Ask in case of Group) How do you interact with other runners to organise a running plan, share tips and etc?
-   - most participants schedule running some days before on the social media. one of them mentioned it is hard to find another runner most of the time but some face book groups or other applications like Adidas running helped her to find a runner.<br /><br />  
+  - most participants schedule running some days before on the social media. one of them mentioned it is hard to find another runner most of the time but some face book groups or other applications like Adidas running helped her to find a runner.<br /><br />
 - How do you feel about your current state of running (Group / alone)?
-   - one of the runners felt good to run alone, the others mentioned they would be happier and more motivated while they run in a group.<br /><br />  
+  - one of the runners felt good to run alone, the others mentioned they would be happier and more motivated while they run in a group.<br /><br />
 - Have you ever felt unmotivated for running? If yes what would you do?
-  - only one the participants has never felt unmotivated. Other participants had solutions like chaning the playlist of music and path for running when they feel unmotivated. Moreover, scheduling another day would be helpful for the rest of them.<br /><br /> 
+  - only one the participants has never felt unmotivated. Other participants had solutions like chaning the playlist of music and path for running when they feel unmotivated. Moreover, scheduling another day would be helpful for the rest of them.<br /><br />
 - Do you get motivated after running with someone to continue running? why ?
-  - All the participants said they get motivated after running with someone, moreover some of them mentioned that it depends on the person how much she/he is energetic to help them to keep motivated.<br /><br /> 
+  - All the participants said they get motivated after running with someone, moreover some of them mentioned that it depends on the person how much she/he is energetic to help them to keep motivated.<br /><br />
 - What do you think about joining to run club and partcipation in competitions?
-  - In this question, responces were different. Some of the participants look at the competition as a goal to force them to continue running or depends on the competition to do a specific training for that , but the others prefer only join to the club not competition. <br /><br /> 
+  - In this question, responces were different. Some of the participants look at the competition as a goal to force them to continue running or depends on the competition to do a specific training for that , but the others prefer only join to the club not competition. <br /><br />
 - How do you feel when you reach the goals you desired to be done during your sport activity?
-  - Most of them respond they feel glad, proud and satisfied.<br /><br /> 
+  - Most of them respond they feel glad, proud and satisfied.<br /><br />
 - For you, running is like...?
   - Almost the responces were these words: Running is a free and the best activity, to relax, to be healthy for them. <br /><br />
 - I keep motivated for running by...
   - In general they respond by being with someone for running, keeping fit and healthy and the feeling satisfied after that.
-
 
 ## User Needs
 
@@ -106,11 +118,17 @@ After 10 minutes of slow running, Roberto seemed tired and he was trying to redu
 
 According to the observations, the following needs are concluded:
 
-1. The majority of runners prefer running or jogging activity with the other runners, especially those having the same preferences. Like John, the senior citizen; expresess his interest in running with others, but he has to do it alone. Therefore, their specific requirements would be joining the group based on their qualifications.<br /><br />
+<!-- 1. The majority of runners prefer running or jogging activity with the other runners, especially those having the same preferences. Like John, the senior citizen; expresess his interest in running with others, but he has to do it alone. Therefore, their specific requirements would be joining the group based on their qualifications.<br /><br />
 2. A few runners like Davron; have been kept motivated by listening to their favorite musics and also trying to stay motivated by getting the new running path for future activity.<br /><br />
 3. Some specific requirements would be probable met by providing the weather condition in advance or the possibility of sharing each others' tips and stuff.<br /><br />
 4. Some runners had the problem of preparing the best outfit for sport, As an example Omid said he wants suggestions for the appropriate product.<br /><br />
-5. Most of the interviewees emphasized the possibility of having a training plan or schedule; lead to keeping motivated; like Roberto a retired man; take part in a competition with another person with the same level is the main goal using a proper running plan.<br /><br />
+5. Most of the interviewees emphasized the possibility of having a training plan or schedule; lead to keeping motivated; like Roberto a retired man; take part in a competition with another person with the same level is the main goal using a proper running plan.<br /><br /> -->
+
+1. Join the group based on their qualifications and expectations.
+2. Listening to favorite music and getting the new running path for future activity.
+3. Forecast weather conditions in advance or the possibility of sharing each others' tips and stuff.
+4. Getting a suitable outfit for sport. 
+5. Having a training plan or schedule and take part in competition and running club.
 
 <!-- join together [TODO] -->
 
