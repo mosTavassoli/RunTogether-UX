@@ -6,13 +6,20 @@ _ISTRUCTIONS_: Fill this template by writing under each title, according to the 
 
 [Illustrate here the storyboard you created, and describe: a) why you chose it, b) which are its strengths and weaknesses, and c) how well it achieves the identified goal/user need. Include a comprehensive set of digital photos or scans of your storyboard.]
 
-We chose these stories based on our observations and interviews. 
-1)We came to the this story because: In our observation we saw that old or middle-aged people are really need to run with a group that has similar preference,age and goal. In this story the old man is unmotivated,retired and unmotivated so finding a group that people in his age are in it helps him to have a weekly routine for running and at the end improve his physical and mental health. <br />
+<p style="text-align:justify">
 
-<img src="storyboards/StoryBoard1.jpg" width="350" alt="accessibility text"> <br />
+We chose these stories based on our observations and interviews. 
+
+1)We came to the this story because: In our observation we saw that old or middle-aged people are really need to run with a group that has similar preference,age and goal. In this story the old man is unmotivated,retired and unmotivated so finding a group that people in his age are in it helps him to have a weekly routine for running and at the end improve his physical and mental health. <br />
+</p>
+
+<img src="storyboards/StoryBoard1.jpg" width="500" alt="accessibility text"> <br />
+
+<p style="text-align:justify">
 
 2)We came to the this story because: In our interviews we realized that people do not dedicate a certain time for running or doing exercies in their daily routine, although they know it is very helpful for their physical and mental health, they are busy with their works. We came to this story that after working hour this person is disappointed because he got fat and he has no motivation for running alone but at the end when he finds a group to join he feel great. 
-<img src="storyboards/StoryBoard2.jpg" width="350" alt="accessibility text">
+</p><br />
+<img src="storyboards/StoryBoard2.jpg" width="500" alt="accessibility text">
 
 
 ## Paper Prototypes
