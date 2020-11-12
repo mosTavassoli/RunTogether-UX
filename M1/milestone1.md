@@ -135,3 +135,9 @@ Two essential needs would be considered addressing in this project:
 - offering training plan
 
 Group running is one of the most vital requirements, leading to continuous self-motivation among runners, which will deal with by asking some basic questions from runners at the first to understand their specifications, coming with a suitable running club or group to join. Besides, running in a group requires training plans, addressing by the possibility of process observation during the time, followed by offering a proper schedule of running to the participants based on their objectives achieved by questions asked. These requirements would be satisfied with the help of the smartphone as the frequent devices among most runners.
+
+The application is for the people who need to join to the group or club to run with other runners and offering training plans to keep them motivated for running.
+
+The application is for the people who need to have a group or club to join and follow a training plan during a week through their smart phone. 
+
+The project is for the people who want to find a club or group for running and need to follow a trining plan to keep motivated. We want to achieve these goals through an application in the smartphone. 
