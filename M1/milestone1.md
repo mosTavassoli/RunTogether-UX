@@ -124,11 +124,11 @@ According to the observations, the following needs are concluded:
 4. Some runners had the problem of preparing the best outfit for sport, As an example Omid said he wants suggestions for the appropriate product.<br /><br />
 5. Most of the interviewees emphasized the possibility of having a training plan or schedule; lead to keeping motivated; like Roberto a retired man; take part in a competition with another person with the same level is the main goal using a proper running plan.<br /><br /> -->
 
-1. Join the group based on their qualifications and expectations.<br /><br />
-2. Listening to favorite music and getting the new running path for future activity.<br /><br />
-3. Forecast weather conditions in advance or the possibility of sharing each others' tips and stuff.<br /><br />
-4. Getting a suitable outfit for sport. <br /><br />
-5. Having a training plan or schedule and take part in competition and running club.<br /><br />
+1. Join the group based on their qualifications and expectations.
+2. Listening to favorite music and getting the new running path for future activity.
+3. Forecast weather conditions in advance or the possibility of sharing each others' tips and stuff.
+4. Getting a suitable outfit for sport. 
+5. Having a training plan or schedule and take part in competition and running club.
 
 <!-- join together [TODO] -->
 
@@ -153,3 +153,5 @@ Two essential needs would be considered addressing in this project:
 - offering training plan
 
 Group running is one of the most vital requirements, leading to continuous self-motivation among runners, which will deal with by asking some basic questions from runners at the first to understand their specifications, coming with a suitable running club or group to join. Besides, running in a group requires training plans, addressing by the possibility of process observation during the time, followed by offering a proper schedule of running to the participants based on their objectives achieved by questions asked. These requirements would be satisfied with the help of the smartphone as the frequent devices among most runners.
+
+The project is for the people who want to find a club or group for running and need to follow a trining plan to keep motivated. We want to achieve these goals through an application in the smartphone. 
