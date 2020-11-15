@@ -40,7 +40,8 @@ As it has drawn on the storyboards and also from the project description point o
 
 ### Paper Prototype 2
 
-In this prototype, we are focusing on the main goals in the project description; As what we mentioned there, the main goals are searching and joining groups, having running plan and checking the user's activities. <br />
+In this prototype, we are focusing on the main goals in the project description; As what we mentioned there, the main goals are searching and joining groups, having running plan and checking the user's activities.
+
 <img src="prototype2/pro1.jpg" width="800" alt="accessibility text"> <br />
 The order of connecting the pages are:
 1. The first page is the "User Profile" page, in this page user can visit a history of the runs, plans and goals with the ability to check his progress. by selecting the "Groups" button, user can watch the list of groups page.(last page)
