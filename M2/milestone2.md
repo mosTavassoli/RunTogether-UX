@@ -40,18 +40,17 @@ As it has drawn on the storyboards and also from the project description point o
 
 ### Paper Prototype 2
 
-In this prototype, we are focusing on the main goals in the project description; As what we mentioned there, the main goals are searching and finding groups to join and having running plan also checking the user's activities.
- <br />
+In this prototype, we are focusing on the main goals in the project description; As what we mentioned there, the main goals are searching and joining groups, having running plan and checking the user's activities. <br />
 <img src="prototype2/pro1.jpg" width="800" alt="accessibility text"> <br />
 The order of connecting the pages are:
-1. The first page is the "User Profile" page, in this page user can visit a history of the runs, plans , goals with the ability to check his progress. by selecting the "Groups" button, user can watch the list of groups page.
+1. The first page is the "User Profile" page, in this page user can visit a history of the runs, plans and goals with the ability to check his progress. by selecting the "Groups" button, user can watch the list of groups page.(last page)
 2. By selecting the "PlAN" in the profile page, user will see the content of the "RUNING PLAN" page. the content will be fetched dynamically inside the buttom part of the "User Profile" page.
-3. By selecting each squares inside the "RUNNING PLAN" content , the next page with the name of the plan will be shown.( example " RUNING PLAN1")
+3. By selecting each squares inside the "RUNNING PLAN" content , the next content with the name of the plan will be shown totally in a new page.( example " RUNING PLAN1")
 4. After selecting the "Groups" button, a new page with all the groups will be shown. ( the last page )
 <br />
 <img src="prototype2/pro2.jpg" width="800" alt="accessibility text"> <br />
 5. When user clicks the plus button in the buttom of the "Groups" page, page "Create A group" will appear. By pressing "ADD" or "CANCEL" button , it will return to the "Groups" page.<br />
-6. After selecting each squares inside the "Groups" page, the last page of the above picture will appear which will be filled by the details of the selected group. By selecting "JOIN" user will be added to the group and he will return to the "Groups" page. After selecting the "CANCEL" the user will be navigated to the "Groups" page.
+6. After selecting each squares inside the "Groups" page, the last page of the above picture will appear, it will be filled by the details of the selected group. By selecting "JOIN" button, user will be added to the group and he will return to the "Groups" page. After selecting the "CANCEL" the user will be navigated to the "Groups" page.
 
 
 
