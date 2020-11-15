@@ -45,8 +45,8 @@ In this prototype, we are focusing on the main goals in the project description;
 <img src="prototype2/pro1.jpg" width="800" alt="accessibility text"> <br />
 The order of connecting the pages are:
 1. The first page is the "User Profile" page, in this page user can visit a history of the runs, plans and goals with the ability to check his progress. by selecting the "Groups" button, user can watch the list of groups page.(last page)
-2. By selecting the "PlAN" in the profile page, user will see the content of the "RUNING PLAN" page. the content will be fetched dynamically inside the buttom part of the "User Profile" page.
-3. By selecting each squares inside the "RUNNING PLAN" content , the next content with the name of the plan will be shown totally in a new page.( example " RUNING PLAN1")
+2. By selecting the "PLAN" in the profile page, user will see the content of the "RUNNING PLAN" page. the content will be fetched dynamically inside the buttom part of the "User Profile" page.
+3. By selecting each squares inside the "RUNNING PLAN" content , the next content with the name of the plan will be shown totally in a new page.( example " RUNNING PLAN1")
 4. After selecting the "Groups" button, a new page with all the groups will be shown. ( the last page )
 <br />
 <img src="prototype2/pro2.jpg" width="800" alt="accessibility text"> <br />
