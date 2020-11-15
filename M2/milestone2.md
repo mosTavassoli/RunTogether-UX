@@ -51,7 +51,7 @@ The order of connecting the pages are:
 <br />
 <img src="prototype2/pro2.jpg" width="800" alt="accessibility text"> <br />
 5. When user clicks the plus button in the buttom of the "Groups" page, page "Create A group" will appear. By pressing "ADD" or "CANCEL" button , it will return to the "Groups" page.<br />
-6. After selecting each squares inside the "Groups" page, the last page of the above picture will appear, it will be filled by the details of the selected group. By selecting "JOIN" button, user will be added to the group and he will return to the "Groups" page. After selecting the "CANCEL" the user will be navigated to the "Groups" page.
+6. After selecting each squares inside the "Groups" page, the last page of the above picture will appear, it will be filled by the details of the selected group. By selecting "JOIN" button, user will be added to the group and he will return to the "Groups" page. After selecting the "CANCEL" the user will be navigated to the "Groups" page.<br />
 --The "MAP" content shows a picture of the location of the Run
 
 
