@@ -38,6 +38,23 @@ As it has drawn on the storyboards and also from the project description point o
 <img src="prototype1/1.jpg" width="800" alt="accessibility text"> <br />
 <img src="prototype1/2.jpg" width="800" alt="accessibility text">
 
+### Paper Prototype 2
+
+In this prototype, we are focusing on the main goals in the project description; As what we mentioned there, the main goals are searching and finding groups to join and having running plan also checking the user's activities.
+<img src="prototype2/pro1.jpg" width="800" alt="accessibility text"> <br />
+The order of connecting the pages are:
+1. The first page is the "User Profile" page, in this page user can visit a history of the runs, plans , goals with the ability to check his progress. by selecting the "Groups" button, user can watch the list of groups page.
+2. By selecting the "PlAN" in the profile page, user will see the content of the "RUNING PLAN" page. the content will be fetched dynamically inside the buttom part of the "User Profile" page.
+3. By selecting each squares inside the "RUNNING PLAN" content , the next page with the name of the plan will be shown.( example " RUNING PLAN1")
+4. After selecting the "Groups" button, a new page with all the groups will be shown. ( the last page )
+<br />
+<img src="prototype2/pro2.jpg" width="800" alt="accessibility text"> <br />
+5. When user clicks the plus button in the buttom of the "Groups" page, page "Create A group" will appear. By pressing "ADD" or "CANCEL" button , it will return to the "Groups" page.
+6. After selecting each squares inside the "Groups" page, the last page of the above picture will appear which will be filled by the details of the selected group.
+
+
+
+
 ## Selection Rationale
 
 [Describe here which of the two prototypes you choose for continuing your exploration. Write a list of pros and cons for each prototype, and give the reasoning for your choice. You can consider moving some features from a prototype to the selected one, if it makes sense: in this case, explain why and list the changes that your team plan to perform.]
