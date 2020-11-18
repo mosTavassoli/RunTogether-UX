@@ -19,8 +19,8 @@ We came to the this story because: In our observation we saw that old or middle-
 <b>strengths :</b> <br />
 
 - It shows very well one of our target user who is old,aunmotivated and alone for running and need a group/club for running. <br />
-- It shows very well that the person has not a specific training plan and he wastes his time by watching Tv. <br />
-- It shows very well that the person feels great after joining to the group. <br />
+- It shows very well that the person has not a specific training plan and he wastes his time by watching TV. <br />
+- It shows very well that the person feels satisfied after joining and running with a group. <br />
 
 <b>weaknesses :</b> - <br />
 
