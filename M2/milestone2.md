@@ -24,6 +24,7 @@ We came to the this story because: In our observation we saw that old or middle-
 
 <b>weaknesses :</b>  <br />
 - It is not obvious from drawings that user is old or young and should read the its caption. <br/>
+
 <b>c) how well it achieves the identified goal/user need :</b> It shows very well the user need a group/club for running and he does not have any training plan,and the application ask him his preferences for a week for giving him a specific plan for running. At the end of the story it shows he feels satisified and happy.
 
 <br />
