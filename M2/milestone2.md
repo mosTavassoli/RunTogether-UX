@@ -40,6 +40,7 @@ weaknesses : - <br />
 We came to the this story because: In our interviews we realized that people do not dedicate a certain time for running or doing exercies in their daily routine, although they know it is very helpful for their physical and mental health, they are busy with their works. 
 
 <b>b) which are its strengths and weaknesses : </b> 
+
 <br />
 strengths : <br />
 
