@@ -51,7 +51,7 @@ We came to the this story because: In our interviews we realized that people do 
 - These two stories seem to similar to each others.
 <br />
 
-<b>c) how well it achieves the identified goal/user need :</b> It shows very well the user is busy and need a training plan for following after his work, also it shows if he had someone for running even after work he will go for running although he is tired after work. <br />
+<b>c) how well it achieves the identified goal/user need :</b> It shows very well the user is busy and need a training plan for following after his work, also it shows if he joins to a group for running even after work he will go for running.<br />
 </p>
 <img src="storyboards/StoryBoard2.jpg" width="800" alt="accessibility text">
 
