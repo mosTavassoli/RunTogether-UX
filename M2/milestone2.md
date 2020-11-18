@@ -39,7 +39,8 @@ weaknesses : - <br />
 <b>a) why you chose it : </b>
 We came to the this story because: In our interviews we realized that people do not dedicate a certain time for running or doing exercies in their daily routine, although they know it is very helpful for their physical and mental health, they are busy with their works. 
 
-<b>b) which are its strengths and weaknesses : </b> <br />
+<b>b) which are its strengths and weaknesses : </b> 
+<br />
 strengths : <br />
 1- It shows very well one of our target user who is young,busy and unmotivated for running and at the same he wants to keep fit.<br />
 2- It shows very well that after working hour, running with a group can be enjoybale and also be a motivation for keep going. <br />
@@ -47,6 +48,7 @@ strengths : <br />
 
 weaknesses : - 
 <br />
+
 <b>c) how well it achieves the identified goal/user need :</b> It shows very well the user is busy and need a training plan for following after his work, also it shows if he had someone for running even after work he will go for running. <br />
 </p>
 <img src="storyboards/StoryBoard2.jpg" width="800" alt="accessibility text">
