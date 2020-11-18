@@ -17,12 +17,14 @@ We came to the this story because: In our observation we saw that old or middle-
 
 b) which are its strengths and weaknesses : 
 
-strengths : 
+strengths : <br />
+
 1- It shows very well one of our target user who is old,aunmotivated and alone for running and need a group/club for running. 
 2- It shows very well that the person has not a specific training plan and he wastes his time by watching Tv. 
 3- It shows very well that the person feels great after joining to the group. 
 
 weaknesses : - 
+<br />
 
 c) how well it achieves the identified goal/user need : It shows very well the user need a group/club for running and he does not have any training plan,and the application ask him his preferences for a week for giving him a specific plan for running. At the end of the story it shows he feels satisified and happy.
 
@@ -41,7 +43,8 @@ a) why you chose it :
 We came to the this story because: In our interviews we realized that people do not dedicate a certain time for running or doing exercies in their daily routine, although they know it is very helpful for their physical and mental health, they are busy with their works. 
 
 b) which are its strengths and weaknesses : 
-strengths : 
+strengths : <br />
+
 1- It shows very well one of our target user who is young,busy and unmotivated for running and at the same he wants to keep fit. 
 2- It shows very well that after working hour, running with a group can be enjoybale and also be a motivation for keep going. 
 3- It shows very well that the running group has a leader. 
