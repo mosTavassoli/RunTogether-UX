@@ -107,7 +107,7 @@ By looking at the second prototype, listing pros and cons in this way:
 And the cons:
 
 - some of the features like the "GOAL" tab in the profile page is not clear.
-- the running plandoes not make users eager to follow the plan. the design is not so motivational.
+- the running plan does not make users eager to follow the plan. the design is not so motivational.
 - it is not a good idea to place the Groups button which is one of the main functionalites of the project, inside the user's profile. designing a menu and place it in the mentioned part is a better solution.
 
 Conclusion:
