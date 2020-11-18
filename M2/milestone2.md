@@ -99,7 +99,16 @@ On the other hand, the weaknesses mentioned in this way:
 
 By looking at the second prototype, listing pros and cons in this way:
 
-<!-- Mahtab TODO -->
+- representing the level and total running kilometers for each user can keep him motivated.
+- the user's profile designed in a suitable way which focuses on the main project goals.
+- having the opportunity to create a group for users can make users more motivated.
+- showing the popularity of the group can be a nice point to differentiate groups better.
+
+And the cons:
+
+- some of the features like the "GOAL" tab in the profile page is not clear.
+- the running plandoes not make users eager to follow the plan. the design is not so motivational.
+- it is not a good idea to place the Groups button which is one of the main functionalites of the project, inside the user's profile. designing a menu and place it in the mentioned part is a better solution.
 
 Conclusion:
-After scrutinizing both prototypes, the final choice would be a mixture of the mentioned prototypes. The first one shows functionalities in an organized way and detail; on the other hand, the second one provides a better entering point to the App by choosing a more understandable way. Besides, the shortage of a creating group running by the user could be addressable by the second prototype. Last but not least, the second one could not satisfy the users' requirements in terms of offering consecutive plans of training; however, covering in another prototype.
+After scrutinizing both prototypes, the final choice would be a mixture of the mentioned prototypes. The first one shows functionalities in an organized way and detail; on the other hand, the second one provides a better entering point to the App by choosing a more understandable way. Besides, the shortage of a creating group running by the user could be addressable by the second prototype. Last but not least, the second one could not satisfy the users' requirements in terms of offering consecutive plans of training; however, covering in another prototype. To sum up, the entering point of the application and the functionality of create and choosing groups, will be chosen from the second prototype. the functionality for scheduling plans and keeping users motivated by following the mentioned plan will be chosen from the first prototype.
