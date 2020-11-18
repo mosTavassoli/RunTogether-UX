@@ -12,10 +12,10 @@ We chose these stories based on our observations and interviews.
 
 ### Storyboard 1
 
-a) why you chose it : 
+<b>a) why you chose it : </b>
 We came to the this story because: In our observation we saw that old or middle-aged people are really need to run with a group that has similar preference,age and goal.
 
-b) which are its strengths and weaknesses : 
+<b>b) which are its strengths and weaknesses : </b>
 
 strengths : <br />
 
@@ -26,7 +26,7 @@ strengths : <br />
 weaknesses : - 
 <br />
 
-c) how well it achieves the identified goal/user need : It shows very well the user need a group/club for running and he does not have any training plan,and the application ask him his preferences for a week for giving him a specific plan for running. At the end of the story it shows he feels satisified and happy.
+<b>c) how well it achieves the identified goal/user need :</b> It shows very well the user need a group/club for running and he does not have any training plan,and the application ask him his preferences for a week for giving him a specific plan for running. At the end of the story it shows he feels satisified and happy.
 
 
 <br />
@@ -39,10 +39,10 @@ c) how well it achieves the identified goal/user need : It shows very well the u
 
 ### Storyboard 2
 
-a) why you chose it : 
+<b>a) why you chose it : </b>
 We came to the this story because: In our interviews we realized that people do not dedicate a certain time for running or doing exercies in their daily routine, although they know it is very helpful for their physical and mental health, they are busy with their works. 
 
-b) which are its strengths and weaknesses : 
+<b>b) which are its strengths and weaknesses : </b>
 strengths : <br />
 
 1- It shows very well one of our target user who is young,busy and unmotivated for running and at the same he wants to keep fit. 
@@ -51,7 +51,7 @@ strengths : <br />
 
 weaknesses : - 
 
-c) how well it achieves the identified goal/user need : It shows very well the user is busy and need a training plan for following after his work, also it shows if he had someone for running even after work he will go for running. 
+<b>c) how well it achieves the identified goal/user need :</b> It shows very well the user is busy and need a training plan for following after his work, also it shows if he had someone for running even after work he will go for running. 
 
 </p><br />
 <img src="storyboards/StoryBoard2.jpg" width="800" alt="accessibility text">
