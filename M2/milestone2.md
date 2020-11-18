@@ -16,7 +16,6 @@ We chose these stories based on our observations and interviews.
 We came to the this story because: In our observation we saw that old or middle-aged people are really need to run with a group that has similar preference,age and goal.
 
 <b>b) which are its strengths and weaknesses : </b><br />
-
 strengths : <br />
 
 1- It shows very well one of our target user who is old,aunmotivated and alone for running and need a group/club for running. <br />
