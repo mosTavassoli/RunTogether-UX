@@ -18,9 +18,9 @@ We came to the this story because: In our observation we saw that old or middle-
 <b>b) which are its strengths and weaknesses : </b><br />
 strengths : <br />
 
-1- It shows very well one of our target user who is old,aunmotivated and alone for running and need a group/club for running. <br />
-2- It shows very well that the person has not a specific training plan and he wastes his time by watching Tv. <br />
-3- It shows very well that the person feels great after joining to the group. <br />
+- It shows very well one of our target user who is old,aunmotivated and alone for running and need a group/club for running. <br />
+- It shows very well that the person has not a specific training plan and he wastes his time by watching Tv. <br />
+- It shows very well that the person feels great after joining to the group. <br />
 
 weaknesses : - <br />
 
@@ -42,9 +42,9 @@ We came to the this story because: In our interviews we realized that people do 
 <br />
 strengths : <br />
 
-1- It shows very well one of our target user who is young,busy and unmotivated for running and at the same he wants to keep fit.<br />
-2- It shows very well that after working hour, running with a group can be enjoybale and also be a motivation for keep going. <br />
-3- It shows very well that the running group has a leader. <br />
+- It shows very well one of our target user who is young,busy and unmotivated for running and at the same he wants to keep fit.<br />
+- It shows very well that after working hour, running with a group can be enjoybale and also be a motivation for keep going. <br />
+- It shows very well that the running group has a leader. <br />
 
 weaknesses : - 
 <br />
