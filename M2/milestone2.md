@@ -16,13 +16,13 @@ We chose these stories based on our observations and interviews.
 We came to the this story because: In our observation we saw that old or middle-aged people are really need to run with a group that has similar preference,age and goal.
 
 <b>b) which are its strengths and weaknesses : </b><br />
-strengths : <br />
+<b>strengths :</b> <br />
 
 - It shows very well one of our target user who is old,aunmotivated and alone for running and need a group/club for running. <br />
 - It shows very well that the person has not a specific training plan and he wastes his time by watching Tv. <br />
 - It shows very well that the person feels great after joining to the group. <br />
 
-weaknesses : - <br />
+<b>weaknesses :</b> - <br />
 
 <b>c) how well it achieves the identified goal/user need :</b> It shows very well the user need a group/club for running and he does not have any training plan,and the application ask him his preferences for a week for giving him a specific plan for running. At the end of the story it shows he feels satisified and happy.
 
@@ -40,13 +40,13 @@ We came to the this story because: In our interviews we realized that people do 
 
 <b>b) which are its strengths and weaknesses : </b> 
 <br />
-strengths : <br />
+<b>strengths : </b><br />
 
 - It shows very well one of our target user who is young,busy and unmotivated for running and at the same he wants to keep fit.<br />
 - It shows very well that after working hour, running with a group can be enjoybale and also be a motivation for keep going. <br />
 - It shows very well that the running group has a leader. <br />
 
-weaknesses : - 
+<b>weaknesses :</b> - 
 <br />
 
 <b>c) how well it achieves the identified goal/user need :</b> It shows very well the user is busy and need a training plan for following after his work, also it shows if he had someone for running even after work he will go for running. <br />
