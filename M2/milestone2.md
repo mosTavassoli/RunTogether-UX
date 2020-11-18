@@ -12,7 +12,22 @@ We chose these stories based on our observations and interviews.
 
 ### Storyboard 1
 
-We came to the this story because: In our observation we saw that old or middle-aged people are really need to run with a group that has similar preference,age and goal. In this story the old man is unmotivated,retired and unmotivated so finding a group that people in his age are in it helps him to have a weekly routine for running and at the end improve his physical and mental health. <br />
+a) why you chose it : 
+We came to the this story because: In our observation we saw that old or middle-aged people are really need to run with a group that has similar preference,age and goal.
+
+b) which are its strengths and weaknesses : 
+
+strengths : 
+1- It shows very well one of our target user who is old,aunmotivated and alone for running and need a group/club for running. 
+2- It shows very well that the person has not a specific training plan and he wastes his time by watching Tv. 
+3- It shows very well that the person feels great after joining to the group. 
+
+weaknesses : - 
+
+c) how well it achieves the identified goal/user need : It shows very well the user need a group/club for running and he does not have any training plan,and the application ask him his preferences for a week for giving him a specific plan for running. At the end of the story it shows he feels satisified and happy.
+
+
+<br />
 
 </p>
 
@@ -22,7 +37,18 @@ We came to the this story because: In our observation we saw that old or middle-
 
 ### Storyboard 2
 
-We came to the this story because: In our interviews we realized that people do not dedicate a certain time for running or doing exercies in their daily routine, although they know it is very helpful for their physical and mental health, they are busy with their works. We came to this story that after working hour this person is disappointed because he got fat and he has no motivation for running alone but at the end when he finds a group to join he feel great.
+a) why you chose it : 
+We came to the this story because: In our interviews we realized that people do not dedicate a certain time for running or doing exercies in their daily routine, although they know it is very helpful for their physical and mental health, they are busy with their works. 
+
+b) which are its strengths and weaknesses : 
+strengths : 
+1- It shows very well one of our target user who is young,busy and unmotivated for running and at the same he wants to keep fit. 
+2- It shows very well that after working hour, running with a group can be enjoybale and also be a motivation for keep going. 
+3- It shows very well that the running group has a leader. 
+
+weaknesses : - 
+
+c) how well it achieves the identified goal/user need : It shows very well the user is busy and need a training plan for following after his work, also it shows if he had someone for running even after work he will go for running. 
 
 </p><br />
 <img src="storyboards/StoryBoard2.jpg" width="800" alt="accessibility text">
