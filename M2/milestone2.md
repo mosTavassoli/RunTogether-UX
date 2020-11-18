@@ -21,7 +21,7 @@ strengths : <br />
 
 1- It shows very well one of our target user who is old,aunmotivated and alone for running and need a group/club for running. <br />
 2- It shows very well that the person has not a specific training plan and he wastes his time by watching Tv. <br />
-3- It shows very well that the person feels great after joining to the group. br />
+3- It shows very well that the person feels great after joining to the group. </b>
 
 weaknesses : - 
 <br />
@@ -43,9 +43,9 @@ We came to the this story because: In our interviews we realized that people do 
 
 <b>b) which are its strengths and weaknesses : </b>
 strengths : <br />
-1- It shows very well one of our target user who is young,busy and unmotivated for running and at the same he wants to keep fit. br />
-2- It shows very well that after working hour, running with a group can be enjoybale and also be a motivation for keep going. br />
-3- It shows very well that the running group has a leader. br />
+1- It shows very well one of our target user who is young,busy and unmotivated for running and at the same he wants to keep fit. </b>
+2- It shows very well that after working hour, running with a group can be enjoybale and also be a motivation for keep going. </b>
+3- It shows very well that the running group has a leader. </b>
 
 weaknesses : - 
 <br />
