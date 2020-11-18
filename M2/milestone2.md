@@ -23,8 +23,8 @@ strengths : <br />
 2- It shows very well that the person has not a specific training plan and he wastes his time by watching Tv. <br />
 3- It shows very well that the person feels great after joining to the group. <br />
 
-weaknesses : - 
-<br />
+weaknesses : - <br />
+
 <b>c) how well it achieves the identified goal/user need :</b> It shows very well the user need a group/club for running and he does not have any training plan,and the application ask him his preferences for a week for giving him a specific plan for running. At the end of the story it shows he feels satisified and happy.
 
 <br />
