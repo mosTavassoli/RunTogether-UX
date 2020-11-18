@@ -22,8 +22,8 @@ We came to the this story because: In our observation we saw that old or middle-
 - It shows very well that the person has not a specific training plan and he wastes his time by watching TV. <br />
 - It shows very well that the person feels satisfied after joining and running with a group. <br />
 
-<b>weaknesses :</b> - <br />
-
+<b>weaknesses :</b>  <br />
+- It is not obvious from drawings that user is old or young and should read the its caption. <br/>
 <b>c) how well it achieves the identified goal/user need :</b> It shows very well the user need a group/club for running and he does not have any training plan,and the application ask him his preferences for a week for giving him a specific plan for running. At the end of the story it shows he feels satisified and happy.
 
 <br />
@@ -46,7 +46,8 @@ We came to the this story because: In our interviews we realized that people do 
 - It shows very well that after working hour, running with a group can be enjoybale and also be a motivation for keep going. <br />
 - It shows very well that the running group has a leader. <br />
 
-<b>weaknesses :</b> - 
+<b>weaknesses :</b> 
+- These two stories seem to similar to each others.
 <br />
 
 <b>c) how well it achieves the identified goal/user need :</b> It shows very well the user is busy and need a training plan for following after his work, also it shows if he had someone for running even after work he will go for running. <br />
