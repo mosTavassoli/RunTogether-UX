@@ -20,12 +20,12 @@ We came to the this story because: In our observation we saw that old or middle-
 
 - It shows very well one of our target user who is old,aunmotivated and alone for running and need a group/club for running. <br />
 - It shows very well that the person has not a specific training plan and he wastes his time by watching TV. <br />
-- It shows very well that the person feels satisfied after joining and running with a group. <br />
+- It shows very well that the person feels satisfied after joining and running with the group. <br />
 
 <b>weaknesses :</b>  <br />
-- It is not obvious from drawings that user is old or young and should read the its caption. <br/>
+- It is not clear from drawings that user is old or young and first should read its caption. <br/>
 
-<b>c) how well it achieves the identified goal/user need :</b> It shows very well the user need a group/club for running and he does not have any training plan,and the application ask him his preferences for a week for giving him a specific plan for running. At the end of the story it shows he feels satisified and happy.
+<b>c) how well it achieves the identified goal/user need :</b> It shows very well the user need a group/club for running with other runners, also he does not have any training plan,and the application ask him his preferences for a week for giving him a specific plan for running. At the end of the story it shows he feels satisified and happy.
 
 <br />
 
