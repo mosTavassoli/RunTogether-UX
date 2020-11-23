@@ -67,7 +67,7 @@ The leader was a professional runner. We watched the members they imitate the ex
 <div align="center">
   <img alt="images/observe8" src="images/observe8.jpg" width="350"></div>
   <p style="text-align:justify">
-   During our observation, an old man who was around 50 years old became an interesting choice for our observation, he was a retired man, his name was Roberto. After a slow walking he stopped and started to work with his phone. It was clear for us that he became tired and unmotivatd for comming back to the running, his face was red and he decided to find a seat. After 10 minutes he stood up and started to run very slowly.
+   During our observation, an old man who was around 50 years old became an interesting choice for our observation, he was a retired man. After a slow walking he stopped and started to work with his phone. It was clear for us that he became tired and unmotivatd for comming back to the running, his face was red and he decided to find a seat. After 10 minutes he stood up and started to run very slowly.
 </p>
 
 ### Observation 8
@@ -75,7 +75,7 @@ The leader was a professional runner. We watched the members they imitate the ex
 <div align="center">
   <img alt="images/observe9" src="images/observe9.jpg" width="350"></div>
    <p style="text-align:justify">
-After 10 minutes of slow running, Roberto seemed tired and he was trying to reduce his speed. In that time, Suddenly a woman decided to pass near Roberto, he started to run faster so that the woman could not reach Roberto, it was clear that Roberto felt like he was in a competition, he became motivated for running more which had consequences like increasing his speed and feeling stronger.
+After 10 minutes of slow running, the old man seemed tired and he was trying to reduce his speed. In that time, Suddenly a woman decided to pass near him, he started to run faster so that the woman could not reach Roberto, it was clear that Roberto felt like he was in a competition, he became motivated for running more which had consequences like increasing his speed and feeling stronger.
 </p>
 <br />
 

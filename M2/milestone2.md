@@ -12,7 +12,22 @@ We chose these stories based on our observations and interviews.
 
 ### Storyboard 1
 
-We came to the this story because: In our observation we saw that old or middle-aged people are really need to run with a group that has similar preference,age and goal. In this story the old man is unmotivated,retired and unmotivated so finding a group that people in his age are in it helps him to have a weekly routine for running and at the end improve his physical and mental health. <br />
+<b>a) why you chose it : </b>
+We came to the this story because: In our observation we saw that old or middle-aged people are really need to run with a group that has similar preference,age and goal.
+
+<b>b) which are its strengths and weaknesses : </b><br />
+<b>strengths :</b> <br />
+
+- It shows very well one of our target user who is old,aunmotivated and alone for running and need a group/club for running. <br />
+- It shows very well that the person has not a specific training plan and he wastes his time by watching TV. <br />
+- It shows very well that the person feels satisfied after joining and running with the group. <br />
+
+<b>weaknesses :</b>  <br />
+- It is not clear from drawings that user is old or young and first should read its caption. <br/>
+
+<b>c) how well it achieves the identified goal/user need :</b> It shows very well the user need a group/club for running with other runners, also he does not have any training plan, and the application ask him his preferences for a week for giving him a specific plan for running. At the end of the story it shows he feels satisified and happy.
+
+<br />
 
 </p>
 
@@ -21,10 +36,23 @@ We came to the this story because: In our observation we saw that old or middle-
 <p style="text-align:justify">
 
 ### Storyboard 2
+<b>a) why you chose it : </b>
+We came to the this story because: In our interviews we realized that people do not dedicate a certain time for running or doing exercies in their daily routine, although they know it is very helpful for their physical and mental health, they are busy with their works. 
 
-We came to the this story because: In our interviews we realized that people do not dedicate a certain time for running or doing exercies in their daily routine, although they know it is very helpful for their physical and mental health, they are busy with their works. We came to this story that after working hour this person is disappointed because he got fat and he has no motivation for running alone but at the end when he finds a group to join he feel great.
+<b>b) which are its strengths and weaknesses : </b> 
+<br />
+<b>strengths : </b><br />
 
-</p><br />
+- It shows very well one of our target user who is young,busy and unmotivated for running and at the same time he wants to keep fit.<br />
+- It shows very well that after working hour, running with a group can be enjoybale and also be a motivation for keep going. <br />
+- It shows very well that the group has a leader for guiding the new members. <br />
+
+<b>weaknesses :</b> 
+- These two stories seem to similar to each others.
+<br />
+
+<b>c) how well it achieves the identified goal/user need :</b> It shows very well the user is busy and need a training plan for following after his work, also it shows if he joins to a group for running even after work he will go for running.<br />
+</p>
 <img src="storyboards/StoryBoard2.jpg" width="800" alt="accessibility text">
 
 ## Paper Prototypes
@@ -73,7 +101,16 @@ On the other hand, the weaknesses mentioned in this way:
 
 By looking at the second prototype, listing pros and cons in this way:
 
-<!-- Mahtab TODO -->
+- representing the level and total running kilometers for each user can keep him motivated.
+- the user's profile designed in a suitable way which focuses on the main project goals.
+- having the opportunity to create a group for users can make users more motivated.
+- showing the popularity of the group can be a nice point to differentiate groups better.
+
+And the cons:
+
+- some of the features like the "GOAL" tab in the profile page is not clear.
+- the running plan does not make users eager to follow the plan. the design is not so motivational.
+- it is not a good idea to place the Groups button which is one of the main functionalites of the project, inside the user's profile. designing a menu and place it in the mentioned part is a better solution.
 
 Conclusion:
-After scrutinizing both prototypes, the final choice would be a mixture of the mentioned prototypes. The first one shows functionalities in an organized way and detail; on the other hand, the second one provides a better entering point to the App by choosing a more understandable way. Besides, the shortage of a creating group running by the user could be addressable by the second prototype. Last but not least, the second one could not satisfy the users' requirements in terms of offering consecutive plans of training; however, covering in another prototype.
+After scrutinizing both prototypes, the final choice would be a mixture of the mentioned prototypes. The first one shows functionalities in an organized way and detail; on the other hand, the second one provides a better entering point to the App by choosing a more understandable way. Besides, the shortage of a creating group running by the user could be addressable by the second prototype. Last but not least, the second one could not satisfy the users' requirements in terms of offering consecutive plans of training; however, covering in another prototype. To sum up, the entering point of the application and the functionality of creating and choosing groups, will be chosen from the second prototype. the functionality for scheduling plans and keeping users motivated by following the mentioned plan will be chosen from the first prototype.
