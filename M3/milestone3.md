@@ -16,15 +16,24 @@ After pressing the plus button in the Feed page, the application will monitor th
 <br/>
 Training plan page
 According to the level of the user, the appropriate level of plan will be unlocked and in the next page user can discover the groups which fits his needs and level.
+
+<br/>
 <img src="plan.png" width="500" alt="accessibility text">
 <br/>
+
 Plan details
+
+<br/>
 <img src="pdetail.png" width="500" alt="accessibility text">
 <br/>
+
 Group Search page
 In this page, user can find the groups according to the filters which he applies ( location, number of participants , maximum KM , maximum time )
+
+<br/>
 <img src="search.png" width="500" alt="accessibility text">
 <br/>
+
 After pressing view details, the next page will be shown
 <img src="Gdetails.png" width="500" alt="accessibility text">
 <br/>
