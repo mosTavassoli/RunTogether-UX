@@ -82,27 +82,27 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 
 first facilitator explain the project and main activites, then ask them to do the some tasks to see how they can be involve with the wirefram, forexample: find a running group, join a group, check the progress in running and in the middle of doing these tasks they encounter with some issues and reported to the facilitator. 
 
-Potential changes: 
-1- Return button to home page after joining to a group 
+Potential changes: <br/>
+1- Return button to home page after joining to a group <br/>
 [Feedback evaluator1: You cannot go back after you have joined a run group]
 
-2- Putting this function for filtering the groups based on the location, number of members, max km for runnign and group rate and also by typing name of the group. 
-[Feedback evaluator1:Search bar does not appear in the search menu]
+2- Putting this function for filtering the groups based on the location, number of members, max km for runnign and group rate and also by typing name of the group. <br/>
+[Feedback evaluator1:Search bar does not appear in the search menu]<br/>
 [Feedback evaluator2:The page for searching teams doesn't have a search bar for finding teams by name]
 
-3- Thinking about better icons to convey its main functionality without hesitation.  
+3- Thinking about better icons to convey its main functionality without hesitation.<br/>  
 [Feedback evaluator1: Menu at the bottom of the application lacks description; it is not simple to understand functionality of the icon]
 
-4- The proper set of colors will be apply for buttons and texts. 
+4- The proper set of colors will be apply for buttons and texts. <br/>
 [Feedback evaluator2: Buttons "Join" and "Cancel" in the page for joining a team and also the "Add" button when registering a team all share the same color, making it confusing]
 
-5- Using the proper words for our actions. 
+5- Using the proper words for our actions. <br/>
 [Feedback evaluator2: When adding a new team having the button named as "Add" instead of "Save" isn't conform to standards.]
 
-6- Proper place for creating a new group button. 
+6- Proper place for creating a new group button. <br/>
 [Feedback evaluator2: Having the "+" button for adding a new team in the page for searching teams may not be intuitive at first.]
 
-7- Putting placeholder name for textboxes to help user to write the username and at the same time searching that username.
+7- Putting placeholder name for textboxes to help user to write the username and at the same time searching that username.<br/>
 [Feedback evaluator2: The procedure for adding members isn't easy to understand: requiring the user to insert manually all names in a single text field can lead to errors.] 
 
 
