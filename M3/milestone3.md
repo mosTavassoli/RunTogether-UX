@@ -14,14 +14,14 @@ This page is the starting page of the application. In this page user can discove
 
 <img src="Feed.png" width="500" alt="accessibility text">
 <br/>
-<b>Start workout page</b>
+<b>Start workout page</b><br/>
 After pressing the plus button in the Feed page, the application will monitor the user's running.
 
 <br/>
 <img src="Start.png" width="500" alt="accessibility text">
 <br/>
 
-<b>Training plan page</b>
+<b>Training plan page</b><br/>
 According to the level of the user, the appropriate level of plan will be unlocked and in the next page user can discover the groups which fits his needs and level.
 
 <br/>
@@ -34,7 +34,7 @@ According to the level of the user, the appropriate level of plan will be unlock
 <img src="pdetail.png" width="500" alt="accessibility text">
 <br/>
 
-<b>Group Search page</b>
+<b>Group Search page</b><br/>
 In this page, user can find the groups according to the filters which he applies ( location, number of participants , maximum KM , maximum time )
 
 <br/>
@@ -50,14 +50,14 @@ By selecting the plus button in Group Search page, User can create a group and a
 <img src="Gadd.png" width="500" alt="accessibility text">
 <br/>
 
-<b>Joined Groups</b>
+<b>Joined Groups</b><br/>
 In this page, user can visit or remove the groups that he is joined in.
 
 <br/>
 <img src="Ghistory.png" width="500" alt="accessibility text">
 <br/>
 
-<b>Profile Page</b>
+<b>Profile Page</b><br/>
 The history of running is shown to the user according to the filters he selects ( last week, last month , year)
 <img src="Profile.png" width="500" alt="accessibility text">
 <br/>
