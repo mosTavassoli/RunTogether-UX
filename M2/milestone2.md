@@ -73,14 +73,13 @@ In this prototype, we are focusing on the main goals in the project description;
 <img src="prototype2/1.jpg" width="800" alt="accessibility text"> <br />
 The order of connecting the pages are:
 
-1. The first page is the "User Profile" page, in this page user can visit a history of the runs, plans and goals with the ability to check his progress. by selecting the "Groups" button, user can watch the list of groups page.(last page)
-2. By selecting the "PLAN" in the profile page, user will see the content of the "RUNNING PLAN" page. the content will be fetched dynamically inside the buttom part of the "User Profile" page.
-3. By selecting each squares inside the "RUNNING PLAN" content , the next content with the name of the plan will be shown totally in a new page.( example " RUNNING PLAN1")
-4. After selecting the "Groups" button, a new page with all the groups will be shown. ( the last page )
+1. The first page is the "User Profile" page, in this page user can visit a history of the runs in a week, month or year.
+2. By selecting each squares inside the "RUNNING PLAN" content , the next content with the name of the plan will be shown in a new page.( example " RUNNING PLAN1")
+
    <br />
    <img src="prototype2/2.jpg" width="800" alt="accessibility text"> <br />
-5. When user clicks the plus button in the buttom of the "Groups" page, page "Create A group" will appear. By pressing "ADD" or "CANCEL" button , it will return to the "Groups" page.<br />
-6. After selecting each squares inside the "Groups" page, the last page of the above picture will appear, it will be filled by the details of the selected group. By selecting "JOIN" button, user will be added to the group and he will return to the "Groups" page. After selecting the "CANCEL" the user will be navigated to the "Groups" page.<br />
+3. When user clicks the plus button in the buttom of the "Groups" page, page "Create A group" will appear. By pressing "ADD" or "CANCEL" button , it will return to the "Groups" page.<br />
+4. After selecting each squares inside the "Groups" page, the last page of the above picture will appear, it will be filled by the details of the selected group. By selecting "JOIN" button, user will be added to the group and he will return to the "Groups" page. After selecting the "CANCEL" the user will be navigated to the "Groups" page.<br />
    --The "MAP" content shows a picture of the location of the Run
 
 ## Selection Rationale
@@ -108,9 +107,9 @@ By looking at the second prototype, listing pros and cons in this way:
 
 And the cons:
 
-- some of the features like the "GOAL" tab in the profile page is not clear.
+- some of the features like start the plan of running is not clear.
 - the running plan does not make users eager to follow the plan. the design is not so motivational.
-- it is not a good idea to place the Groups button which is one of the main functionalites of the project, inside the user's profile. designing a menu and place it in the mentioned part is a better solution.
+- the order of the bottom menu should change, in most designs the profile icon is in the right side. 
 
 Conclusion:
 After scrutinizing both prototypes, the final choice would be a mixture of the mentioned prototypes. The first one shows functionalities in an organized way and detail; on the other hand, the second one provides a better entering point to the App by choosing a more understandable way. Besides, the shortage of a creating group running by the user could be addressable by the second prototype. Last but not least, the second one could not satisfy the users' requirements in terms of offering consecutive plans of training; however, covering in another prototype. To sum up, the entering point of the application and the functionality of creating and choosing groups, will be chosen from the second prototype. the functionality for scheduling plans and keeping users motivated by following the mentioned plan will be chosen from the first prototype.
