@@ -104,6 +104,7 @@ first facilitator explain the project and main activites, then ask them to do th
 <b>Our response:</b> For adding a new group the only page that seems related and easier is searching group.<br/>
 
 [<b>Feedback evaluator2:</b> The procedure for adding members isn't easy to understand: requiring the user to insert manually all names in a single text field can lead to errors.]<br/>
+
 <b>Potential change4:</b> Putting placeholder name for textboxes to help user to write the username and at the same time searching that username.<br/>
 
 
