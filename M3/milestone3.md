@@ -28,9 +28,10 @@ According to the level of the user, the appropriate level of plan will be unlock
 <img src="plan.png" width="500" alt="accessibility text">
 <br/>
 
-<b>Plan details</b>
-
+<b>Plan details</b><br/>
+After pressing the train plan, following image will be shown
 <br/>
+
 <img src="pdetail.png" width="500" alt="accessibility text">
 <br/>
 
@@ -47,7 +48,10 @@ After pressing view details in group search page, the next page will be shown
 <br/>
 <img src="Gdetails.png" width="500" alt="accessibility text">
 <br/>
+<b>Add Group page</b><br/>
 By selecting the plus button in Group Search page, User can create a group and add the participants by inserting their user names.
+
+<br/>
 <img src="Gadd.png" width="500" alt="accessibility text">
 <br/>
 
