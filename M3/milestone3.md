@@ -45,7 +45,7 @@ After pressing view details in group search page, the next page will be shown
 <img src="Gdetails.png" width="500" alt="accessibility text">
 <br/>
 <b>Add Group page</b><br/>
-By selecting the plus button in Group Search page, User can create a group and add the participants by inserting their user names.
+By selecting the plus button in Group Search page, User can create a group and add the participants by inserting their user names.<br/>
 
 
 <br/>
