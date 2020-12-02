@@ -83,26 +83,27 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 first facilitator explain the project and main activites, then ask them to do the some tasks to see how they can be involve with the wirefram, forexample: find a running group, join a group, check the progress in running and in the middle of doing these tasks they encounter with some issues and reported to the facilitator. 
 
 <b>Reported Changes with our potential changes:</b> <br/>
-[Feedback evaluator1: You cannot go back after you have joined a run group]<br/>
+
+[<b>Feedback evaluator1:</b> You cannot go back after you have joined a run group]<br/>
 Our response: After joining to a group, it returns to the joined groups and if you cancel you will back to the groups.
 
-[Feedback evaluator1: Search bar does not appear in the search menu]<br/>
-[Feedback evaluator2: The page for searching teams doesn't have a search bar for finding teams by name]<br/>
+[<b>Feedback evaluator1:</b> Search bar does not appear in the search menu]<br/>
+[<b>Feedback evaluator2:</b> The page for searching teams doesn't have a search bar for finding teams by name]<br/>
 <b>Potential change1:</b> Putting this function for filtering the groups based on the location, number of members, max km for runnign and group rate and also by typing name of the group.
 
-[Feedback evaluator1: Menu at the bottom of the application lacks description; it is not simple to understand functionality of the icon]<br/>
+[<b>Feedback evaluator1:</b> Menu at the bottom of the application lacks description; it is not simple to understand functionality of the icon]<br/>
 <b>Potential change2:</b> We will add a short text for each icons such as: Feed,Training,Groups,Profile to convey its  functionality easier and without hesitation.
 
-[Feedback evaluator2: Buttons "Join" and "Cancel" in the page for joining a team and also the "Add" button when registering a team all share the same color, making it confusing]<br/>
+[<b>Feedback evaluator2:</b> Buttons "Join" and "Cancel" in the page for joining a team and also the "Add" button when registering a team all share the same color, making it confusing]<br/>
 <b>Potential change3:</b> The proper set of colors will be apply for buttons and texts.<br/>
 
-[Feedback evaluator2: When adding a new team having the button named as "Add" instead of "Save" isn't conform to standards.]<br/>
+[<b>Feedback evaluator2:</b> When adding a new team having the button named as "Add" instead of "Save" isn't conform to standards.]<br/>
 Our response: We think for adding a new group the proper word is "Add" since we don't want to save changes.  <br/>
 
-[Feedback evaluator2: Having the "+" button for adding a new team in the page for searching teams may not be intuitive at first.]<br/>
+[<b>Feedback evaluator2:</b> Having the "+" button for adding a new team in the page for searching teams may not be intuitive at first.]<br/>
 Our response: For adding a new group the only page that seems related and easier is searching group.<br/>
 
-[Feedback evaluator2: The procedure for adding members isn't easy to understand: requiring the user to insert manually all names in a single text field can lead to errors.]<br/>
+[<b>Feedback evaluator2:</b> The procedure for adding members isn't easy to understand: requiring the user to insert manually all names in a single text field can lead to errors.]<br/>
 <b>Potential change4:</b> Putting placeholder name for textboxes to help user to write the username and at the same time searching that username.<br/>
 
 
