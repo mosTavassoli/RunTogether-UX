@@ -72,3 +72,37 @@ The bottom menu from left to right navigates to Feed page, Training plan page, G
 ## Heuristic Evaluation
 [Describe here the heuristic evaluation you received. In particular, report your preparation of the heuristic evaluation: which material you used (with links and/or pictures). Then, briefly summarize how the heuristic evaluation was conducted by the facilitator, by including 1-2 photos/screenshots from those taken by the facilitator for each evaluation. Include the evaluation result from the evaluators (please mention which group helped you), for example as a link to the on-line spreadsheet.
 Finally, write a non-trivial list of potential changes that your team plans to implement and justify each change by explaining which piece of feedback generates it.]
+
+The evaluation is done with Sportify team through this shared excel document: 
+
+https://docs.google.com/spreadsheets/d/1OdyJ5gXErBWyZoP9PEIsTN6Kymwd0BWhgXqkmuWeM-c/edit#gid=0
+
+The facilitator shared the link of wireframe to evaluators: 
+https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
+
+first facilitator explain the project and main activites, then ask them to do the some tasks to see how they can be involve with the wirefram, forexample: find a running group, join a group, check the progress in running and in the middle of doing these tasks they encounter with some issues and reported to the facilitator. 
+
+Potential changes: 
+1- Return button to home page after joining to a group 
+[Feedback evaluator1: You cannot go back after you have joined a run group]
+
+2- Putting this function for filtering the groups based on the location, number of members, max km for runnign and group rate and also by typing name of the group. 
+[Feedback evaluator1:Search bar does not appear in the search menu]
+[Feedback evaluator2:The page for searching teams doesn't have a search bar for finding teams by name]
+
+3- Thinking about better icons to convey its main functionality without hesitation.  
+[Feedback evaluator1: Menu at the bottom of the application lacks description; it is not simple to understand functionality of the icon]
+
+4- The proper set of colors will be apply for buttons and texts. 
+[Feedback evaluator2: Buttons "Join" and "Cancel" in the page for joining a team and also the "Add" button when registering a team all share the same color, making it confusing]
+
+5- Using the proper words for our actions. 
+[Feedback evaluator2: When adding a new team having the button named as "Add" instead of "Save" isn't conform to standards.]
+
+6- Proper place for creating a new group button. 
+[Feedback evaluator2: Having the "+" button for adding a new team in the page for searching teams may not be intuitive at first.]
+
+7- Putting placeholder name for textboxes to help user to write the username and at the same time searching that username.
+[Feedback evaluator2: The procedure for adding members isn't easy to understand: requiring the user to insert manually all names in a single text field can lead to errors.] 
+
+
