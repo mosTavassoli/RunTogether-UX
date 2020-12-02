@@ -4,47 +4,60 @@ _ISTRUCTIONS_: Fill this template by writing under each title, according to the 
 
 ## Wireframe
 [Add here the link to the PDF documents, or embed the images, that represent your wireframe. Briefly explain which tool you used to create the wireframe, any relevant decision you took starting from the outcome of M2, and describe in short the navigation among pages (with a picture or in text).]
+
 Tools: the final wireframe is drawn in Figma
-After designing the pen and paper prototype in M2, we decided to complete the missing description and choose a better title for the pages in prototype 2, so we add 2 pages containing the actions for start running and discovering last activities in the joined groups. Moreover, the page for Training plan was changed into another design to motivate users more. In the last Molestone, the design for the profile page contained some tabs in the middle of the page and it became an issue, hence we decided to move the tabs to the bottom of the page in a specific menu.
-Feed page
-This page is the starting page of the application. In this page user can discover the last notifications or plans for running from the nearby groups or the groups which he joined.
+<br/>
+After designing the pen and paper prototype in M2, we decided to complete the missing description and choose a better title for the pages in prototype 2, so we add 2 pages containing the actions for start running and discovering last activities in the joined groups. Moreover, the page for Training plan was changed into another design to motivate users more. In the last Molestone, the design for the profile page contained some tabs in the middle of the page and it became an issue, hence we decided to move the tabs to the bottom of the page in a specific menu.<br/>
+
+<b>Feed page</b><br/>
+This page is the starting page of the application. In this page user can discover the last notifications or plans for running from the nearby groups or the groups which he joined.<br/>
+
 <img src="Feed.png" width="500" alt="accessibility text">
 <br/>
-Start workout page
+<b>Start workout page</b>
 After pressing the plus button in the Feed page, the application will monitor the user's running.
+
+<br/>
 <img src="Start.png" width="500" alt="accessibility text">
 <br/>
-Training plan page
+
+<b>Training plan page</b>
 According to the level of the user, the appropriate level of plan will be unlocked and in the next page user can discover the groups which fits his needs and level.
 
 <br/>
 <img src="plan.png" width="500" alt="accessibility text">
 <br/>
 
-Plan details
+<b>Plan details</b>
 
 <br/>
 <img src="pdetail.png" width="500" alt="accessibility text">
 <br/>
 
-Group Search page
+<b>Group Search page</b>
 In this page, user can find the groups according to the filters which he applies ( location, number of participants , maximum KM , maximum time )
 
 <br/>
 <img src="search.png" width="500" alt="accessibility text">
 <br/>
 
-After pressing view details, the next page will be shown
+After pressing view details in group search page, the next page will be shown
+
+<br/>
 <img src="Gdetails.png" width="500" alt="accessibility text">
 <br/>
 By selecting the plus button in Group Search page, User can create a group and add the participants by inserting their user names.
 <img src="Gadd.png" width="500" alt="accessibility text">
 <br/>
-Joined Groups
+
+<b>Joined Groups</b>
 In this page, user can visit or remove the groups that he is joined in.
+
+<br/>
 <img src="Ghistory.png" width="500" alt="accessibility text">
 <br/>
-Profile Page
+
+<b>Profile Page</b>
 The history of running is shown to the user according to the filters he selects ( last week, last month , year)
 <img src="Profile.png" width="500" alt="accessibility text">
 <br/>
