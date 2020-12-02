@@ -82,7 +82,7 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 
 first facilitator explain the project and main activites, then ask them to do the some tasks to see how they can be involve with the wirefram, forexample: find a running group, join a group, check the progress in running and in the middle of doing these tasks they encounter with some issues and reported to the facilitator. 
 
-<b>Reported Changes with our potential changes:</b> <br/>
+<b>Feedbacks with our potential changes:</b> <br/>
 
 [<b>Feedback evaluator1:</b> You cannot go back after you have joined a run group]<br/>
 <b>Our response:</b> After joining to a group, it returns to the joined groups and if you cancel you will back to the groups.
