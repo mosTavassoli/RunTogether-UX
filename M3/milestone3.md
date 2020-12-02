@@ -12,7 +12,7 @@ After designing the pen and paper prototype in M2, we decided to complete the mi
 <b>Feed page</b><br/>
 This page is the starting page of the application. In this page user can discover the last notifications or plans for running from the nearby groups or the groups which he joined.<br/>
 
-<img src="Feed.png" width="500" alt="accessibility text">
+<img src="Feed.png"  width="500" alt="accessibility text">
 <br/>
 <b>Start workout page</b><br/>
 After pressing the plus button in the Feed page, the application will monitor the user's running. <br/><br/>
@@ -37,9 +37,8 @@ In this page, user can find the groups according to the filters which he applies
 <br/>
 <img src="search.png" width="500" alt="accessibility text">
 <br/>
-
-After pressing view details in group search page, the next page will be shown
-
+<b>Group detail page</b><br/>
+After pressing view details in group search page, the next page will be shown<br/>
 
 <br/>
 <img src="Gdetails.png" width="500" alt="accessibility text">
