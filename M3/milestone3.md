@@ -85,7 +85,7 @@ first facilitator explain the project and main activites, then ask them to do th
 <b>Reported Changes with our potential changes:</b> <br/>
 
 [<b>Feedback evaluator1:</b> You cannot go back after you have joined a run group]<br/>
-Our response: After joining to a group, it returns to the joined groups and if you cancel you will back to the groups.
+<b>Our response:</b> After joining to a group, it returns to the joined groups and if you cancel you will back to the groups.
 
 [<b>Feedback evaluator1:</b> Search bar does not appear in the search menu]<br/>
 [<b>Feedback evaluator2:</b> The page for searching teams doesn't have a search bar for finding teams by name]<br/>
@@ -98,10 +98,10 @@ Our response: After joining to a group, it returns to the joined groups and if y
 <b>Potential change3:</b> The proper set of colors will be apply for buttons and texts.<br/>
 
 [<b>Feedback evaluator2:</b> When adding a new team having the button named as "Add" instead of "Save" isn't conform to standards.]<br/>
-Our response: We think for adding a new group the proper word is "Add" since we don't want to save changes.  <br/>
+<b>Our response:</b> We think for adding a new group the proper word is "Add" since we don't want to save changes.  <br/>
 
 [<b>Feedback evaluator2:</b> Having the "+" button for adding a new team in the page for searching teams may not be intuitive at first.]<br/>
-Our response: For adding a new group the only page that seems related and easier is searching group.<br/>
+<b>Our response:</b> For adding a new group the only page that seems related and easier is searching group.<br/>
 
 [<b>Feedback evaluator2:</b> The procedure for adding members isn't easy to understand: requiring the user to insert manually all names in a single text field can lead to errors.]<br/>
 <b>Potential change4:</b> Putting placeholder name for textboxes to help user to write the username and at the same time searching that username.<br/>
