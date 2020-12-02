@@ -15,7 +15,7 @@ This page is the starting page of the application. In this page user can discove
 <img src="images/Feed.png"  width="500" alt="accessibility text">
 <br/>
 <b>Start workout page</b><br/>
-After pressing the plus button in the Feed page, the application will monitor the user's running. <br/><br/>
+After pressing "start the run" button in the Feed page, the application will monitor the user's running. <br/><br/>
 <img src="images/Start.png" width="500" alt="accessibility text">
 <br/>
 
