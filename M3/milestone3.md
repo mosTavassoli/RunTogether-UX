@@ -43,6 +43,7 @@ In this page, user can find the groups according to the filters which he applies
 
 After pressing view details in group search page, the next page will be shown
 
+
 <br/>
 <img src="Gdetails.png" width="500" alt="accessibility text">
 <br/>
@@ -53,12 +54,15 @@ By selecting the plus button in Group Search page, User can create a group and a
 <b>Joined Groups</b><br/>
 In this page, user can visit or remove the groups that he is joined in.
 
+
 <br/>
 <img src="Ghistory.png" width="500" alt="accessibility text">
 <br/>
 
 <b>Profile Page</b><br/>
 The history of running is shown to the user according to the filters he selects ( last week, last month , year)
+
+<br/>
 <img src="Profile.png" width="500" alt="accessibility text">
 <br/>
 The bottom menu from left to right navigates to Feed page, Training plan page, Group Search page, Joined Groups page and Profile page.
