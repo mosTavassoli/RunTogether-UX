@@ -74,7 +74,6 @@ The bottom menu from left to right navigates to Feed page, Training plan page, G
 Finally, write a non-trivial list of potential changes that your team plans to implement and justify each change by explaining which piece of feedback generates it.]
 
 The evaluation is done with Sportify team through this shared excel document: <br/>
-
 https://docs.google.com/spreadsheets/d/1OdyJ5gXErBWyZoP9PEIsTN6Kymwd0BWhgXqkmuWeM-c/edit#gid=0 <br/>
 
 The facilitator shared the link of wireframe to evaluators: <br/>
@@ -82,7 +81,7 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 
 first facilitator explain the project and main activites, then ask them to do the some tasks to see how they can be involve with the wirefram, forexample: find a running group, join a group, check the progress in running and in the middle of doing these tasks they encounter with some issues and reported to the facilitator. 
 
-Potential changes: <br/>
+<strong>Potential changes: </strong><br/>
 1-Return button to home page after joining to a group <br/>
 [Feedback evaluator1: You cannot go back after you have joined a run group]
 
