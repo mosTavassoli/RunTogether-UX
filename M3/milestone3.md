@@ -15,16 +15,12 @@ This page is the starting page of the application. In this page user can discove
 <img src="Feed.png" width="500" alt="accessibility text">
 <br/>
 <b>Start workout page</b><br/>
-After pressing the plus button in the Feed page, the application will monitor the user's running.
-
-<br/>
+After pressing the plus button in the Feed page, the application will monitor the user's running. <br/><br/>
 <img src="Start.png" width="500" alt="accessibility text">
 <br/>
 
 <b>Training plan page</b><br/>
-According to the level of the user, the appropriate level of plan will be unlocked and in the next page user can discover the groups which fits his needs and level.
-
-<br/>
+According to the level of the user, the appropriate level of plan will be unlocked and in the next page user can discover the groups which fits his needs and level.<br/><br/>
 <img src="plan.png" width="500" alt="accessibility text">
 <br/>
 
@@ -50,6 +46,7 @@ After pressing view details in group search page, the next page will be shown
 <br/>
 <b>Add Group page</b><br/>
 By selecting the plus button in Group Search page, User can create a group and add the participants by inserting their user names.
+
 
 <br/>
 <img src="Gadd.png" width="500" alt="accessibility text">
