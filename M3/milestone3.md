@@ -83,12 +83,12 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 first facilitator explain the project and main activites, then ask them to do the some tasks to see how they can be involve with the wirefram, forexample: find a running group, join a group, check the progress in running and in the middle of doing these tasks they encounter with some issues and reported to the facilitator. 
 
 Reported Changes with our potential changes: <br/>
-[Feedback evaluator1: You cannot go back after you have joined a run group]<br/>
-Our response: After joining to a group, it returns to the joined groups and if you cancel you will back to the groups.
+[<b>Feedback evaluator1:</b> You cannot go back after you have joined a run group]<br/>
+<b>Our response:</b> After joining to a group, it returns to the joined groups and if you cancel you will back to the groups.
 
-[Feedback evaluator1: Search bar does not appear in the search menu]<br/>
-[Feedback evaluator2: The page for searching teams doesn't have a search bar for finding teams by name]<br/>
-Potential change1: Putting this function for filtering the groups based on the location, number of members, max km for runnign and group rate and also by typing name of the group.
+[<b>Feedback evaluator1:</b> Search bar does not appear in the search menu]<br/>
+[<b>Feedback evaluator2:</b> The page for searching teams doesn't have a search bar for finding teams by name]<br/>
+<b>Potential change1:</b> Putting this function for filtering the groups based on the location, number of members, max km for runnign and group rate and also by typing name of the group.
 
 [Feedback evaluator1: Menu at the bottom of the application lacks description; it is not simple to understand functionality of the icon]<br/>
 Potential change2: We will add a short text for each icons such as: Feed,Training,Groups,Profile to convey its  functionality easier and without hesitation.
