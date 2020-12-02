@@ -12,43 +12,43 @@ After designing the pen and paper prototype in M2, we decided to complete the mi
 <b>Feed page</b><br/>
 This page is the starting page of the application. In this page user can discover the last notifications or plans for running from the nearby groups or the groups which he joined.<br/>
 
-<img src="Feed.png"  width="500" alt="accessibility text">
+<img src="images/Feed.png"  width="500" alt="accessibility text">
 <br/>
 <b>Start workout page</b><br/>
 After pressing the plus button in the Feed page, the application will monitor the user's running. <br/><br/>
-<img src="Start.png" width="500" alt="accessibility text">
+<img src="images/Start.png" width="500" alt="accessibility text">
 <br/>
 
 <b>Training plan page</b><br/>
 According to the level of the user, the appropriate level of plan will be unlocked and in the next page user can discover the groups which fits his needs and level.<br/><br/>
-<img src="plan.png" width="500" alt="accessibility text">
+<img src="images/plan.png" width="500" alt="accessibility text">
 <br/>
 
 <b>Plan details</b><br/>
 After pressing the train plan, following image will be shown
 <br/>
 
-<img src="pdetail.png" width="500" alt="accessibility text">
+<img src="images/pdetail.png" width="500" alt="accessibility text">
 <br/>
 
 <b>Group Search page</b><br/>
 In this page, user can find the groups according to the filters which he applies ( location, number of participants , maximum KM , maximum time )
 
 <br/>
-<img src="search.png" width="500" alt="accessibility text">
+<img src="images/search.png" width="500" alt="accessibility text">
 <br/>
 <b>Group detail page</b><br/>
 After pressing view details in group search page, the next page will be shown<br/>
 
 <br/>
-<img src="Gdetails.png" width="500" alt="accessibility text">
+<img src="images/Gdetails.png" width="500" alt="accessibility text">
 <br/>
 <b>Add Group page</b><br/>
 By selecting the plus button in Group Search page, User can create a group and add the participants by inserting their user names.<br/>
 
 
 <br/>
-<img src="Gadd.png" width="500" alt="accessibility text">
+<img src="images/Gadd.png" width="500" alt="accessibility text">
 <br/>
 
 <b>Joined Groups</b><br/>
@@ -56,14 +56,14 @@ In this page, user can visit or remove the groups that he is joined in.
 
 
 <br/>
-<img src="Ghistory.png" width="500" alt="accessibility text">
+<img src="images/Ghistory.png" width="500" alt="accessibility text">
 <br/>
 
 <b>Profile Page</b><br/>
 The history of running is shown to the user according to the filters he selects ( last week, last month , year)
 
 <br/>
-<img src="Profile.png" width="500" alt="accessibility text">
+<img src="images/Profile.png" width="500" alt="accessibility text">
 <br/>
 The bottom menu from left to right navigates to Feed page, Training plan page, Group Search page, Joined Groups page and Profile page.
 
