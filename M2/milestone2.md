@@ -55,6 +55,30 @@ We came to the this story because: In our interviews we realized that people do 
 </p>
 <img src="storyboards/StoryBoard2.jpg" width="800" alt="accessibility text">
 
+
+
+### Storyboard 3
+
+<b>a) why you chose it : </b>
+We came to the this story because: In our interviews we realized that people need to have a peer-runner in the same level and following a certain training plan.
+
+<b>b) which are its strengths and weaknesses : </b> 
+<br />
+<b>strengths : </b><br />
+
+- Clearly shows that slow runner can not be at the same speed as the fast runner, so he feels disappointed<br />
+- It is well defined the user need, he needs to run with people at the same level as him and following a certian training plan to improve himself <br />
+- It has a good ending, the sad runner joins to a beginner group that doing step by step warming up exercies and then running. 
+
+<b>weaknesses :</b> 
+- For this one is not anything to mention.
+<br />
+
+<b>c) how well it achieves the identified goal/user need :</b> The main needs for the user were two things: 1-To run with people in the same level of him 2-Following a certain training plan to improve his level step by step(form beginner to advance level)<br />
+</p>
+<img src="storyboards/StoryBoard3.jpg" width="800" alt="accessibility text">
+
+
 ## Paper Prototypes
 
 <!-- [Report here the two realized paper prototypes, by including a comprehensive set of digital photos or scans of them (captions included) and by summarizing how they connect to the storyboard and the project description, and how they explore different alternative ways of satisfying the project goal. Be sure to include the high-level flow of each "screen" of both paper prototypes.] -->
