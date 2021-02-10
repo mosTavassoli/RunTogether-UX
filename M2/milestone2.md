@@ -78,7 +78,7 @@ We came to the this story because: In our interviews we realized that people nee
 1-To run with people in the same level of him 
 2-Following a certain training plan to improve his level step by step(form beginner to advance level) through joining to the beginner group<br />
 </p>
-![StoryBoard3]<img src="storyboards/StoryBoard3.jpg" width="800" alt="accessibility text">
+<img src="storyboards/StoryBoard3.jpg" width="800" alt="accessibility text">
 
 
 ## Paper Prototypes
