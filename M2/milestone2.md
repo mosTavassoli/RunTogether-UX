@@ -60,23 +60,25 @@ We came to the this story because: In our interviews we realized that people do 
 ### Storyboard 3
 
 <b>a) why you chose it : </b>
-We came to the this story because: In our interviews we realized that people need to have a peer-runner in the same level and following a certain training plan.
+We came to the this story because: In our interviews we realized that people need to run with people in the same level as them to keep motivated and following a certain training plan to improve themselves.
 
 <b>b) which are its strengths and weaknesses : </b> 
 <br />
 <b>strengths : </b><br />
 
 - Clearly shows that slow runner can not be at the same speed as the fast runner, so he feels disappointed<br />
-- It is well defined the user need, he needs to run with people at the same level as him and following a certian training plan to improve himself <br />
-- It has a good ending, the sad runner joins to a beginner group that doing step by step warming up exercies and then running. 
+- It is well defined the user need, he needs to run with people at the same level of him and following a certian training plan to improve himself <br />
+- It has a good ending, finally the sad runner joined to a beginner group that has training plan and doing step by step warming up exercies and then running. 
 
 <b>weaknesses :</b> 
-- For this one is not anything to mention.
+- There is not any to mention.
 <br />
 
-<b>c) how well it achieves the identified goal/user need :</b> The main needs for the user were two things: 1-To run with people in the same level of him 2-Following a certain training plan to improve his level step by step(form beginner to advance level)<br />
+<b>c) how well it achieves the identified goal/user need :</b> The main needs for the user were two things: 
+1-To run with people in the same level of him 
+2-Following a certain training plan to improve his level step by step(form beginner to advance level) through joining to the beginner group<br />
 </p>
-<img src="storyboards/StoryBoard3.jpg" width="800" alt="accessibility text">
+![StoryBoard3]<img src="storyboards/StoryBoard3.jpg" width="800" alt="accessibility text">
 
 
 ## Paper Prototypes
