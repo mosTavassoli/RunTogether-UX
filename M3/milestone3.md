@@ -86,7 +86,7 @@ First facilitator explained the description and main activites of the project, t
 
 ### Tasks 
 
-|  | Description |
+| # | Description |
 | ------:| -----------:|
 | T1   | Find a group for running |
 | T2   | Join a group |
@@ -124,7 +124,7 @@ First facilitator explained the description and main activites of the project, t
 
 ### List of changes 
 
-|  | Changes  |
+| # | Changes  |
 | ------:| -----------:|
 | 1   | Filtering the groups and searching groups by name |
 | 2   | Adding text and icon for bottom menu |
