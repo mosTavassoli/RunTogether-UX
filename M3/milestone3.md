@@ -128,7 +128,7 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 Based on the feedback, we came to these potential changes.
 
 | # | Changes  | Rating
-| ------:| -----------:|
+| ------:| -----------:| ------:|
 | 1   | Realtime search by entering the name of user for creating the group |4|
 | 2   | Filtering the groups and searching groups by name |2|
 | 3   | Adding text and icon for bottom menu |2|
