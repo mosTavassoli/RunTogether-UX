@@ -105,7 +105,7 @@ While the evaluator was doing the certain task, the another teammate capture the
 
 Task: Join a group             | Task: Create a group, Join a group
 :-------------------------:|:-------------------------:
-![](<img src="images/heuristic/JoinGroup.gif" width="300" alt="Heuristic Evaluation">)  | ![](<img src="images/heuristic/CreateJoinGroup.gif" width="300" alt="Heuristic Evaluation">)
+<img src="images/heuristic/JoinGroup.gif" width="300" alt="Heuristic Evaluation">  | <img src="images/heuristic/CreateJoinGroup.gif" width="300" alt="Heuristic Evaluation">
 
 ## Feedbacks 
 
