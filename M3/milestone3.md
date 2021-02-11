@@ -82,7 +82,21 @@ https://docs.google.com/spreadsheets/d/1OdyJ5gXErBWyZoP9PEIsTN6Kymwd0BWhgXqkmuWe
 The facilitator shared the link of wireframe to the evaluators: <br/>
 https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 
-First facilitator explained the description and main activites of the project, then ask them to do the some tasks to see how they can be involve with the wireframe, forexample: find a running group, join to a group, check their progress in running, search a group and so on, and in the middle of doing these tasks they encountered with some doubts, or issues and they reported to the facilitator. 
+First facilitator explained the description and main activites of the project, then ask them to do the some tasks to see how they can be involve with the wireframe,the list of tasks are in the below table. In the middle of doing these tasks they encountered with some doubts, or issues and they reported to the facilitator. 
+
+### Tasks 
+
+| # | Description |
+| ------:| -----------:|
+| T1   | Find a group for running |
+| T2   | Join a group |
+| T3   | Check your running progress in the last week/ last month |
+| T4   | Check your joined groups |
+| T5   | Check the total KM that you runned |
+| T6   | Check the details of a group|
+| T7   | Create a group |
+
+
 
 <b>Feedbacks with our potential changes:</b> <br/>
 
@@ -108,4 +122,11 @@ First facilitator explained the description and main activites of the project, t
 [<b>Feedback evaluator2:</b> The procedure for adding members isn't easy to understand: requiring the user to insert manually all names in a single text field can lead to errors.]<br/>
 <b>Potential change4:</b> Putting placeholder name for textboxes to help user to write the username and at the same time searching that username.<br/>
 
+### List of changes 
 
+| # | Changes  |
+| ------:| -----------:|
+| 1   | Filtering the groups and searching groups by name |
+| 2   | Adding text and icon for bottom menu |
+| 3   | The proper set of colors will be apply for buttons and texts |
+| 4   | Realtime search by entering the name of user for creating the group |
