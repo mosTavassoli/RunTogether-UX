@@ -12,7 +12,7 @@ After designing the pen and paper prototype in M2, we decided to complete the mi
 <b>Feed page</b><br/>
 This page is the starting page of the application. In this page user can discover the last notifications or plans for running from the nearby groups or the groups which he joined.<br/>
 
-<img src="images/gray/Feed.png"  width="300" alt="accessibility text">
+<img src="images/gray/Feed.png"  width="300" alt="accessibility text" style="border 1px solid black">
 <br/>
 <b>Start workout page</b><br/>
 After pressing "start the run" button in the Feed page, the application will monitor the user's running. <br/><br/>
