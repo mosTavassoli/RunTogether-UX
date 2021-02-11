@@ -86,7 +86,7 @@ First facilitator explained the description and main activites of the project, t
 
 ### Tasks 
 
-| # | Description |
+| # | Tasks |
 | ------:| -----------:|
 | T1   | Find a group for running |
 | T2   | Join a group |
