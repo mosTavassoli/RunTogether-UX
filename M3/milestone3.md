@@ -76,13 +76,15 @@ The below image is showing clearly the navigations between pages.The footer menu
 <!--[Describe here the heuristic evaluation you received. In particular, report your preparation of the heuristic evaluation: which material you used (with links and/or pictures). Then, briefly summarize how the heuristic evaluation was conducted by the facilitator, by including 1-2 photos/screenshots from those taken by the facilitator for each evaluation. Include the evaluation result from the evaluators (please mention which group helped you), for example as a link to the on-line spreadsheet.
 Finally, write a non-trivial list of potential changes that your team plans to implement and justify each change by explaining which piece of feedback generates it.]-->
 
-The evaluation is done with <b>Sportify</b> team through this shared excel document: <br/>
+### Overview
+For Heuristic Evaluation we asked the Sportify Team. First facilitator explained the project's description and main activites, then facilitator asked the evaluator to do the some tasks through the wireframe. The list of tasks are in the below table. While doing these tasks they encountered with some issues and doubts, the evaluator jot down on the paper and at the end the two evaluators entered their feedbacks into the sheet and they sent it to the facilitator. 
+
+The faciliator shared the excel document and ask them after finishing the evaluation it is needed to fill this sheet:<br/>
 https://docs.google.com/spreadsheets/d/1OdyJ5gXErBWyZoP9PEIsTN6Kymwd0BWhgXqkmuWeM-c/edit#gid=0
 
 The facilitator shared the link of wireframe to the evaluators: <br/>
 https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 
-First facilitator explained the description and main activites of the project, then ask them to do the some tasks to see how they can be involve with the wireframe,the list of tasks are in the below table. In the middle of doing these tasks they encountered with some doubts, or issues and they reported to the facilitator. 
 
 ### Tasks 
 
@@ -98,12 +100,21 @@ First facilitator explained the description and main activites of the project, t
 
 
 
-<b>Feedbacks with our potential changes:</b> <br/>
+## Non-trivial list of potential changes
 
-[<b>Feedback evaluator1:</b> You cannot go back after you have joined a run group]<br/>
-<b>Our response:</b> After joining to a group, it returns to the joined groups and if you cancel you will back to the groups.
+### Evaluator 1
 
-[<b>Feedback evaluator1:</b> Search bar does not appear in the search menu]<br/>
+| # | Feedback  | Potential Changes | yes/no| Reason
+| ------:| -----------:|-----------:|-----------:|
+| 1|You cannot go back after you have joined a run group  | no | After joining to a group, it will redirect to the joined groups and if you cancel you will back to the groups.|
+| 2   | Search bar does not appear in the search menu | yes | Filtering the groups and searching groups by name
+| 3   | Menu at the bottom of the application lacks description; it is not simple to understand functionality of the icon | yes| We will add a short text for each icons such as: Feed,Training,Groups,Profile to convey its  functionality easier and without hesitation.
+
+
+
+
+
+
 [<b>Feedback evaluator2:</b> The page for searching teams doesn't have a search bar for finding teams by name]<br/>
 <b>Potential change1:</b> Putting this function for filtering the groups based on the location, number of members, max km for runnign and group rate and also by typing name of the group.
 
@@ -122,7 +133,7 @@ First facilitator explained the description and main activites of the project, t
 [<b>Feedback evaluator2:</b> The procedure for adding members isn't easy to understand: requiring the user to insert manually all names in a single text field can lead to errors.]<br/>
 <b>Potential change4:</b> Putting placeholder name for textboxes to help user to write the username and at the same time searching that username.<br/>
 
-### List of changes 
+### Non-trivial list of potential changes 
 
 | # | Changes  |
 | ------:| -----------:|
