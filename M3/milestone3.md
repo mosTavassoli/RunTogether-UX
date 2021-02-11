@@ -111,7 +111,9 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 | 3   | Menu at the bottom of the application lacks description; it is not simple to understand functionality of the icon | yes| We will add a short text for each icons such as: Feed,Training,Groups,Profile to convey its  functionality easier and without hesitation.
 
 
-
+| # | Feedback  | Changes |
+| ------:| -----------:|-----------:|
+| 1   |  |	|
 
 
 
