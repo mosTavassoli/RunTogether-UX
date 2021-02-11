@@ -12,43 +12,43 @@ After designing the pen and paper prototype in M2, we decided to complete the mi
 <b>Feed page</b><br/>
 This page is the starting page of the application. In this page user can discover the last notifications or plans for running from the nearby groups or the groups which he joined.<br/>
 
-<img src="images/gray/Feed.png"  width="300" alt="accessibility text" style="border: 1px solid;">
+<img src="images/gray/Feed.png"  width="300" alt="Feed page">
 <br/>
 <b>Start workout page</b><br/>
 After pressing "start the run" button in the Feed page, the application will monitor the user's running. <br/><br/>
-<img src="images/gray/Start.png" width="300" alt="accessibility text">
+<img src="images/gray/Start.png" width="300" alt="Start workout page">
 <br/>
 
 <b>Training plan page</b><br/>
 According to the level of the user, the appropriate level of plan will be unlocked and in the next page user can discover the groups which fits his needs and level.<br/><br/>
-<img src="images/gray/plan.png" width="300" alt="accessibility text">
+<img src="images/gray/plan.png" width="300" alt="Training plan page">
 <br/>
 
 <b>Plan details</b><br/>
 After pressing the train plan, following image will be shown
 <br/>
 
-<img src="images/gray/pdetail.png" width="300" alt="accessibility text">
+<img src="images/gray/pdetail.png" width="300" alt="Plan details">
 <br/>
 
 <b>Group Search page</b><br/>
 In this page, user can find the groups according to the filters which he applies ( location, number of participants , maximum KM , maximum time )
 
 <br/>
-<img src="images/gray/search.png" width="300" alt="accessibility text">
+<img src="images/gray/search.png" width="300" alt="Group Search page">
 <br/>
 <b>Group detail page</b><br/>
 After pressing view details in group search page, the next page will be shown<br/>
 
 <br/>
-<img src="images/gray/Gdetails.png" width="300" alt="accessibility text">
+<img src="images/gray/Gdetails.png" width="300" alt="Group detail page">
 <br/>
 <b>Add Group page</b><br/>
 By selecting the plus button in Group Search page, User can create a group and add the participants by inserting their user names.<br/>
 
 
 <br/>
-<img src="images/gray/Gadd.png" width="300" alt="accessibility text">
+<img src="images/gray/Gadd.png" width="300" alt="Add Group page">
 <br/>
 
 <b>Joined Groups</b><br/>
@@ -56,17 +56,21 @@ In this page, user can visit or remove the groups that he is joined in.
 
 
 <br/>
-<img src="images/gray/Ghistory.png" width="300" alt="accessibility text">
+<img src="images/gray/Ghistory.png" width="300" alt="Joined Groups">
 <br/>
 
 <b>Profile Page</b><br/>
 The history of running is shown to the user according to the filters he selects ( last week, last month , year)
 
 <br/>
-<img src="images/gray/Profile.png" width="300" alt="accessibility text">
+<img src="images/gray/Profile.png" width="300" alt="Profile Page">
 <br/>
-The bottom menu from left to right navigates to Feed page, Training plan page, Group Search page, Joined Groups page and Profile page.
 
+<b>Navigation</b><br/>
+The bottom menu from left to right navigates to Feed, Training plan, Group Search, Joined Groups and Profile page.
+The below image is showing clearly the navigations between pages. 
+ 
+<img src="images/Navigations.png" width="800" alt="Navigation between pages">
 
 
 ## Heuristic Evaluation
