@@ -100,9 +100,14 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 
 
 ### Screenshots  
-While the evaluator was doing the certain task, the another teammate capture the screen. 
+While the evaluator was doing the certain task, the another teammate capture the screen. The task for create and join the group was given to both of the evaluators and the below the screen was recorded.
 
+### Evaluator1 
+Task T2 
 <img src="images/heuristic/JoinGroup.gif" width="300" alt="Heuristic Evaluation">
+
+### Evaluator2
+Task T2 and T7 
 <img src="images/heuristic/CreateJoinGroup.gif" width="300" alt="Heuristic Evaluation">
 
 
