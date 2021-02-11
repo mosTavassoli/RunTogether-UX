@@ -100,7 +100,7 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 
 
 
-## Non-trivial list of potential changes
+## Feedbacks 
 
 ### Evaluator 1
 
