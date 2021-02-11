@@ -104,42 +104,34 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 
 ### Evaluator 1
 
-| # | Feedback  | Potential Changes | yes/no| Reason
-| ------:| -----------:|-----------:|-----------:|
-| 1|You cannot go back after you have joined a run group  | no | After joining to a group, it will redirect to the joined groups and if you cancel you will back to the groups.|
-| 2   | Search bar does not appear in the search menu | yes | Filtering the groups and searching groups by name
-| 3   | Menu at the bottom of the application lacks description; it is not simple to understand functionality of the icon | yes| We will add a short text for each icons such as: Feed,Training,Groups,Profile to convey its  functionality easier and without hesitation.
+| # | Feedback  | Changes |
+| ------:| -----------:|-----------:|
+| 1   | You cannot go back after you have joined a run group |  After joining to a group, it will redirect to the joined groups and if you cancel you will back to the groups	|
+| 2   | Search bar does not appear in the search menu | Filtering the groups and searching groups by name	|
+| 3   |Menu at the bottom of the application lacks description; it is not simple to understand functionality of the icon |We will add a short text for each icons such as: Feed,Training,Groups,Profile to convey its  functionality easier and without hesitation|
+| 4   |Plus button in the search menu is counterintuitive; it is better to place it in the homepage||
 
+
+### Evaluator 2
 
 | # | Feedback  | Changes |
 | ------:| -----------:|-----------:|
-| 1   |  |	|
+| 1   |The page for searching teams doesn't have a search bar for finding teams by name | Putting this function for filtering the groups based on the location, number of members, max km for runnign and group rate and also by typing name of the group  |
+| 2   |When choosing a team to join the button "Join" appears in the position occupied by the "Cancel" button in the page that comes before| The arrangement of the buttons will be fixed |
+| 3   |Buttons "Join" and "Cancel" in the page for joining a team and also the "Add" button when registering a team all share the same color, making it confusing| The proper set of colors will be apply for buttons and texts |
+| 4   |When adding a new team having the button named as "Add" instead of "Save" isn't conform to standards.| We think for adding a new group the proper word is "Create" |
+| 5   |Having the "+" button for adding a new team in the page for searching teams may not be intuitive at first.| For adding a new group the only page that seems related and easier is searching group |
+| 6   |The procedure for adding members isn't easy to understand: requiring the user to insert manually all names in a single text field can lead to errors.|Putting placeholder name for textboxes to help user to write the username and at the same time searching that username |
 
-
-
-[<b>Feedback evaluator2:</b> The page for searching teams doesn't have a search bar for finding teams by name]<br/>
-<b>Potential change1:</b> Putting this function for filtering the groups based on the location, number of members, max km for runnign and group rate and also by typing name of the group.
-
-[<b>Feedback evaluator1:</b> Menu at the bottom of the application lacks description; it is not simple to understand functionality of the icon]<br/>
-<b>Potential change2:</b> We will add a short text for each icons such as: Feed,Training,Groups,Profile to convey its  functionality easier and without hesitation.
-
-[<b>Feedback evaluator2:</b> Buttons "Join" and "Cancel" in the page for joining a team and also the "Add" button when registering a team all share the same color, making it confusing]<br/>
-<b>Potential change3:</b> The proper set of colors will be apply for buttons and texts.<br/>
-
-[<b>Feedback evaluator2:</b> When adding a new team having the button named as "Add" instead of "Save" isn't conform to standards.]<br/>
-<b>Our response:</b> We think for adding a new group the proper word is "Add" since we don't want to save changes.  <br/>
-
-[<b>Feedback evaluator2:</b> Having the "+" button for adding a new team in the page for searching teams may not be intuitive at first.]<br/>
-<b>Our response:</b> For adding a new group the only page that seems related and easier is searching group.<br/>
-
-[<b>Feedback evaluator2:</b> The procedure for adding members isn't easy to understand: requiring the user to insert manually all names in a single text field can lead to errors.]<br/>
-<b>Potential change4:</b> Putting placeholder name for textboxes to help user to write the username and at the same time searching that username.<br/>
 
 ### Non-trivial list of potential changes 
+Based on the feedback, we came to these potential changes.
 
-| # | Changes  |
+| # | Changes  | Rating
 | ------:| -----------:|
-| 1   | Filtering the groups and searching groups by name |
-| 2   | Adding text and icon for bottom menu |
-| 3   | The proper set of colors will be apply for buttons and texts |
-| 4   | Realtime search by entering the name of user for creating the group |
+| 1   | Realtime search by entering the name of user for creating the group |4|
+| 2   | Filtering the groups and searching groups by name |2|
+| 3   | Adding text and icon for bottom menu |2|
+| 4   | The proper set of colors will be apply for buttons and texts |2|
+| 5   | The proper arrangement for buttons (join and cancel) |2|
+
