@@ -97,6 +97,7 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 | T5   | Check the total KM that you runned |
 | T6   | Check the details of a group|
 | T7   | Create a group |
+| T8   | Check the training plan for the beginner level |
 
 
 ### Screenshots  
@@ -107,6 +108,9 @@ While the evaluator was doing the certain task, the another teammate capture the
 | ------| -----------|
 | Join a group|<img src="images/heuristic/JoinGroup.gif" alt="Heuristic Evaluation">  
 | Create a group, Join a group|<img src="images/heuristic/CreateJoinGroup.gif"  alt="Heuristic Evaluation"> 
+| Start run|<img src="images/heuristic/StartRun.gif"  alt="Heuristic Evaluation"> 
+| Check the training plan for the beginner level|<img src="images/heuristic/CheckTrainingPlan.gif"  alt="Heuristic Evaluation"> 
+| Check your profile|<img src="images/heuristic/checkProfile.gif"  alt="Heuristic Evaluation"> 
 
 ## Feedbacks 
 
