@@ -89,7 +89,7 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 ### Tasks 
 
 | # | Tasks |
-| ------:| -----------:|
+| ------| -----------|
 | T1   | Find a group for running |
 | T2   | Join a group |
 | T3   | Check your running progress in the last week/ last month |
@@ -105,7 +105,7 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 ### Evaluator 1
 
 | # | Feedback  | Changes |
-| ------:| -----------:|-----------:|
+| ------| -----------|-----------|
 | 1   | You cannot go back after you have joined a run group |  After joining to a group, it will redirect to the joined groups and if you cancel you will back to the groups	|
 | 2   | Search bar does not appear in the search menu | Filtering the groups and searching groups by name	|
 | 3   |Menu at the bottom of the application lacks description; it is not simple to understand functionality of the icon |We will add a short text for each icons such as: Feed,Training,Groups,Profile to convey its  functionality easier and without hesitation|
@@ -115,7 +115,7 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 ### Evaluator 2
 
 | # | Feedback  | Changes |
-| ------:| -----------:|-----------:|
+| ------| -----------|-----------|
 | 1   |The page for searching teams doesn't have a search bar for finding teams by name | Putting this function for filtering the groups based on the location, number of members, max km for runnign and group rate and also by typing name of the group  |
 | 2   |When choosing a team to join the button "Join" appears in the position occupied by the "Cancel" button in the page that comes before| The arrangement of the buttons will be fixed |
 | 3   |Buttons "Join" and "Cancel" in the page for joining a team and also the "Add" button when registering a team all share the same color, making it confusing| The proper set of colors will be apply for buttons and texts |
@@ -128,7 +128,7 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 Based on the feedback, we came to these potential changes.
 
 | # | Changes  | Rating
-| ------:| -----------:| ------:|
+| ------| -----------| ------|
 | 1   | Realtime search by entering the name of user for creating the group |4|
 | 2   | Filtering the groups and searching groups by name |2|
 | 3   | Adding text and icon for bottom menu |2|
