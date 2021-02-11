@@ -67,8 +67,7 @@ The history of running is shown to the user according to the filters he selects 
 <br/>
 
 <b>Navigation</b><br/>
-The bottom menu from left to right navigates to Feed, Training plan, Group Search, Joined Groups and Profile page.
-The below image is showing clearly the navigations between pages. 
+The below image is showing clearly the navigations between pages.The footer menu from left to right navigates to Feed, Training plan, Group Search, Joined Groups and Profile page. 
  
 <img src="images/Navigations.png" width="800" alt="Navigation between pages">
 
