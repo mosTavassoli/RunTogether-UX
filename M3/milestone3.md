@@ -99,6 +99,12 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 | T7   | Create a group |
 
 
+### Screenshots  
+While the evaluator was doing the certain task, the another teammate capture the screen. 
+
+<img src="images/heuristic/JoinGroup.gif" width="300" alt="Heuristic Evaluation">
+<img src="images/heuristic/CreateJoinGroup.gif" width="300" alt="Heuristic Evaluation">
+
 
 ## Feedbacks 
 
