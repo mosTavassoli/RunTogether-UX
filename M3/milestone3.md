@@ -103,9 +103,10 @@ https://www.figma.com/file/6H5F2Tti7uppQfdXxuSG5t/profile-page?node-id=109%3A240
 While the evaluator was doing the certain task, the another teammate capture the screen. The task for create and join the group was given to both of the evaluators and the below the screen was recorded.
 
 
-Task: Join a group             | Task: Create a group, Join a group
+     Screenshot       | Task
 :-------------------------:|:-------------------------:
-<img src="images/heuristic/JoinGroup.gif" alt="Heuristic Evaluation">  | <img src="images/heuristic/CreateJoinGroup.gif"  alt="Heuristic Evaluation">
+<img src="images/heuristic/JoinGroup.gif" alt="Heuristic Evaluation">  | Join a group 
+<img src="images/heuristic/CreateJoinGroup.gif"  alt="Heuristic Evaluation"> | Create a group, Join a group
 
 ## Feedbacks 
 
