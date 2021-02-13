@@ -146,5 +146,4 @@ Based on the feedbacks, we came to these potential changes.
 | 3   | Adding text and icon for bottom menu |2|
 | 4   | The proper set of colors will be apply for buttons and texts |2|
 | 5   | The proper arrangement for buttons (join and cancel) |2|
-| 6   | Putting placeholder name for textboxes to help user to write the username and at the same time searching that username |4|
 
