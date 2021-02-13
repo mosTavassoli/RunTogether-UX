@@ -7,7 +7,7 @@
 
 Tools: the final wireframe is drawn in Figma
 <br/>
-After designing the pen and paper prototype in M2, we decided to complete the missing description and choose a better title for the pages in prototype 2, so we add 2 pages containing the actions for start running and discovering last activities in the joined groups. Moreover, the page for Training plan was changed into another design to motivate users more. In the last Molestone, the design for the profile page contained some tabs in the middle of the page and it became an issue, hence we decided to move the tabs to the bottom of the page in a specific menu.<br/>
+After designing the pen and paper prototype in M2, we decided to complete the missing description and choose a better title for the pages in prototype 2, so we add 2 pages containing the actions for start running and discovering last activities in the joined groups. Moreover, the page for Training plan was changed into another design to motivate users more, because according to our observation1 we realized that users in the same group need to have same level(Beginner, Intermediate and Advance), so we categorized the training plans based on the user level and the first active one is Beginner. In the previous Milestone, the design for the profile page contained some tabs in the middle of the page and it became an issue, hence we decided to move the tabs to the bottom of the page in a specific menu.<br/>
 
 <b>Feed page</b><br/>
 This page is the starting page of the application. In this page user can discover the last notifications or plans for running from the nearby groups or the groups which he joined.<br/>
@@ -137,7 +137,7 @@ While the evaluator was doing the certain task, the another teammate capture the
 
 
 ### Non-trivial list of potential changes 
-Based on the feedback, we came to these potential changes.
+Based on the feedbacks, we came to these potential changes.
 
 | # | Changes  | Rating
 | ------| -----------| ------|
@@ -146,4 +146,5 @@ Based on the feedback, we came to these potential changes.
 | 3   | Adding text and icon for bottom menu |2|
 | 4   | The proper set of colors will be apply for buttons and texts |2|
 | 5   | The proper arrangement for buttons (join and cancel) |2|
+| 6   | Putting placeholder name for textboxes to help user to write the username and at the same time searching that username |4|
 
