@@ -93,6 +93,6 @@ According the findings, we came to this changes.
 
 | Task | The Finding | Potential Change |
 | ------ | ----------- | ----------- |
-| T4   |User could not find the search and filter box for searching the groups|We changed the UI of the group page for seacrging the groups,The search and filter inputs moved to the top of the page and we divide the page to two sections with the border. After that we did another test(test4) and we realized that user does not have any problem for finding the search and filter box|
+| T4   |User could not find the search and filter box for searching the groups|We changed the UI of the group page for seacrging the groups,The search and filter inputs moved to the top of the page and we divided the page to two sections with the border. After that we did another test (4) and we observed user has not any problem for finding the search and filter box|
 
 
