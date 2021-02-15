@@ -20,7 +20,7 @@ Additionally, write a non-trivial list of potential changes that your team would
 
 ### Tasks  
 
-| Task | Feedback |
+| Task | Task Description |
 | ------ | ----------- |
 | T1   |Complete one running activity, send your feedback  |
 | T2   |View the beginner training plan  |
@@ -38,7 +38,7 @@ Additionally, write a non-trivial list of potential changes that your team would
 | Task | Feedback |
 | ------ | ----------- |
 | T1   | Complete task with confusion, need guidance to reach the starting activity |
-| T4   | What is popularity based on what? |
+| T4   | User does not know the popularity is based on what. |
 | T6   | After leave group redirect back to the group page |
 
 
@@ -58,7 +58,7 @@ Additionally, write a non-trivial list of potential changes that your team would
 | ------ | ----------- |
 | T1   |Confused about using this part, feedback for after the activity is vague|
 | T3   |User does not find the + button for creating group|
-| T4   |Confusing the ICON, User does not use box for searching|
+| T4   |Confusing Icons: User does not know what is the popularity is based on, User does not use box for searching|
 | T7   |User does not use box for searching|
 
 
@@ -66,8 +66,8 @@ Additionally, write a non-trivial list of potential changes that your team would
 
 | Task | Feedback |
 | ------ | ----------- |
-| T1   |Timer for running will be should be count when switch between pages|
-| T5   |What is the vertical column of activity chart|
+| T1   |Timer for running should count when switching between pages|
+| T5   |The vertical column of activity chart is unclear|
 
 
 ### Test 5 Findings  
@@ -75,16 +75,16 @@ Additionally, write a non-trivial list of potential changes that your team would
 | Task | Feedback |
 | ------ | ----------- |
 | T1   |Some issues for the feedback part|
-| T4   |Could not find the sort box|
-| T7   |Could not find Search box|
+| T4   |User could not find the sort box|
+| T7   |User could not find the search box|
 
 
 ### Test 6 Findings  
 
 | Task | Feedback |
 | ------ | ----------- |
-| T1   |Completed the second part. For the first part there were some issues for using map in web mode|
-| T4   |Could not find the sort box. Better to use icons|
+| T1   |For the first part there were some issues for using map in web mode |
+| T4   |Could not find the sort box|
 
 
 ### Potential Changes
@@ -93,5 +93,6 @@ According the findings, we came to this changes.
 
 | Task | The Finding | Potential Change |
 | ------ | ----------- | ----------- |
-| T4   |User could not find the search and filter box for searching the groups|We changed the UI of the group page for seacrging the groups,The search inputs moved to the top of the page and after that we did another test and we realized that user does not have any problem for finding the search and filter box|
+| T4   |User could not find the search and filter box for searching the groups|We changed the UI of the group page for seacrging the groups,The search and filter inputs moved to the top of the page and we divide the page to two sections with the border. After that we did another test(test4) and we realized that user does not have any problem for finding the search and filter box|
+
 
