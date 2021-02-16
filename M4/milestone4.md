@@ -31,8 +31,7 @@ https://docs.google.com/document/d/1AGQGMVq5sMoOScChSwV_q5StmOa6UngURsYtSEhDSBs/
 
 
 ### Artifacts
-+ [Informed consent form]
-+ Pre-test questionnaire
++ [Informed consent form](./docs/Informed consent form.pdf)
 + Post-Task Questionnaire: Single Ease Question (SEQ)
 + Post-test questionnaire (SUS)
 
@@ -65,6 +64,10 @@ The full script is available [in this document.](./text_documents/script_english
 | T6   |Leave from one of your joined group |||
 | T7   |Find the MILANO group; check its information |||
 | T8   |Check your created group |||
+
+
+### Post-Task Questionnaire: Single Ease Question (SEQ)
+After finishing each task the difficuly level of the given task was asked. 
 
 
 ### Post-test oral questions  
