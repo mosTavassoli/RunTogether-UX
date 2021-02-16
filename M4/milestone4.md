@@ -39,7 +39,11 @@ Recruiting is conducted orally, with a brief list of questions to verify that th
 
 - **Methodologies:** Think-aloud for tasks 1 to 5
 
-- **Post-test debriefing with participant:** SUS questionnaire, oral questions about task execution and general impressions
+* **Measures (for each task):**
+  - Successful Task Completion
+  - Critical Errors
+  - Non-Critical Errors
+  - Error-Free Rate
 
 - **Measures (for each task):**
   - Successful Task Completion (0-1)
@@ -103,16 +107,16 @@ During the usability tests, we captured screenshots in the moments were necessar
 
 After all the heuristic evaluations, we gathered all the data in order to analyze some of the iussues present in the system.
 
-| Task # | # Successful Task Completion[0-1] | # Critical Errors | # Non-Critical Errors | Error-Free Rate |
-| ------ | --------------------------------- | ----------------- | --------------------- | --------------- |
-| 1      | 1                                 | 0                 | 0                     |                 |
-| 2      |                                   | 0                 | 0                     |                 |
-| 3      |                                   | 0                 | 0                     |                 |
-| 4      |                                   | 0                 | 0                     |                 |
-| 5      |                                   | 0                 | 0                     |                 |
-| 6      |                                   | 0                 | 0                     |                 |
-| 7      |                                   | 0                 | 0                     |                 |
-| 8      |                                   | 0                 | 0                     |                 |
+| Task # | # Successful Task Completion | # Critical Errors | # Non-Critical Errors | Error-Free Rate |
+| ------ | ---------------------------- | ----------------- | --------------------- | --------------- |
+| 1      | 6                            | 0                 | 2                     | 0.75            |
+| 2      | 6                            | 0                 | 0                     | 1.0             |
+| 3      | 6                            | 0                 | 1                     | 1.0             |
+| 4      | 4                            | 2                 | 3                     | 0.5             |
+| 5      | 6                            | 0                 | 1                     | 1.0             |
+| 6      | 6                            | 0                 | 1                     | 1.0             |
+| 7      | 5                            | 1                 | 2                     | 0.75            |
+| 8      | 6                            | 0                 | 0                     | 1.0             |
 
 ### SUS Results
 
