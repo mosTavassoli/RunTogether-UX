@@ -191,7 +191,7 @@ The scores are all above 88.75, meaning that out interface can be considered to 
 
 ### Post-test considerations
 
-we recieved positive feedbacks from users, specially for having the functionality of showing groups to users and enabling them to join the groups. Some feedbacks we received about the possibility to change or improve some parts of the interface such as starting activity, searching groups and extending features of profile page. Other feedbacks were mainly about changing color of buttons or adding some icons specially when he needs to enter the inputs. To sum up, most feedbacks were positive about accepting this application and trying to use them in every day life.
+We received positive feedback from users, especially for having the functionality of showing groups to users and enabling them to join the groups. Some feedback we received about the possibility to change or improve some parts of the interface such as starting the activity, searching groups, and extending features of the profile page. Other feedbacks were mainly about changing the color of buttons or adding some icons especially when he needs to enter the inputs. To sum up, most feedbacks were positive about accepting this application and trying to use them in everyday life.
 
 ### Test 1 Findings
 
