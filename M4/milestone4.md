@@ -53,14 +53,14 @@ The full script is available [here.](./docs/Script.md)
 
 | Task | Task Description | Methodology | Success criteria| 
 | ------ | ----------- |----------- |----------- |
-| T1   |Complete one running activity, send your feedback  |Think-aloud|Successful Task Completion|
-| T2   |View the beginner training plan  |Think-aloud|Successful Task Completion|
-| T3   |Create a running group and add one participant |Think-aloud|Successful Task Completion|
-| T4   |Find the most popular running group to join |Think-aloud|Successful Task Completion|
-| T5   |Check your history of running |Think-aloud|Successful Task Completion|
-| T6   |Leave from one of your joined group ||Successful Task Completion|
-| T7   |Find the MILANO group; check its information ||Successful Task Completion|
-| T8   |Check your created group ||Successful Task Completion|
+| T1   |Complete one running activity, send your feedback  |Think-aloud|Successful Task Completion(0-1)|
+| T2   |View the beginner training plan  |Think-aloud|Successful Task Completion(0-1)|
+| T3   |Create a running group and add one participant |Think-aloud|Successful Task Completion(0-1)|
+| T4   |Find the most popular running group to join |Think-aloud|Successful Task Completion(0-1)|
+| T5   |Check your history of running |Think-aloud|Successful Task Completion(0-1)|
+| T6   |Leave from one of your joined group |Think-aloud|Successful Task Completion(0-1)|
+| T7   |Find the MILANO group; check its information |Think-aloud|Successful Task Completion(0-1)|
+| T8   |Check your created group |Think-aloud|Successful Task Completion(0-1)|
 
 
 ### Post-Task Questionnaire: Single Ease Question (SEQ)
@@ -79,9 +79,8 @@ The tasks were read by the facilitator to the participant, and repeated when the
 During the usability tests, we captured screenshots in the moments were necessary while the meeting was recorded. 
 
 
+
 ## Results and List of Changes
-[Report the results from the evalation. In particular, summarize the results and findings (along with the most significant photos/sketches with caption), any relevant pain points and/or successful tasks, along with a brief discussion about what you discovered and learned about your prototype.
-Additionally, write a non-trivial list of potential changes that your team would like to implement to fix the main issues emerged from the usability test. Justify each change by explaining which piece of feedback generates it.]
 
 After all the heuristic evaluations, we gathered all the data in order to analyze some of the iussues present in the system.
 
@@ -90,7 +89,7 @@ After all the heuristic evaluations, we gathered all the data in order to analyz
 | ------ | ---------------------------- | ----------------- | --------------------- | --------------- |
 | 1      |                             | 0                 | 0                     |              |
 | 2      |                             | 0                 | 0                     |             |
-| 3      |                             | 0                 | 0                     |              |
+| 3      |                            | 0                 | 0                     |              |
 | 4      |                             | 0                 | 0                     |              |
 | 5      |                             | 0                 | 0                     |              |
 | 6      |                             | 0                 | 0                     |              |
