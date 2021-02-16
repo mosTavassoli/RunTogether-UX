@@ -91,7 +91,7 @@ During the usability tests, we captured screenshots in the moments were necessar
 
 
 <div align="center">
-  <img src="images/T5.png" width="350" alt="accessibility text">
+  <img src="images/T5.png" alt="accessibility text">
 </div>
   <p style="text-align:justify">
   <b> *Task 2*:</b> The user check his running activity, he does not know what is the vertical column of chart is*  
@@ -101,7 +101,7 @@ During the usability tests, we captured screenshots in the moments were necessar
 
 
 <div align="center">
-  <img src="images/1.jpg" width="350" alt="accessibility text">
+  <img src="images/1.jpg" alt="accessibility text">
 </div>
   <p style="text-align:justify">
   <b> *Task 4*:</b> The user could not find the search and filtering the groups* 
