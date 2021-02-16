@@ -1,16 +1,12 @@
 # Milestone 4: Usability Testing - Run Together
 
-_ISTRUCTIONS_: Fill this template by writing under each title, according to the instructions reported in `[]`. When you have done, remove this line, and put the file in your private group repository on GitHub, under a `M4` folder.
-
 ## Overview and Script
-[Describe here the evaluation you conducted. Add the link to the PDF/Markdown document that represents the usability testing protocol.]
+
 
 ### Preparation and setup 
 The usability testing has been done through each pair of team members, one as Facilitator for introducing the application and giving the tasks, and another one as Note-takers take notes of the participant’s behavior, comments, errors and completion of each task. 
 The application runned on the faciliator's PC and through Zoom the permission for working with the application was given to the participant and the meeting was recording. The notetaker was connected to the meeting and observed everything. 
 
-
-https://docs.google.com/document/d/1AGQGMVq5sMoOScChSwV_q5StmOa6UngURsYtSEhDSBs/edit?usp=sharing
 
 
 ### Participants
@@ -18,7 +14,7 @@ https://docs.google.com/document/d/1AGQGMVq5sMoOScChSwV_q5StmOa6UngURsYtSEhDSBs/
 + Age range: 18-70
 + Basic skills in using a smartphone
 + Expertise with our app: no, never seen it 
-+ Usage of running apps: yes at least once a day
++ Usage of running apps: yes at least once in a month
 + Doing running activity: yes at least once in a month 
 + At least basic knowledge of English
 
@@ -30,8 +26,9 @@ https://docs.google.com/document/d/1AGQGMVq5sMoOScChSwV_q5StmOa6UngURsYtSEhDSBs/
 + Pen and paper (notetakers)
 
 
+
 ### Artifacts
-+ [Informed consent form](./docs/Informed consent form.pdf)
++ [Informed consent form](./docs/InformedConsentForm.pdf)
 + Post-Task Questionnaire: Single Ease Question (SEQ)
 + [Post-test questionnaire (SUS)](./docs/SUS.pdf)
 
@@ -40,8 +37,8 @@ Recruiting is conducted orally, with a brief list of questions to verify that th
 
 ### Execution
 + **Roles:**  
-One facilitator and two notetakers (all remotely).  
-The full script is available [in this document.](./docs/Script.md)
+One facilitator and one notetakers (all remotely).  
+The full script is available [here.](./docs/Script.md)
 
 + **Methodologies:** Think-aloud for tasks 1 to 5  
 
@@ -49,6 +46,7 @@ The full script is available [in this document.](./docs/Script.md)
 
 + **Measures (for each task):**
 	+ Successful Task Completion
+	+ Difficulty Level 
 
 
 
@@ -123,7 +121,6 @@ After all the heuristic evaluations, we gathered all the data in order to analyz
 | 8            |   1    |     1   |    1     |  1     |2|1|
 | 9            |    4   |    4    |   5      |  5     |5|5|
 | 10            |   1    |   1     |    1     |    1   |1|1|
-
 | **TOTAL**    | 80 | 82.5 | 95 | 97.5 | 85 | 92.5|
 
 
@@ -186,7 +183,7 @@ After all the heuristic evaluations, we gathered all the data in order to analyz
 
 ### List of Changes
 
-According the findings, we came to this changes.
+According the findings, we came to these changes.
 
 | Task | The Finding | Potential Change |
 | ------ | ----------- | ----------- |
