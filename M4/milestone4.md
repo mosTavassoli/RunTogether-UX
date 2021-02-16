@@ -81,7 +81,7 @@ During the usability tests, we captured screenshots in the moments were necessar
 
 
 <div align="center">
-  <img src="images/T7.png" width="350" alt="accessibility text">
+  <img src="images/T7.png" alt="accessibility text">
 </div>
   <p style="text-align:justify">
   <b> *Task 7*:</b> The user has confusion about the details of the group, why the date,time and location for running is always same*   
