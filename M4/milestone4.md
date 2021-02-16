@@ -54,21 +54,21 @@ The full script is available [in this document.](./docs/Script.md)
 
 ### Tasks  
 
-| Task | Task Description | Methodology | Success criteria|
-| ------ | ----------- |
-| T1   |Complete one running activity, send your feedback  |||
-| T2   |View the beginner training plan  |||
-| T3   |Create a running group and add one participant |||
-| T4   |Find the most popular running group to join |||
-| T5   |Check your history of running |||
-| T6   |Leave from one of your joined group |||
-| T7   |Find the MILANO group; check its information |||
-| T8   |Check your created group |||
+| Task | Task Description | Methodology | Success criteria| Difficulty level
+| ------ | ----------- |----------- |----------- |----------- |
+| T1   |Complete one running activity, send your feedback  ||||
+| T2   |View the beginner training plan  ||||
+| T3   |Create a running group and add one participant ||||
+| T4   |Find the most popular running group to join ||||
+| T5   |Check your history of running ||||
+| T6   |Leave from one of your joined group ||||
+| T7   |Find the MILANO group; check its information ||||
+| T8   |Check your created group ||||
 
 
 ### Post-Task Questionnaire: Single Ease Question (SEQ)
 After finishing each task the difficuly level of the given task was asked. 
-
+1. very difficult  	2.	3.	4.	5.	6.	7.very easy
 
 ### Post-test oral questions  
 + In general, how was your experience with our application?
@@ -188,6 +188,8 @@ According the findings, we came to this changes.
 
 | Task | The Finding | Potential Change |
 | ------ | ----------- | ----------- |
+|T1| For most of the users the form after running activity was vague, we redesign this form and put proper space between the fields. 
 | T4   |User could not find the search and filter box for searching the groups|We changed the UI of the group page for seacrging the groups,The search and filter inputs moved to the top of the page and we divided the page to two sections with the border. After that we did another test (4) and we observed user has not any problem for finding the search and filter box|
+|T5| The KM added to the chart | 
 
 
