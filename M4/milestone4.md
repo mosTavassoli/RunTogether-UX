@@ -26,7 +26,6 @@ The application ran on the facilitator's PC and through Zoom, the permission for
 ### Artifacts
 
 - [Informed consent form](./docs/InformedConsentForm.pdf)
-- Post-Task Questionnaire: Single Ease Question (SEQ)
 - [Post-test questionnaire (SUS)](./docs/SUS.pdf)
 
 Recruiting is conducted orally, with a brief list of questions to verify that the potential participant respects the constraints.
