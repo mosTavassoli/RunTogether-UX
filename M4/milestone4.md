@@ -79,7 +79,6 @@ After finishing each task the difficuly level of the given task was asked.
 The tasks were read by the facilitator to the participant, and repeated when the participant asked them.
 During the usability tests, we captured screenshots in the moments were necessary while the meeting was recorded.
 
-
 <div align="center">
   <img src="images/T7.png" alt="accessibility text">
 </div>
@@ -89,7 +88,6 @@ During the usability tests, we captured screenshots in the moments were necessar
 
 <br/>
 
-
 <div align="center">
   <img src="images/T5.png" alt="accessibility text">
 </div>
@@ -98,7 +96,6 @@ During the usability tests, we captured screenshots in the moments were necessar
 </p>
 
 <br/>
-
 
 <div align="center">
   <img src="images/1.jpg" alt="accessibility text">
@@ -146,6 +143,26 @@ After all the heuristic evaluations, we gathered all the data in order to analyz
 | 6      | 6                            | 0                 | 1                     | 0.83            |
 | 7      | 5                            | 1                 | 2                     | 0.4             |
 | 8      | 6                            | 0                 | 0                     | 1.0             |
+
+### Successful Task Completion
+
+The number of participants who completed the task successfully. The only tasks (T4,T7) were not completed by all the participants.
+
+### Critical Errors
+
+The critical errors for these (T4, T7) tasks are about finding the Searching and Filtering box in the page and users did not use them for finding and filtering the groups, becuase the user for the first time use this application could not find them at the first glance.
+
+### Non-Critical Errors
+
+For the Non-Critical Errors for the T1, for giving the feedback after Running activity the user found the form vague and complex for filling the activity.
+For T3, the user could not find the + button to create the group.
+For T6, after leaving the user could not redirect back the group page.
+
+### Error-Free Rate
+
+Analyzing the measures computed on the tasks, we discovered that some tasks are more difficult than others to the user.
+Tasks with an Error-Free Rate > 0.75 (T1, T2, T3, T5, T6, T8) can be consider easy for the user to do.
+The tasks with Error-Free Rate = 0.5 are difficult Tasks (T4, T7).
 
 ### SUS Results
 
