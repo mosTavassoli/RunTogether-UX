@@ -45,23 +45,22 @@ The full script is available [here.](./docs/Script.md)
 + **Post-test debriefing with participant:** SUS questionnaire, oral questions about task execution and general impressions  
 
 + **Measures (for each task):**
-	+ Successful Task Completion
-	+ Difficulty Level 
+	+ Successful Task Completion (0-1)
 
 
 
 ### Tasks  
 
-| Task | Task Description | Methodology | Success criteria| Difficulty level
+| Task | Task Description | Methodology | Success criteria| 
 | ------ | ----------- |----------- |----------- |----------- |
-| T1   |Complete one running activity, send your feedback  ||||
-| T2   |View the beginner training plan  ||||
-| T3   |Create a running group and add one participant ||||
-| T4   |Find the most popular running group to join ||||
-| T5   |Check your history of running ||||
-| T6   |Leave from one of your joined group ||||
-| T7   |Find the MILANO group; check its information ||||
-| T8   |Check your created group ||||
+| T1   |Complete one running activity, send your feedback  |Think-aloud|Successful Task Completion|
+| T2   |View the beginner training plan  |Think-aloud|Successful Task Completion|
+| T3   |Create a running group and add one participant |Think-aloud|Successful Task Completion|
+| T4   |Find the most popular running group to join |Think-aloud|Successful Task Completion|
+| T5   |Check your history of running |Think-aloud|Successful Task Completion|
+| T6   |Leave from one of your joined group ||Successful Task Completion|
+| T7   |Find the MILANO group; check its information ||Successful Task Completion|
+| T8   |Check your created group ||Successful Task Completion|
 
 
 ### Post-Task Questionnaire: Single Ease Question (SEQ)
@@ -78,12 +77,6 @@ After finishing each task the difficuly level of the given task was asked.
 ## Run the Tests
 The tasks were read by the facilitator to the participant, and repeated when the participant asked them.
 During the usability tests, we captured screenshots in the moments were necessary while the meeting was recorded. 
-
-
-'![]()'
-***Task 1**: *  
-<br/>
-
 
 
 ## Results and List of Changes
