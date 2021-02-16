@@ -60,7 +60,7 @@ Recruiting is conducted orally, with a brief list of questions to verify that th
 
 ### Post-Task Questionnaire: Single Ease Question (SEQ)
 
-After finishing each task the difficuly level of the given task was asked.
+After finishing each task the difficulty level of the given task was asked.
 
 1. very difficult 2. 3. 4. 5. 6. 7.very easy
 
@@ -191,54 +191,52 @@ The scores are all above 88.75, meaning that out interface can be considered to 
 
 ### Post-test considerations
 
-We received positive feedback from all the users, mainly because they perceived the system as fast to learn and use, and similar to other existing apps.
-
 ### Test 1 Findings
 
-| Task | Feedback                                                                   |
-| ---- | -------------------------------------------------------------------------- |
-| T1   | Complete task with confusion, need guidance to reach the starting activity |
-| T4   | User does not know the popularity is based on what.                        |
-| T6   | After leave group redirect back to the group page                          |
+| Task | Feedback                                                                        |
+| ---- | ------------------------------------------------------------------------------- |
+| T1   | The complete task with confusion, need guidance to reach the starting activity. |
+| T4   | The user does not know the popularity is based on what.                         |
+| T6   | After leaving, the group redirect back to the group page                        |
 
 ### Test 2 Findings
 
-| Task | Feedback                                                                    |
-| ---- | --------------------------------------------------------------------------- |
-| T1   | Completed a partial task; first part entirely, some issues in feedback form |
-| T4   | Confusing for the icon listed in each group.                                |
-| T7   | User does not use search box for searching                                  |
+| Task | Feedback                                                                         |
+| ---- | -------------------------------------------------------------------------------- |
+| T1   | Completed a partial task; first part entirely, some issues in the feedback form. |
+| T4   | Confusing about the icon listed in each group.                                   |
+| T7   | The user does not use a search box for searching                                 |
 
 ### Test 3 Findings
 
 | Task | Feedback                                                                                                    |
 | ---- | ----------------------------------------------------------------------------------------------------------- |
 | T1   | Confused about using this part, feedback for after the activity is vague                                    |
-| T3   | User does not find the + button for creating group                                                          |
+| T3   | User does not find the PLUS button for creating group                                                       |
 | T4   | Confusing Icons: User does not know what is the popularity is based on, User does not use box for searching |
 | T7   | User does not use box for searching                                                                         |
 
 ### Test 4 Findings
 
-| Task | Feedback                                                    |
-| ---- | ----------------------------------------------------------- |
-| T1   | Timer for running should count when switching between pages |
-| T5   | The vertical column of activity chart is unclear            |
+| Task | Feedback                                                     |
+| ---- | ------------------------------------------------------------ |
+| T1   | Timer for running should count when switching between pages. |
+| T5   | The vertical column of the activity chart is unclear.        |
 
 ### Test 5 Findings
 
-| Task | Feedback                           |
-| ---- | ---------------------------------- |
-| T1   | Some issues for the feedback part  |
-| T4   | User could not find the sort box   |
-| T7   | User could not find the search box |
+| Task | Feedback                                |
+| ---- | --------------------------------------- |
+| T1   | Some issues for the feedback part.      |
+| T4   | The user could not find the sort box.   |
+| T7   | The user could not find the search box. |
 
 ### Test 6 Findings
 
-| Task | Feedback                                                            |
-| ---- | ------------------------------------------------------------------- |
-| T1   | For the first part there were some issues for using map in web mode |
-| T4   | Could not find the sort box                                         |
+| Task | Feedback                                                                   |
+| ---- | -------------------------------------------------------------------------- |
+| T1   | For the first part, there were some issues with using the map in web mode. |
+| T4   | Could not find the sort box.                                               |
 
 ### List of Changes
 
