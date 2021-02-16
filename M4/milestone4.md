@@ -87,11 +87,44 @@ After finishing each task the difficuly level of the given task was asked.
 The tasks were read by the facilitator to the participant, and repeated when the participant asked them.
 During the usability tests, we captured screenshots in the moments were necessary while the meeting was recorded.
 
+<br/>
+
+<div align="center">
+  <img src="images/6.jpg" width="350" alt="accessibility text">
+</div>
+  <p style="text-align:justify">
+  <b> Task 1:</b> After running activity for giving the feedback, the user found this page vague at the first glance 
+</p>
+<br/>
+<div align="center">
+  <img src="images/7.jpg" width="350" alt="accessibility text">
+</div>
+  <p style="text-align:justify">
+  <b> Task 3:</b> For adding participant, the user could not find any user to add
+</p>
+<br/>
+
+<div align="center">
+  <img src="images/1.jpg" alt="accessibility text">
+</div>
+  <p style="text-align:justify">
+  <b> Task 4:</b> The user could not find the search and filtering the groups 
+</p>
+<br/>
+
+<div align="center">
+  <img src="images/4.jpg" width="350" alt="accessibility text">
+</div>
+  <p style="text-align:justify">
+  <b> Task 7:</b> The user could not understand the same city filtering
+</p>
+<br/>
+
 <div align="center">
   <img src="images/T7.png" alt="accessibility text">
 </div>
   <p style="text-align:justify">
-  <b> *Task 7*:</b> The user has confusion about the details of the group, why the date,time and location for running is always same*   
+  <b> Task 7:</b> The user has confusion about the details of the group, why the date,time and location for running is always same   
 </p>
 
 <br/>
@@ -100,42 +133,8 @@ During the usability tests, we captured screenshots in the moments were necessar
   <img src="images/T5.png" alt="accessibility text">
 </div>
   <p style="text-align:justify">
-  <b> *Task 2*:</b> The user check his running activity, he does not know what is the vertical column of chart is*  
+  <b> Task 2:</b> The user check his running activity, he does not know what is the vertical column of chart is  
 </p>
-
-<br/>
-
-<div align="center">
-  <img src="images/1.jpg" alt="accessibility text">
-</div>
-  <p style="text-align:justify">
-  <b> *Task 4*:</b> The user could not find the search and filtering the groups* 
-</p>
-<br/>
-
-<div align="center">
-  <img src="images/7.jpg" width="350" alt="accessibility text">
-</div>
-  <p style="text-align:justify">
-  <b> *Task 3*:</b> For adding participant, the user could not find any user to add*
-</p>
-<br/>
-
-<div align="center">
-  <img src="images/4.jpg" width="350" alt="accessibility text">
-</div>
-  <p style="text-align:justify">
-  <b> *Task 7*:</b> The user could not understand the same city filtering*
-</p>
-<br/>
-
-<div align="center">
-  <img src="images/6.jpg" width="350" alt="accessibility text">
-</div>
-  <p style="text-align:justify">
-  <b> *Task 1*:</b> After running activity for giving the feedback, the user found this page vague at the first glance* 
-</p>
-<br/>
 
 ## Results and List of Changes
 
