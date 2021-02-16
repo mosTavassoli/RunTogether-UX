@@ -79,28 +79,57 @@ After finishing each task the difficuly level of the given task was asked.
 The tasks were read by the facilitator to the participant, and repeated when the participant asked them.
 During the usability tests, we captured screenshots in the moments were necessary while the meeting was recorded.
 
-'![](images/T7.png)'
-**\*Task 7**: The user has confusion about the details of the group, why the date,time and location for running is always same \*  
+
+<div align="center">
+  <img src="images/T7.png" width="350" alt="accessibility text">
+</div>
+  <p style="text-align:justify">
+  <b> *Task 7*:</b> The user has confusion about the details of the group, why the date,time and location for running is always same*   
+</p>
+
 <br/>
 
-'![](images/T5.png)'
-**\*Task 2**: The user check his running activity, he does not know what is the vertical column of chart is\*  
+
+<div align="center">
+  <img src="images/T5.png" width="350" alt="accessibility text">
+</div>
+  <p style="text-align:justify">
+  <b> *Task 2*:</b> The user check his running activity, he does not know what is the vertical column of chart is*  
+</p>
+
 <br/>
 
-'![](images/1.jpg)'
-**\*Task 4**: The user could not find the search and filtering the groups \*  
+
+<div align="center">
+  <img src="images/1.jpg" width="350" alt="accessibility text">
+</div>
+  <p style="text-align:justify">
+  <b> *Task 4*:</b> The user could not find the search and filtering the groups* 
+</p>
 <br/>
 
-'![](images/7.jpg)'
-**\*Task 3**: For adding participant, the user could not find any user to add\*  
+<div align="center">
+  <img src="images/7.jpg" width="350" alt="accessibility text">
+</div>
+  <p style="text-align:justify">
+  <b> *Task 3*:</b> For adding participant, the user could not find any user to add*
+</p>
 <br/>
 
-'![](images/4.jpg)'
-**\*Task 7**: The user could not understand the same city filtering\*  
+<div align="center">
+  <img src="images/4.jpg" width="350" alt="accessibility text">
+</div>
+  <p style="text-align:justify">
+  <b> *Task 7*:</b> The user could not understand the same city filtering*
+</p>
 <br/>
 
-'![](images/6.jpg)'
-**\*Task 1**: After running activity for giving the feedback, the user found this page vague at the first glance \*  
+<div align="center">
+  <img src="images/6.jpg" width="350" alt="accessibility text">
+</div>
+  <p style="text-align:justify">
+  <b> *Task 1*:</b> After running activity for giving the feedback, the user found this page vague at the first glance* 
+</p>
 <br/>
 
 ## Results and List of Changes
@@ -117,11 +146,6 @@ After all the heuristic evaluations, we gathered all the data in order to analyz
 | 6      | 6                            | 0                 | 1                     | 1.0             |
 | 7      | 5                            | 1                 | 2                     | 0.75            |
 | 8      | 6                            | 0                 | 0                     | 1.0             |
-
-
-Analyzing the measures computed on the tasks, we discovered that some tasks are more difficult than others to the user.
-Tasks with an Error-Free Rate > 0.5 can be consider easy for the user to do. The only most difficult Task was T4 and T7 related to the finding and filtering the groups. 
-
 
 ### SUS Results
 
