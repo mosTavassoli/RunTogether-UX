@@ -79,28 +79,57 @@ After finishing each task the difficuly level of the given task was asked.
 The tasks were read by the facilitator to the participant, and repeated when the participant asked them.
 During the usability tests, we captured screenshots in the moments were necessary while the meeting was recorded.
 
-'![](images/T7.png)'
-**\*Task 7**: The user has confusion about the details of the group, why the date,time and location for running is always same \*  
+
+<div align="center">
+  <img src="images/T7.png" alt="accessibility text">
+</div>
+  <p style="text-align:justify">
+  <b> *Task 7*:</b> The user has confusion about the details of the group, why the date,time and location for running is always same*   
+</p>
+
 <br/>
 
-'![](images/T5.png)'
-**\*Task 2**: The user check his running activity, he does not know what is the vertical column of chart is\*  
+
+<div align="center">
+  <img src="images/T5.png" alt="accessibility text">
+</div>
+  <p style="text-align:justify">
+  <b> *Task 2*:</b> The user check his running activity, he does not know what is the vertical column of chart is*  
+</p>
+
 <br/>
 
-'![](images/1.jpg)'
-**\*Task 4**: The user could not find the search and filtering the groups \*  
+
+<div align="center">
+  <img src="images/1.jpg" alt="accessibility text">
+</div>
+  <p style="text-align:justify">
+  <b> *Task 4*:</b> The user could not find the search and filtering the groups* 
+</p>
 <br/>
 
-'![](images/7.jpg)'
-**\*Task 3**: For adding participant, the user could not find any user to add\*  
+<div align="center">
+  <img src="images/7.jpg" width="350" alt="accessibility text">
+</div>
+  <p style="text-align:justify">
+  <b> *Task 3*:</b> For adding participant, the user could not find any user to add*
+</p>
 <br/>
 
-'![](images/4.jpg)'
-**\*Task 7**: The user could not understand the same city filtering\*  
+<div align="center">
+  <img src="images/4.jpg" width="350" alt="accessibility text">
+</div>
+  <p style="text-align:justify">
+  <b> *Task 7*:</b> The user could not understand the same city filtering*
+</p>
 <br/>
 
-'![](images/6.jpg)'
-**\*Task 1**: After running activity for giving the feedback, the user found this page vague at the first glance \*  
+<div align="center">
+  <img src="images/6.jpg" width="350" alt="accessibility text">
+</div>
+  <p style="text-align:justify">
+  <b> *Task 1*:</b> After running activity for giving the feedback, the user found this page vague at the first glance* 
+</p>
 <br/>
 
 ## Results and List of Changes
@@ -109,13 +138,13 @@ After all the heuristic evaluations, we gathered all the data in order to analyz
 
 | Task # | # Successful Task Completion | # Critical Errors | # Non-Critical Errors | Error-Free Rate |
 | ------ | ---------------------------- | ----------------- | --------------------- | --------------- |
-| 1      | 6                            | 0                 | 2                     | 0.75            |
+| 1      | 6                            | 0                 | 2                     | 0.66            |
 | 2      | 6                            | 0                 | 0                     | 1.0             |
-| 3      | 6                            | 0                 | 1                     | 1.0             |
-| 4      | 4                            | 2                 | 3                     | 0.5             |
-| 5      | 6                            | 0                 | 1                     | 1.0             |
-| 6      | 6                            | 0                 | 1                     | 1.0             |
-| 7      | 5                            | 1                 | 2                     | 0.75            |
+| 3      | 6                            | 0                 | 1                     | 0.83            |
+| 4      | 4                            | 2                 | 3                     | 0.0             |
+| 5      | 6                            | 0                 | 1                     | 0.83            |
+| 6      | 6                            | 0                 | 1                     | 0.83            |
+| 7      | 5                            | 1                 | 2                     | 0.4             |
 | 8      | 6                            | 0                 | 0                     | 1.0             |
 
 ### SUS Results
