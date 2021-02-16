@@ -37,16 +37,13 @@ Recruiting is conducted orally, with a brief list of questions to verify that th
   One facilitator and one notetakers (all remotely).  
   The full script is available [here.](./docs/Script.md)
 
-- **Methodologies:** Think-aloud for tasks 1 to 5
+- **Methodologies:** Think-aloud for tasks 1 to 8
 
 * **Measures (for each task):**
   - Successful Task Completion
   - Critical Errors
   - Non-Critical Errors
   - Error-Free Rate
-
-- **Measures (for each task):**
-  - Successful Task Completion (0-1)
 
 ### Tasks
 
