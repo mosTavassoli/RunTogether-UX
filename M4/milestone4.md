@@ -185,10 +185,13 @@ After all the heuristic evaluations, we gathered all the data in order to analyz
 
 ### List of Changes
 
-According the findings, we came to these changes.
+We would like to address some issues found during the tests by impelneting the following modificarions:
 
-| Task | The Finding                                                                                                                     | Potential Change                                                                                                                                                                                                                                                                                  |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| T1   | For most of the users the form after running activity was vague, we redesign this form and put proper space between the fields. |
-| T4   | User could not find the search and filter box for searching the groups                                                          | We changed the UI of the group page for seacrging the groups,The search and filter inputs moved to the top of the page and we divided the page to two sections with the border. After that we did another test (4) and we observed user has not any problem for finding the search and filter box |
-| T5   | The KM added to the chart                                                                                                       |
+- Adding proper spaces between the elements in the "Feedback Form"; appearing after the run activity to make it much clearer.
+- Add icon in "Add Participants" field in the Creating Group page and adding "No Options" if there are no participants related to the character users searched, led to confuse users doing this activity.
+- Add "measure units" on the Chart, and the numbers in the lower parts on the "My Activity". Change the design of the chart (color, add functionality by clicking each point on charts, add more spaces)
+- Change the design of the Group Page entirely, put the "search-box", and "sort by" on the top of the page with the proper Icon.
+- Change the text in the "Sort By" combo Box from the "same city" to "Location", and link its result with the search name text filed.
+- Move the information of the running activity of the Group from its page to the FEED page.
+
+The new version of the prototype was designed based on all of the above-mentioned changes.
