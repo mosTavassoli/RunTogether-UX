@@ -55,7 +55,7 @@ Recruiting is conducted orally, with a brief list of questions to verify that th
 | T1   | Complete one running activity, send your feedback | Think-aloud | Start a Run activity and finish it, finally fill the provided form as feedback and send it.                                      | 10 min            |
 | T2   | View the beginner training plan                   | Think-aloud | Select the beginner level and related plan, review the weekly plan and read tips for warming up                                  | 4 min             |
 | T3   | Create a running group and add one participant    | Think-aloud | Find the "PLUS" button and fill the provided form (with mandatory fields) and add one participant to the group.                  | 7 min             |
-| T4   | Find the most popular running group to join       | Think-aloud | Using the provided "Sort By" and select the most popular group, move to Group details, and click on the JOIN button.             | 7 min             |
+| T4   | Find the most popular running group to join       | Think-aloud | Using the provided "Sort By" box and select the most popular group, move to Group details, and click on the JOIN button.         | 7 min             |
 | T5   | Check your history of running                     | Think-aloud | After the running activity which is done in T1, check the running activity in the CHART and review the history (Weekly/Monthly). | 5 min             |
 | T6   | Leave from one of your joined group               | Think-aloud | Look at the joined group list and select one of them, once the group page opens, click on the remove button.                     | 3 min             |
 | T7   | Find the MILANO group; check its information      | Think-aloud | Use the provided search box in Gropu Menu and write the "MILANO" word and check the Group Details on its pages.                  | 5 min             |
@@ -66,6 +66,17 @@ Recruiting is conducted orally, with a brief list of questions to verify that th
 After finishing each task the difficuly level of the given task was asked.
 
 1. very difficult 2. 3. 4. 5. 6. 7.very easy
+
+| SEQ question | User 1 | User 2 | User 3 | User 4 | User 5 | User 6 | Average Difficulty |
+| ------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------------------ |
+| Task 1       | 3      | 5      | 5      | 6      | 5      | 6      | 5                  |
+| Task 2       | 6      | 7      | 7      | 6      | 7      | 7      | 6.66               |
+| Task 3       | 6      | 6      | 5      | 6      | 6      | 6      | 5.83               |
+| Task 4       | 4      | 5      | 6      | 6      | 4      | 4      | 4.83               |
+| Task 5       | 6      | 7      | 7      | 6      | 7      | 7      | 6.66               |
+| Task 6       | 6      | 6      | 7      | 6      | 7      | 7      | 6.5                |
+| Task 7       | 6      | 5      | 6      | 6      | 5      | 4      | 5.33               |
+| Task 8       | 6      | 7      | 7      | 6      | 7      | 7      | 6.66               |
 
 ### Post-test oral questions
 
@@ -161,8 +172,8 @@ For T6, after leaving the user could not redirect back the group page.
 ### Error-Free Rate
 
 Analyzing the measures computed on the tasks, we discovered that some tasks are more difficult than others to the user.
-Tasks with an Error-Free Rate > 0.75 (T1, T2, T3, T5, T6, T8) can be consider easy for the user to do.
-The tasks with Error-Free Rate = 0.5 are difficult Tasks (T4, T7).
+Tasks with an Error-Free Rate > 0.66 (T1, T2, T3, T5, T6, T8) can be consider easy for the user to do.
+The tasks with Error-Free Rate >= 0.4 are difficult Tasks (T4, T7).
 
 ### SUS Results
 
@@ -179,6 +190,8 @@ The tasks with Error-Free Rate = 0.5 are difficult Tasks (T4, T7).
 | 9            | 4      | 4      | 5      | 5      | 5      | 5      |
 | 10           | 1      | 1      | 1      | 1      | 1      | 1      |
 | **TOTAL**    | 80     | 82.5   | 95     | 97.5   | 85     | 92.5   |
+
+The scores are all above 88.75, meaning that out interface can be considered to be above average.
 
 ### Post-test considerations
 
