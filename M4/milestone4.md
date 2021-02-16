@@ -52,7 +52,7 @@ The full script is available [here.](./docs/Script.md)
 ### Tasks  
 
 | Task | Task Description | Methodology | Success criteria| 
-| ------ | ----------- |----------- |----------- |----------- |
+| ------ | ----------- |----------- |----------- |
 | T1   |Complete one running activity, send your feedback  |Think-aloud|Successful Task Completion|
 | T2   |View the beginner training plan  |Think-aloud|Successful Task Completion|
 | T3   |Create a running group and add one participant |Think-aloud|Successful Task Completion|
