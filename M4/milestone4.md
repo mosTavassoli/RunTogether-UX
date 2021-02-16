@@ -1,15 +1,87 @@
-# Milestone 4: Usability Testing - [Run Together]
+# Milestone 4: Usability Testing - Run Together
 
 _ISTRUCTIONS_: Fill this template by writing under each title, according to the instructions reported in `[]`. When you have done, remove this line, and put the file in your private group repository on GitHub, under a `M4` folder.
 
 ## Overview and Script
 [Describe here the evaluation you conducted. Add the link to the PDF/Markdown document that represents the usability testing protocol.]
 
-### Overview 
-The usability testing has been done through each pair of team members, one as Facilitator for introducing the application and giving the tasks, and another one as Note-takers take notes of the participant’s behavior, comments, errors and completion (success or failure) of each task. All the process of the usability testing has been completed according to this document. 
+### Preparation and setup 
+The usability testing has been done through each pair of team members, one as Facilitator for introducing the application and giving the tasks, and another one as Note-takers take notes of the participant’s behavior, comments, errors and completion of each task. 
+The application runned on the faciliator's PC and through Zoom the permission for working with the application was given to the participant and the meeting was recording. The notetaker was connected to the meeting and observed everything. 
+
 
 https://docs.google.com/document/d/1AGQGMVq5sMoOScChSwV_q5StmOa6UngURsYtSEhDSBs/edit?usp=sharing
 
+
+### Participants
++ Target population: Amateur Runners
++ Age range: 18-70
++ Basic skills in using a smartphone
++ Expertise with our app: no, never seen it 
++ Usage of running apps: yes at least once a day
++ Doing running activity: yes at least once in a month 
++ At least basic knowledge of English
+
+
+
+### Equipment
++ Computer and webcam (for remote call)
++ Internet connection
++ Pen and paper (notetakers)
+
+
+### Artifacts
++ [Informed consent form]
++ Pre-test questionnaire
++ Post-Task Questionnaire: Single Ease Question (SEQ)
++ Post-test questionnaire (SUS)
+
+Recruiting is conducted orally, with a brief list of questions to verify that the potential participant respects the constraints.
+
+
+### Execution
++ **Roles:**  
+One facilitator and two notetakers (all remotely).  
+The full script is available [in this document.](./text_documents/script_english.md)
+
++ **Methodologies:** Think-aloud for tasks 1 to 5  
+
++ **Post-test debriefing with participant:** SUS questionnaire, oral questions about task execution and general impressions  
+
++ **Measures (for each task):**
+	+ Successful Task Completion
+
+
+
+### Tasks  
+
+| Task | Task Description | Methodology | Success criteria|
+| ------ | ----------- |
+| T1   |Complete one running activity, send your feedback  |||
+| T2   |View the beginner training plan  |||
+| T3   |Create a running group and add one participant |||
+| T4   |Find the most popular running group to join |||
+| T5   |Check your history of running |||
+| T6   |Leave from one of your joined group |||
+| T7   |Find the MILANO group; check its information |||
+| T8   |Check your created group |||
+
+
+### Post-test oral questions  
++ In general, how was your experience with our application?
++ During the test, **\<something noticed by the notetakers\>**. Can you tell us about it?
++ According to your opinion, which are the best and the worst things about this application?
++ Do you have any additional comment?
+
+
+## Run the Tests
+The tasks were read by the facilitator to the participant, and repeated when the participant asked them.
+During the usability tests, we captured screenshots in the moments were necessary while the meeting was recorded. 
+
+
+'![]()'
+***Task 1**: *  
+<br/>
 
 
 
@@ -17,20 +89,40 @@ https://docs.google.com/document/d/1AGQGMVq5sMoOScChSwV_q5StmOa6UngURsYtSEhDSBs/
 [Report the results from the evalation. In particular, summarize the results and findings (along with the most significant photos/sketches with caption), any relevant pain points and/or successful tasks, along with a brief discussion about what you discovered and learned about your prototype.
 Additionally, write a non-trivial list of potential changes that your team would like to implement to fix the main issues emerged from the usability test. Justify each change by explaining which piece of feedback generates it.]
 
+After all the heuristic evaluations, we gathered all the data in order to analyze some of the iussues present in the system.
 
-### Tasks  
 
-| Task | Task Description |
-| ------ | ----------- |
-| T1   |Complete one running activity, send your feedback  |
-| T2   |View the beginner training plan  |
-| T3   |Create a running group and add one participant |
-| T4   |Find the most popular running group to join |
-| T5   |Check your history of running |
-| T6   |Leave from one of your joined group |
-| T7   |Find the MILANO group; check its information |
-| T8   |Check your created group |
+| Task # | # Successful Task Completion[0-1] | # Critical Errors | # Non-Critical Errors | Error-Free Rate |
+| ------ | ---------------------------- | ----------------- | --------------------- | --------------- |
+| 1      |                             | 0                 | 0                     |              |
+| 2      |                             | 0                 | 0                     |             |
+| 3      |                             | 0                 | 0                     |              |
+| 4      |                             | 0                 | 0                     |              |
+| 5      |                             | 0                 | 0                     |              |
+| 6      |                             | 0                 | 0                     |              |
+| 7      |                             | 0                 | 0                    |              |
+| 8      |                             | 0                 | 0                     |              |
 
+
+
+
+### SUS Results
+
+| SUS question | User 1 | User 2  | User 3   | User 4 | User 5 | User 6 |
+| ------------ | ------ | ------- | -------- | ------ | ------ | ------ |
+| 1            |       |       |         |      |||
+| 2            |       |        |         |       |||
+| 3            |       |        |         |       |||
+| 4            |       |        |         |       |||
+| 5            |       |        |         |       |||
+| 6            |       |        |         |       |||
+| 7            |       |        |         |       |||
+| 8            |       |        |         |       |||
+
+| **TOTAL**    | **** | **** | **** | **** |
+
+
+### Post-test considerations
 
 
 ### Test 1 Findings  
@@ -87,7 +179,7 @@ Additionally, write a non-trivial list of potential changes that your team would
 | T4   |Could not find the sort box|
 
 
-### Potential Changes
+### List of Changes
 
 According the findings, we came to this changes.
 
