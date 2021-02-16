@@ -1,4 +1,4 @@
-## Scrip
+## Script
 
 Hi, (name of the participant). I am (name of the facilitator) and today we are going to check our application.
 
