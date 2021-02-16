@@ -118,6 +118,11 @@ After all the heuristic evaluations, we gathered all the data in order to analyz
 | 7      | 5                            | 1                 | 2                     | 0.75            |
 | 8      | 6                            | 0                 | 0                     | 1.0             |
 
+
+Analyzing the measures computed on the tasks, we discovered that some tasks are more difficult than others to the user.
+Tasks with an Error-Free Rate > 0.5 can be consider easy for the user to do. The only most difficult Task was T4 and T7 related to the finding and filtering the groups. 
+
+
 ### SUS Results
 
 | SUS question | User 1 | User 2 | User 3 | User 4 | User 5 | User 6 |
