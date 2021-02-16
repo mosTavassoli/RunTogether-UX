@@ -167,7 +167,7 @@ For T6, after leaving the user could not redirect back to the group page.
 ### Error-Free Rate
 
 Analyzing the measures computed on the tasks, we discovered that some tasks are more difficult than others to the user.
-Tasks with an Error-Free Rate > 0.66 (T1, T2, T3, T5, T6, T8) can be considered easy for the user to do.
+Tasks with an Error-Free Rate >= 0.66 (T1, T2, T3, T5, T6, T8) can be considered easy for the user to do.
 The tasks with Error-Free Rate =< 0.4 are difficult Tasks (T4, T7).
 
 ### SUS Results
