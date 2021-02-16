@@ -138,13 +138,13 @@ After all the heuristic evaluations, we gathered all the data in order to analyz
 
 | Task # | # Successful Task Completion | # Critical Errors | # Non-Critical Errors | Error-Free Rate |
 | ------ | ---------------------------- | ----------------- | --------------------- | --------------- |
-| 1      | 6                            | 0                 | 2                     | 0.75            |
+| 1      | 6                            | 0                 | 2                     | 0.66            |
 | 2      | 6                            | 0                 | 0                     | 1.0             |
-| 3      | 6                            | 0                 | 1                     | 1.0             |
-| 4      | 4                            | 2                 | 3                     | 0.5             |
-| 5      | 6                            | 0                 | 1                     | 1.0             |
-| 6      | 6                            | 0                 | 1                     | 1.0             |
-| 7      | 5                            | 1                 | 2                     | 0.75            |
+| 3      | 6                            | 0                 | 1                     | 0.83            |
+| 4      | 4                            | 2                 | 3                     | 0.0             |
+| 5      | 6                            | 0                 | 1                     | 0.83            |
+| 6      | 6                            | 0                 | 1                     | 0.83            |
+| 7      | 5                            | 1                 | 2                     | 0.4             |
 | 8      | 6                            | 0                 | 0                     | 1.0             |
 
 ### SUS Results
