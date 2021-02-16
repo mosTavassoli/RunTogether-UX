@@ -41,7 +41,7 @@ Recruiting is conducted orally, with a brief list of questions to verify that th
 ### Execution
 + **Roles:**  
 One facilitator and two notetakers (all remotely).  
-The full script is available [in this document.](./text_documents/script_english.md)
+The full script is available [in this document.](./docs/Script.md)
 
 + **Methodologies:** Think-aloud for tasks 1 to 5  
 
