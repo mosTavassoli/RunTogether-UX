@@ -33,7 +33,7 @@ https://docs.google.com/document/d/1AGQGMVq5sMoOScChSwV_q5StmOa6UngURsYtSEhDSBs/
 ### Artifacts
 + [Informed consent form](./docs/Informed consent form.pdf)
 + Post-Task Questionnaire: Single Ease Question (SEQ)
-+ Post-test questionnaire (SUS)
++ [Post-test questionnaire (SUS)](./docs/SUS.pdf)
 
 Recruiting is conducted orally, with a brief list of questions to verify that the potential participant respects the constraints.
 
