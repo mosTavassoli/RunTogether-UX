@@ -78,6 +78,30 @@ After finishing each task the difficuly level of the given task was asked.
 The tasks were read by the facilitator to the participant, and repeated when the participant asked them.
 During the usability tests, we captured screenshots in the moments were necessary while the meeting was recorded. 
 
+'![](images/T7.png)'
+***Task 7**: The user has confusion about the details of the group, why the date,time and location for running is always same *  
+<br/>
+
+'![](images/T5.png)'
+***Task 2**: The user check his running activity, he does not know what is the vertical column of chart is*  
+<br/>
+
+'![](images/1.jpg)'
+***Task 4**: The user could not find the search and filtering the groups  *  
+<br/>
+
+'![](images/7.jpg)'
+***Task 3**: For adding participant, the user could not find any user to add*  
+<br/>
+
+'![](images/4.jpg)'
+***Task 7**: The user could not understand the same city filtering*  
+<br/>
+
+'![](images/6.jpg)'
+***Task 1**: After running activity for giving the feedback, the user found this page vague at the first glance  *  
+<br/>
+
 
 
 ## Results and List of Changes
@@ -87,7 +111,7 @@ After all the heuristic evaluations, we gathered all the data in order to analyz
 
 | Task # | # Successful Task Completion[0-1] | # Critical Errors | # Non-Critical Errors | Error-Free Rate |
 | ------ | ---------------------------- | ----------------- | --------------------- | --------------- |
-| 1      |                             | 0                 | 0                     |              |
+| 1      |            1                 | 0                 | 0                     |              |
 | 2      |                             | 0                 | 0                     |             |
 | 3      |                            | 0                 | 0                     |              |
 | 4      |                             | 0                 | 0                     |              |
