@@ -67,7 +67,7 @@ Users can create a group and add the participant to their contact lists; the mai
 
 <div>
 <img src="images/CreateGroup.png" width="350" alt="CreateGroup">
-<img src="images/participant.png" width="325" alt="Add Participant">
+<img src="images/participant.png" height="530" width="355" alt="Add Participant">
 </div>
 
 ### Profile Screen:
