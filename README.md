@@ -47,22 +47,28 @@ The weekly training plan appears on this screen with some tips on top of it.
 
 The runners would be able to start running in the Start screen; after finishing this activity, they can fill the provided form to track their progress as a whole.
 
+<div>
 <img src="images/Run.png" width="350" alt="CreateGroup">
 <img src="images/Activity.png" width="350" alt="Add Participant">
+</div>
 
 ### Group Lists and Search Screen:
 
 In the Group Lists screen, users would see all available and joined groups separately, concerning finding a suitable group with ease, the "Search Name" and "Sort By" boxes provided.
 
+<div>
 <img src="images/Group.png" width="350" alt="CreateGroup">
 <img src="images/GroupList.png" width="350" alt="Add Participant">
+</div>
 
 ### Create Group Screen:
 
 Users can create a group and add the participant to their contact lists; the main point is that users would see the added participant, which covers the #6 of Heuristics rules(Recognition rather than recall).
 
+<div>
 <img src="images/CreateGroup.png" width="350" alt="CreateGroup">
 <img src="images/participant.png" width="325" alt="Add Participant">
+</div>
 
 ### Profile Screen:
 
