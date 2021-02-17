@@ -32,8 +32,10 @@ On this screen, users have the chance to select the on option based on its level
 
 On this screen, the plans offer users based on their given level, and they can see the details by moving to its page by clicking the "VIEW PLAN" link and the related groups.
 
+<div>
 <img src="images/plan.png" width="350" alt="Plan Screen">
 <img src="images/RelatedGroup.png" width="350" alt="Plan Screen">
+</div>
 
 ### Plan Details Screen:
 
