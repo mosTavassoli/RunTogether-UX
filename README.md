@@ -22,11 +22,14 @@ On this page, the user receives the joined groups activity with details of it.
 
 <img src="images/feed.png" width="350" alt="Feed Screen">
 
-### Level Screen:
+### Level and Group Screen:
 
 On this screen, users have the chance to select the on option based on its level. At the start, as it is clear, only the beginner level is active.
 
+<div>
 <img src="images/level.png" width="350" alt="Level Screen">
+<img src="images/groupDetails.png" height="589" width="350" alt="Level Screen">
+</div>
 
 ### Plan Screen:
 
@@ -40,15 +43,15 @@ On this screen, the plans offer users based on their given level, and they can s
 ### Plan Details Screen:
 
 The weekly training plan appears on this screen with some tips on top of it.
-
 <img src="images/PlanDetails.png" width="350" alt="Plan Details">
+<img src="images/WeeklyPlan.png" width="350" alt="Plan Details">
 
 ### Run and Activity Screen:
 
 The runners would be able to start running in the Start screen; after finishing this activity, they can fill the provided form to track their progress as a whole.
 
 <div>
-<img src="images/Run.png" width="350" alt="CreateGroup">
+<img src="images/Run.png"   height="589" width="350" alt="CreateGroup">
 <img src="images/Activity.png" width="350" alt="Add Participant">
 </div>
 
